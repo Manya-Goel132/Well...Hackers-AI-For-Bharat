@@ -1,0 +1,662 @@
+Downloadedfromhttp://journals.lww.com/indianjpsychiatrybyBhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws=on04/22/2022
+CLINICAL PRACTICE GUIDELINES
+Clinical Practice Guidelines for Practice of Supportive Psychotherapy
+Sandeep Grover, Ajit Avasthi, Mukesh Jagiwala1
+Department of Psychiatry, Postgraduate Institute of Medical Education and Research, Chandigarh, 1Consultant Psychiatrist,
+Brain Psycho Clinic, Surat, Gujarat, India
+2202/22/40no=swtYBZKfnwtdXZQggba0y1CV3fC4lFSvT7iyRdO0D3i3DHrQlI/pQYnWA1XCwyCh0iMX4oHIsbgZEhLJk+a4NfQt1muoEz1vaKHPe5fMDhBybyrtaihcyspjnaidni/moc.wwl.slanruoj//:ptthmorfdedaolnwoD
+INTRODUCTION These clients were treated with support and suggestions,
+by less neutral therapist stand. However, this was not the
+Supportive psychotherapy (SP) is possibly the most preferred mode of therapy, for preferred client. However,
+ubiquitously used psychotherapy but is less researched. still, it was provided by trained psychotherapists and was
+Since the beginning, compared to other psychotherapies, guided by the psychodynamic understanding. In this era,
+it is considered as an “inferior” therapy and is referred Glover[1] argued that neutral stance was always required for
+to as “Cinderella of Psychotherapies,” which can be used in the therapy to work. It was said that therapy also worked
+multitude of clinical scenarios and settings. It can not only be if the therapist was enthusiastic, open and displayed
+used in outpatient setting but can be used inpatient setting, genuine positive regard to the client. This kind of non-
+emergency setup, and consultation-liaison psychiatry setting psychoanalysis treatment was understood as an equivalent
+including medical inpatient and outpatient setups. In terms of SP. In the era of psychoanalysis, everything, which was
+of client selection, SP is mostly used as an exclusion form not psychoanalysis, was understood as SP.[2] However, even
+of therapy, i.e., clients who are not suitable for other forms Freud considered that pure psychoanalysis should be mixed
+of therapy, they are considered for SP. Accordingly, it can with some direct suggestions. Over the years, evidence
+be understood as a kind of psychotherapy, which is flexible, emerged that SP is as effective as psychoanalysis and at
+can fit and address the needs of a wide range of clients times, superior to psychoanalysis.[3]
+with different diagnoses. Further, it is also often used as
+the initial form of therapy, before the therapist shifts to a In terms of training, initially, in the era of psychoanalysis,
+more structured and sophisticated form of psychotherapy. SP was considered to be a form of therapy, which required
+Accordingly, it can be said that the basic principles of SP are no formal or special training. It was thought that it has
+at the heart of all doctor–client relationships and all forms nothing beyond the common sense approach with therapist
+of psychotherapies. having attributes of good interpersonal skills and ability to
+empathize. However, over the years, understanding about
+SP has evolved or emerged from the time of psychoanalysis. SP has changed. Some of the authors equate it with eclectic
+During the time when psychoanalysis and psychodynamic psychotherapy, which uses principles of different school of
+psychotherapy were the predominant schools of thoughts.[2]
+psychotherapy, clinicians came across clients who were not
+analyzable due to various reasons, but required therapy. Over the years, although there have been many attempts
+to define SP, it is believed that there is lack of a good
+definition for SP and most of the textbooks either do
+Address for correspondence: Dr. Sandeep Grover,
+not define the term or ignore it entirely. In fact, it is
+Department of Psychiatry, Postgraduate Institute of
+Medical Education and Research, Chandigarh, India. most often defined by exclusion criteria. Bloch[4] defined
+E-mail: drsandeepg2002@yahoo.com SP as a form of psychotherapy that does not involve
+exploration of the unconscious, a focus on transference
+Received: 12th December, 2019, Accepted: 16th December, 2019,
+Publication: 17th January, 2020
+This is an open access journal, and articles are distributed under the terms of
+the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License,
+Access this article online which allows others to remix, tweak, and build upon the work non-commercially,
+Quick Response Code as long as appropriate credit is given and the new creations are licensed under
+Website: the identical terms.
+www.indianjpsychiatry.org For reprints contact: reprints@medknow.com
+How to cite this article: Grover S, Avasthi A, Jagiwala M. Clinical
+DOI:
+practice guidelines for practice of supportive psychotherapy.
+10.4103/psychiatry.IndianJPsychiatry_768_19
+Indian J Psychiatry 2020;62:S173-82.
+© 2020 Indian Journal of Psychiatry | Published by Wolters Kluwer - Medknow S173
+Grover, et al.: CPGs for supportive psychotherapy
+and an understanding by the client of their characteristic and in which interpretation and behavioral directions play
+defenses. Wallace[5] defined it as a therapy to augment the minor roles.
+clients adaptive capacity and to reaffiliate the client with
+others. Werman[6] defined it as a substitute treatment which In this background, the aim of this clinical practice framework
+supplies the client with those psychological elements which is to provide an understanding of the principles of SP. This
+are lacking or possessed insufficiently. Dewald[7] defined framework intends to outline the theoretical frameworks
+SP as a therapy that is generally aimed at symptom relief for SP, indications, strategies and tactics to be used as part
+and overt behavior change without emphasis on modifying of SP and techniques of SP. It is important to remember
+personality or resolving unconscious conflicts. Pinsker[8] that the strategies, tactics and techniques to be used would
+defined “SP as a body of techniques, or tactics, that function with vary from client to client and the treatment setting. There
+various theoretical orientations as a ‘shell program’ functions is no straight jacket recommendation for carrying out SP,
+with a computer’s operating system. A therapist’s operating and the therapists can choose the techniques to be used,
+system is the theoretical orientation that gives direction to his depending on the need of the client, the situation, and their
+or her interventions.” Recently, Winston et al.,[9] defined SP ease in using the same, in the framework of following the
+as a “dyadic treatment that uses direct measures to ameliorate basic principles of SP. Besides the techniques described, the
+symptoms and maintain, restore, or improve self-esteem, ego therapist can draw techniques from various other schools
+function, and adaptive skills. To accomplish these objectives, of thoughts, if they feel that, an eclectic mix of techniques
+treatment may involve examination of relationships, real or will help a client.
+transferential, and examination of both past and current patterns
+of emotional response or behavior.”As is evident from all these THEORETICAL FRAMEWORK FOR
+definition, the problem of defining SP is an outcome of SUPPORTIVE PSYCHOTHERAPY
+frame of reference, which is considered to define it. The
+frame of reference has varied from objective of treatment In contrast to insight oriented psychotherapy, there is
+to the techniques to be used. If one attempts to define lack of a specific clinical theory of SP. It is suggested that
+SP, from the perspective of aim of therapy, than it should practice of SP is based on the principles of self-psychology,
+be considered as a form of therapy aimed at maintenance some aspects of object relation theory, ego psychology,
+rather than restructuring. In terms of technique, SP is and the attachment theory. However, use of techniques
+based on reflection rather than interpretation or direction. from other school of thoughts is not contraindicated. It
+In terms of frequency of sessions, it is understood as a is not possible to discuss all these theoretical frameworks
+therapy, which can be carried out at a frequency of less than in details here. Interested readers can refer to other
+once a week, and in terms of client suitability, it is used documents discussing these in detail. We would briefly
+for clients who are deemed unsuitable for other terms of discuss these theoretical frameworks. Self-psychology
+psychotherapies. theory is based on concept of deficits and restoration.
+Central to this theory is the premise that in the treatment
+As SP is used for different kind of clients, its goals are situation a “good object” is provided to the client in the
+determined by the type of clients. If SP is considered for a person of the therapist who will be internalized, and this
+person, who has been otherwise functioning well, but has will mitigate or repair the deficits in the self-structure
+now become symptomatic due to overwhelming stress, then of the client, resulting from inadequate early parenting.
+the goal of SP is to restore the person to his/her previous Although Kohut is no way saw his treatment method as a
+level. However, if it is used for a client, who is not suitable type of SP, this aspect of his theory with its emphasis on
+for other forms of therapy, the goal of SP is palliative rather therapeutic relationship is germane to a clinical practice
+than radical, and no major life or personality changes are of SP. In terms of object relation theory, a good object
+intended. Indeed care is taken not to disrupt reasonable gradually replaces the bad object. Kohut conceived this as
+defenses, the generation of conflicts is avoided, and critical occurring through the therapist allowing the transference
+feedback to the client is kept to a minimum. to flower, by not interpreting the client’s aggression
+in the early phases of treatment and moving to more
+Another key issue to be understood while practicing SP is interpretive postures only when a good object has been
+to understand the difference between “being supportive” in internalized and replaced the degraded and deficient
+the therapy versus “SP.” This distinction has been compared self-object. All these elements can be seen as applicable
+with invisible foundation on which all buildings rest and to an understanding of how “SP” works. The object
+the external buttress that some, especially those in poor relation therapist Fairbain emphasized the importance of
+condition require. Support is an implicit component of all the “satisfactory transference situation,” which is again
+psychotherapies and comprises of the regularity, reliability, consistent with the view that fostering and maintaining
+attractiveness of the therapist toward the client, and the the positive transference is a crucial technical element in
+working alliance between them. Support became a specific at least the earlier phase of “SP.” Other object relation
+mode of therapy when these features occupy the foreground therapist suggested that the therapeutic effects are a
+S174 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Grover, et al.: CPGs for supportive psychotherapy
+consequence of ego development resuming in therapy that most clients will require supportive–expressive
+a result of the relationship with a new object. The ego psychotherapy.[9]
+development that may take place in therapy is not simply
+the internalization of interaction process between client INDICATIONS FOR SUPPORTIVE
+and therapist. Thus, the therapeutic action may be PSYCHOTHERAPY
+viewed as a resumption of growth and the completion of
+development during the process of SP. Ego psychology SP does not aim to change personality traits or defense
+is based on Freud’s tripartite structural model of mind mechanism but rather aims to stabilize them. Accordingly,
+in which the ego is a mediator between id-impulses, the it can be used in otherwise well-adjusted persons
+demand of reality and the strictures of the superego. The experiencing stressful situations which result in tension
+aim of psychotherapy, whether supportive or expressive, and distress, which is perceived as too much to be handled
+is to help the client make a better adjustment to reality. In by the coping abilities of the person. It is also used in clients
+expressive psychotherapy (EP), this is done by strengthening who are not suitable for other more sophisticated forms
+the ego. In contrast, SP accepts the ego more or less of therapies which require clients to focus on recognizing
+as it is and aims to improve adaption by modifying the their cognitive errors, carry out homework assignments or
+demands made upon the ego. The clients are encouraged tolerating high level of anxiety for interpretation of their
+to expose themselves to less stressful situations (external behavior and defense mechanisms. It can also be used as
+reality), to be less self-critical (super ego) and wherever an ego building measure, temporary expedient, in clients
+possible to repress instinctual demands. Attachment who lack curiosity, in clients who lack personal initiative
+theory provides a more relational and interpersonal basis but are interested in symptomatic change and in clients in
+for psychotherapy. As such, it readily offers a theoretical whom other form of psychotherapy cannot be carried out
+basis for the role of support in psychotherapy. Attachment due to feasibility issues [Table 1]. In terms of psychiatric
+theory suggests that there is a lifelong psychobiological disorders identified by nosological systems, it can be used
+need for proximity to attachment figures at time of stress, in any disorder, in any age group, and also in persons
+illness, and exhaustion. The regularity, punctuality, experiencing subsyndromal symptoms.
+reliability, and nonjudgmental acceptance of the therapist
+and therapeutic setting provide stability and support that EFFICACY/EFFECTIVENESS OF SUPPORTIVE
+may well be lacking in the rest of the client’s life. PSYCHOTHERAPY
+Accordingly, it can be said that SP aims at symptom Older studies which have evaluated the efficacy/effectiveness
+reduction, reduction of anxiety, enhances self-esteem, by of SP have found it useful for a variety of indications
+encouraging positive transference, focus on the conscious when compared with the wait listed controls. Various
+material, with avoidance of regression during the therapy meta-analyses support the efficacy/effectiveness of SP
+and encouragement of use of mature defense mechanisms for management of depression.[11,12] A recent network
+and adaptive coping mechanisms. In terms of ingredient, meta-analysis also showed that SP was as good as other
+the common factors of psychotherapy, such as affective forms of psychotherapy for management of depression,
+arousal, providing holding environment, feeling understood with all interventions having moderate to large effect sizes
+by the therapist, being nonjudgmental, framework and the only exception to the relative efficacy was the fact
+of understanding, therapeutic alliance, optimism in that SP was relatively less efficacious then interpersonal
+improvement, and success experiences contribute to psychotherapy.[13] In terms of management of positive
+improvement.[2,10] SP basically involves respecting the symptoms of schizophrenia, SP has been shown to less
+clients with compassion, empathy, and commitment, efficacious than cognitive behavior therapy, but better than
+irrespective of the fact that therapist agrees or disagrees inactive control interventions.[14] A recent meta-analysis
+with the clients behaviors and thoughts. Basically, the also showed lack of significant difference between SP and
+supportive psychotherapist treats the client, way they want standard care in the management of schizophrenia in terms
+to be treated. of outcome measures such as relapse, hospitalization,
+and general functioning. However, the authors also
+Another important aspect to understand is the spectrum acknowledged that currently, the data which are available
+of psychotherapy, which is considered to extend from are insufficient.[15]
+SP to EP, with supportive–expressive and expressive–
+SP in-between these 2 extremes. Clients who are most ASSESSMENT FOR SUPPORTIVE
+impaired are usually the candidates for SP, whereas those PSYCHOTHERAPY
+who are least impaired are considered for EP. Moderately
+impaired clients, who form the major bulk of the clinical Comprehensive assessment is integral for any type of
+load, are usually the candidates for supportive–expressive psychotherapy [Table 2 and Figure 1]. As SP is usually not the
+and expressive–SP. In clinical practice, it is suggested primary mode of psychotherapy, but a method of exclusion
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S175
+Grover, et al.: CPGs for supportive psychotherapy
+for other kind of psychotherapies, no emphasis is given Table 1: Indications for supportive psychotherapy
+for carrying out specific assessment for SP. However, this
+• Stressful circumstances: Such as bereavement, divorce, loss of job,
+approach is incorrect. At whatever stage of management, menopause, physical illness, and academic difficulties
+it is decided to carryout SP, a comprehensive assessment • Severely disturbed/poor ego strength: Those who are severely
+need to be carried out, focusing on the issues important handicapped, either emotionally and/or interpersonally because of
+chronic schizophrenia, a chronic affective disorder or some extreme form
+for carrying out the SP. It is generally recommended that
+of personally disorder. The therapist sees no prospect of fundamental
+the assessment session should last for at least an hour.
+improvement in these clients, but a continuing need exists to help them
+However, this can be extended to more than one session, achieve the best adaptation possible
+depending on the client’s clinical situation and the clinical • Ego building measure: It can be used to encourage commitment to more
+needs. At the end of the assessment, the therapist should reintegrative psychotherapeutic tasks
+• Temporary expedient: “SP” is also indicated as temporary expedient
+have clear understanding of the client’s current problems,
+during insight oriented therapy when anxiety becomes too strong for the
+interpersonal relationship issues, day to day functioning
+coping capacities
+and psychological functioning. The assessment need not be • Lack of curiosity about self: “SP” is indicated for those who lack
+limited to client’s current problems, but must also focus on curiosity about themselves and their psychological functioning
+client’s life in general. An important aspect of assessment is • Need for symptomatic change without any self-initiative: Clients
+whose interest is predominantly in symptomatic change and whose
+that it should itself be therapeutic for the client, which will
+capacity for self-initiating behavior is limited
+enhance the therapeutic alliance and encourage the client to
+• Feasibility issues for other form of therapies: Available resources
+continue the therapy. It is suggested that use of strategies preclude the required frequency or expenses of intensive psychotherapy
+such as clarification and confrontation in empathic manner SP – Supportive psychotherapy
+helps in proper assessment and building therapeutic
+alliance. However, use of these strategies should also take Table 2: Assessment for supportive psychotherapy
+into account the severity of client’s symptoms and the level
+• Take a proper history to evaluate the clients symptoms in terms of
+of impairment. During the assessment, initially the therapist duration, type, severity
+should focus on the presenting complaints of the clients, as • Rate the severity of symptoms and spectrum of symptoms by using
+these bring the client to the therapist and are the major appropriate scales
+• Evaluate for all the possible comorbidities
+concerns of the client. It is also important to understand
+• Evaluate the past history
+the current stressors, hassles and traumatic experiences in
+• Evaluate the personality of the client
+client’s life, which may be playing a role in manifestation of • Relationship capabilities: Relationship with parents, caretakers, other
+symptoms. After understanding the presenting complaints, family members, significant others
+the therapist should shift to the client’s history both in • Traumatic events in the lifetime
+• Have a basic understanding of clients current interpersonal relationships,
+terms of understanding the symptoms and the person.
+day-to-day functioning, and psychological structure
+This assessment should cover the symptoms, course of
+• Evaluate the client’s current and past experiences, responses, and feelings
+the symptoms, aggravating and relieving factors and • Current stressors, hassles, and traumatic experiences
+relationship issues since the early childhood to till date. It • Assess the wishes, needs, and feelings of the client towards important
+is also important to understand the traumatic experiences persons in their life
+• Evaluate the coping abilities, self‑esteem, ego functions, and adaptive
+such as separation, loss, physical health issues, mental
+skills - before the onset of symptoms and at present
+health issues in family members, migration, belief system
+• Predominant affect, control over the impulses, defenses
+of the family, educational history, sexual issues (sexual • Cognitive functions, psychological sophistication
+beliefs, development, orientation and experiences), • Current pharmacological treatment
+identity issues, and financial situation. An attempt needs to • Past pharmacological psychiatry treatment
+• Past psychotherapeutic treatment ‑ Type of therapy received, details
+be made to understand the client’s responses and feeling
+of sessions, level of client’s participation, issues related to therapeutic
+about these issues. Details of past psychiatric treatment,
+alliance, reasons for discontinuation
+including psychotherapeutic interventions should be • Obtain information from caregivers, if permitted by the client and
+obtained. In case client has received psychotherapeutic feasible
+intervention in the past, therapist need to understand the
+type of therapy received, details of sessions, level of client’s not contraindications for SP, understanding these can guide
+participation, issues related to therapeutic alliance, reasons the therapist in choosing different strategies for the client
+for discontinuation, etc., This information can help the during the therapy. A review of ongoing pharmacotherapy
+therapist in anticipating the problems which can arise in should also be done.
+dealing with the client. It is also important to understand
+the client’s coping abilities, self-esteem, ego functions and Efforts must also be made to gather information from
+adaptive skills prior to the onset of symptoms and at present. other sources, especially caregivers, with the consent of
+An understanding of the client’s predominant affect, control the client.
+over the impulses and predominant defenses used in
+stressful situation is also required. Although the presence of After obtaining all these information an attempt need to be
+cognitive deficits and low psychological sophistication are made to make a case formulation for the client, as this can
+S176 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Grover, et al.: CPGs for supportive psychotherapy
+Clients willing for supportive psychotherapy
+Symptom Assessment
+• Symptoms: duration, type, severity
+• Rate the severity of symptoms and spectrum of symptoms
+• Evaluate for all the possible comorbidities
+• Evaluate the past history
+Current issues
+• Current interpersonal relationships, day to day functioning and psychological
+structure
+• Current stressors, hassles and traumatic experiences
+• Current experiences, responses, and feelings
+• Past psychotherapeutic treatment- type of therapy received, details of sessions,
+level of client’s participation, issues related to therapeutic alliance, reasons for
+discontinuation
+Current and past treatment history
+• Current interpersonal relationships, day to day functioning and psychological
+structure
+• Current stressors, hassles and traumatic experiences
+• Current pharmacological treatment
+• Past pharmacological psychiatry treatment
+Assessment of life history and predominant pattern of functioning
+• Evaluate the personality of the client
+• Relationship capabilities: relationship with parents, caretakers, other family
+members, significant others
+• Traumatic events in the lifetime
+• Interpersonal relationships, day to day functioning and psychological structure
+• Past experiences, responses, and feelings
+• Evaluate the coping abilities, self-esteem, ego functions and adaptive skills- prior
+to the onset of symptoms and at present
+• Predominant affect, control over the impulses, defenses
+Case Formulation
+Figure 1: Assessment for supportive psychotherapy
+guide the therapy process. Case formulation is understood the client.[16] All these features in the therapist help in
+as an explanation for the client’s current symptoms and building good therapeutic alliance. During the initial
+functioning. Case formulation helps to identify the central sessions, efforts should be directed at strengthening the
+issue. The case formulation can be based on psychoanalytic, therapeutic alliance with the client. It is important to sign
+interpersonal, object relational, or cognitive–behavioral a therapeutic contract detailing the do’s and don’ts for
+approaches. However, it is important to remember that the
+the therapist and the client and laying down the ground
+formulation may have to be revised, based on availability of
+rules for the therapy sessions. The contract should be
+future information. It is generally said that good assessment
+signed both by the therapist and the client.
+itself should be therapeutic and help to mitigate the
+symptoms, improve self-esteem and improve adaptive skills
+It is important to set up the goals for the therapy at the
+and ego function of the client.
+beginning. These should be mutually agreed upon between
+the client and the therapist. It is important to understand
+GENERAL PRINCIPLES OF SUPPORTIVE
+that while setting goals for the therapy, the goals need to be
+PSYCHOTHERAPY
+based on clients symptoms/problems and priorities. Another
+important aspect of setting goal is that these must be
+One of the most important ingredients of any
+realistic, especially in clients with severe psychopathology.
+psychotherapy and at the heart of SP is a good therapeutic
+alliance. Some of the authors suggest that the role of the The goals can also set for “initial few sessions” and goals
+therapist should be like a parent who tries to comfort in the form of “ultimate outcome” of therapy. However,
+the client, provides a soothing environment, encourages, it is important to remember that the goals of the therapy
+nurtures, reflects containment in their behavior, sets may change with time and these must be revised as per the
+limits, confronts the self-destructive behavior of the need. Other general principles to carryout SP are outlined
+client, and encourages growth and self-sufficiency in in Table 3 and Figure 2.
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S177
+Grover, et al.: CPGs for supportive psychotherapy
+SPECIFIC THERAPEUTIC ISSUES a model for understanding interaction with other people.
+Praise when offered should be based on the client’s values
+SP, although is conversational in style, is a disciplined activity, and goals, and not that of the therapist. The therapist must
+and it should not be confused with normal conversation. master techniques for ensuring that the praise is offered for
+The client is always the center of attention, the free flow of only those things which client considers deserving of praise.
+material is not essential, and the therapist must be responsive Reframing, reassuming and instructing are accepted tactics
+without being intrusive. The therapist must learn to employ in SP. Reframing is a legitimate therapeutic tactic, whereas
+facilitating utterances that do not appear mechanical or contradicting can lead to a blow to the client’s self-esteem.
+insincere. Even when the theoretical orientation allows the The boundary between reframing and contradicting is not
+tenets of self-psychology, which places empathy in a central
+always distinct and the therapist needs to be careful. When
+position, therapists have difficulty knowing what to say. The
+a parent or spouse repeats the same recommendation or
+repertoire of responses may include simple reference to what
+same corrections several times, it is understood as nagging.
+the client had said in the earlier session, which makes the
+The therapist must learn to recognize when his/her repeated
+client feel that his/her story is known to the therapist. The
+good advice is likely to be experienced by the client as
+therapist must master ways of maintaining a conversation by
+nagging. In general, ordinarily advice must be limited to the
+making statements that encourage responses. The therapist
+therapist’s area of expertise and the client’s need. With the
+should learn that questions are often experienced as attacks,
+most impaired clients, the therapist may suggest actions or
+especially those that begin with the word “why.” If the rational
+ways of thinking about things based on his/her own good
+for a question is not apparent to the client, it needs to be
+sense, and knowledge of the rules of our society. The
+made clear to them. If the therapist is too quick to attempt
+therapist must master the skills to come with a number of
+interpretation or confrontation, the client may become
+alternatives rather than quick proposed solution. Ventilation
+anxious or may feel that the therapist as overpowering which
+is a frequently mentioned technique in SP. The client who
+can have negative impact on the self-esteem of the client.
+is disorganized or labile may become more disorganized
+Since resolution of distortions in the perception of the
+therapist is not a key element of the treatment, the therapist
+must avoid a stance that might contribute to distortions. Clients willing for supportive psychotherapy
+Positive transference is not interpreted but identified aspects
+of the client’s relationship with the therapist may become Make a Therapeutic Contract
+• Include information about do’s and don’ts for the client and the therapist
+• Exact payment and mode of payment, duration and frequency of
+sessions, mode of contact during the crisis, etc.
+Table 3: General principles of supportive psychotherapy • Principles of cancellation of the session from either side
+• Explain the client about the role of the client and the therapist in the
+therapy
+• Establish a good therapeutic alliance
+• Preferably draw a therapeutic contract, especially, when the SP is the
+Establish a good therapeutic alliance
+exclusive mode of treatment and the client is charged for the therapy
+• The therapeutic contract should include do’s and don’ts for the client
+Set goals for the therapy
+and the therapist, exact payment and mode of payment, duration and
+• Set the goals for the therapy at the beginning
+frequency of sessions, mode of contact during the crisis, etc. • Goals should be mutually agreed upon between the client and the
+• Number of sessions: Determined by clients need and motivation therapist
+• Goals need to be based on clients symptoms/problems and priorities
+• Set the ground rules, such as no physical or verbal aggression in the • Goals can be revised from time to time
+therapy session, not to come in intoxicated state • Goals can be set for “initial few sessions” and in the form of
+“ultimate outcome” of therapy
+• Explain the client about the role of the client and the therapist in the
+therapy
+• Set goals for the therapy Therapy situation
+• Don’t try to structure the session • Don’t try to structure the session too much
+• No homework assignments
+• Be nonjudgmental • No formal termination
+• Try to emotionally connect with the client
+• Identify client’s strengths
+• Avoid argument, denigrating, and criticism Basic therapist stance
+• Avoid questions starting with “why” and “why didn’t you” - Replace it by • Follow a conversational style
+• Maintain a supportive stance
+“can you explain reason of doing things in this way” • May use expressive measures, without diluting the supportive stance
+• Explain the client that the therapy is not the alternative for • Be active in the session, but not too active
+• Be non-judgemental
+pharmacotherapy, especially in clients with severe mental disorders, or • Try to emotionally connect with the client
+those in whom, pharmacotherapy is definitely indicated • Identify client’s strengths
+• Follow a conversational style • Avoid argument, denigrating, and criticism
+• Avoid questions starting with “why” and “why didn’t you”- replace it by
+• Maintain a supportive stance “can you explain reason of doing things in this way”
+• Be active in the session, but not too active • Do not ask too many questions, but if a question is asked, then do not
+abandon the topic, without getting the answer
+• May use expressive measures, without diluting the supportive stance • Explain the client that the therapy is not the alternative for
+• Do not ask too many questions, but if a question is asked, then do not pharmacotherapy, especially in clients with severe mental disorders,
+abandon the topic, without getting the answer or those in whom, pharmacotherapy is definitely indicated
+• No homework assignments
+• No formal termination Figure 2: General principles of supportive psychotherapy
+S178 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Grover, et al.: CPGs for supportive psychotherapy
+and anxious if permitted to speak at length or dwell on Table 4: Specific therapeutic issues
+fantasies. The therapist need to learn to interrupt or break
+• Therapist’s basic stance: Conversational, responsive, free flow of
+the flow, how to subtly encourage the client to stick with material is not essential, nonintrusive
+the thought, which reduce anxiety inducing disorganization. • Understanding: Empathy, employ facilitating utterances that do not
+While offering reassurance, the therapist need to be honest appear mechanical or insincere
+• Question: Avoid questions starting with “why”
+and at times normalization of things may be reassuring for
+• Observation about underlying meaning: Avoid a stance that might
+the client. Clients, who are dysfunctional, depending on their contribute to distortions
+symptoms and abilities, need to be encouraged to carryout • Transference: Positive transference is not interpreted but identified
+activities and interaction with others. However, this should be aspects of the client’s relationship with the therapist may become a model
+for understanding interaction with other people
+encouraged at a pace, which the client is comfortable and is
+• Ventilation: Ventilation is encouraged, but therapist must learn how to
+able to handle. Many a times, providing a name to the client’s
+interrupt or break the flow, how to subtly encourage the client to stick to
+problem, such as “exam related stress,” is often helpful, and the topic, which reduces anxiety inducing disorganization
+this helps the client to understand their problem [Table 4]. • Praise: Praise when offered should be based on the client’s values and
+goals, and not the therapist
+• Reassurance: Be honest, normalization of things may be
+STRATEGIES AND TACTICS OF THERAPEUTIC
+reassuring
+PROCESS IN SUPPORTIVE PSYCHOTHERAPY • Encouragement: Encourage for activities and interactions
+• Rationalizing and reframing: Avoid confrontation
+It is important to understand the difference between • Arguing and nagging: Reframing, reassuming and instructing are
+accepted tactics in SP
+strategy and tactics. The concept of strategy involves the
+• Advice: Limit advice to the area of expertise and the clients need
+overall plan in broad conceptual terms, whereas tactics
+• Anticipatory guidance: Rehearsal of situations in advance to envisage
+involve specific individual interventions or therapeutic the obstacles which might be faced in following the chosen course of
+activities used by the therapist. As much as possible, the action, how to deal with the obstacles
+tactics should be compatible with and reflect the overall • Reduce and prevent anxiety: Reassurance, encouragement, lack of
+interrogation
+strategy, as it is through the specific tactical intervention
+• Naming the problem: Helps in reducing anxiety
+that the strategy can be carried out. The strategies to • Expanding the client’s awareness: Clarification, confrontation, and
+be used for SP are presented in Table 5, and the major interpretation
+tactical issues that separate SP from EP are presented in SP – Supportive psychotherapy
+Table 6.
+Table 5: Strategies for supportive psychotherapy
+TECHNIQUES OF SUPPORTIVE
+• Focus primarily upon conscious problems, symptoms, thoughts, feelings,
+PSYCHOTHERAPY and memories
+• The consciously experienced affect by the client should be expressed and
+Various techniques [Table 7] which can be used in SP include dealt with
+• Unconscious conflicts, affect responses and mental processes should not
+the following:
+be explored
+• Maintain therapeutic relationship at a positive level of rapport with
+Guidance deeper transference responses remaining unconscious and out of the
+Guidance is aimed at addressing the specific problem that client’s awareness
+leads to distress and maladjustment. The clients are guided • Disclose the negative transference at the earliest so that it can be
+addressed as promptly as possible
+to detect ways, examine and avoid stressful situations. In
+• The conflicts and interpersonal relationships that are already conscious
+doing so, realistically suited course of action to solve the and recognized by the client are dealt within an active and continuing
+problem is determined. One of the major drawbacks of fashion, the therapist often using himself/herself as a model for coping
+guidance includes the authoritarian relationship established with such problem
+• Strengthen and acknowledge the useful and acceptable defense
+between therapist and the client which may not be good
+mechanisms/coping abilities
+for clients with dependent traits. Another disadvantage
+• Suggest new defenses/coping abilities, if the existing are
+includes development of strong sense of insecurity if the maladaptive
+client develops doubt about strength or wisdom of the • T he therapists may intervene in active directive ways and may use
+themselves as a model for values and information
+authoritative therapist.
+• The relationship between the client and the therapist is maintained
+indefinitely even though they may no longer meet, the aim is to foster the
+Tension control sense of continuity rather than a termination
+Various techniques such as relaxation exercises,
+self-hypnosis, meditation, and biofeedback can be helpful. Environment manipulation
+However, it is important to remember that these are usually Environmental manipulation may include techniques such
+palliative, and their value is more when these are used along as home treatment, hospitalization, day hospital care, and
+with other forms of psychotherapies. attending rehabilitation center.
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S179
+Grover, et al.: CPGs for supportive psychotherapy
+Table 6: Tactics of supportive psychotherapy
+Tactics SP EP
+Structure of the treatment Flexibility is the rule, in terms of duration, frequency and Regular and sustained therapeutic situation with
+situation setting prescribed times, constant duration session,
+Methods of payment can vary depending on the needs and methods of payment are the rule
+comfort of the client Departure from the usual structure can be used to
+understand some of the conflicts of the client
+Activation of transference Transference is maintained at dilute and unconscious level Activation of transference - Feedback is delayed,
+and feedback is offered promptly, as soon as possible at least until elaboration of transference experience
+Reality information about changes in the frame to reduce has occurred
+transference distortion is offered Personal anonymity is maintained
+Appropriate personal information and opinion are offered Interest in transference phenomenon and frame of
+Defenses are maintained against awareness and content of therapeutic situation is maintained, transference
+transference feeling or wishes experiences are interpreted
+Negative transference is discouraged
+Level of consciousness Focus is on the issues that are already in the conscious Intervention is directed toward interpreting
+awareness of the client defenses against previous unconscious conflicts
+Identification with the Identification with the therapist in encouraged Identification with the therapist in enhanced by
+therapist The therapist may provide personal information and the attitude of curiosity, willingness to suspend
+responses, may advise or suggest ways of problems solving, immediate judgment, and paucity to discuss any
+may encourage imitation of the therapist judgment and clues topic
+and may provide active alternative understanding of the
+situation
+Management of resistance and Defenses are in general unchallenged and maintained or even Therapist searches for defenses and resistance
+defenses strengthened to promote more comfortable adaptation against awareness or change is specifically
+If the resistance and the defenses used by the client threaten interpreted
+the client’s external adjustment or therapeutic relationship,
+new and substitute defenses are suggested
+Catharsis and abreaction Emotional responses and affects associated to already Aim is to go beyond manifest emotional
+conscious memories or trauma are encouraged and are experiences and expression to the underlying and at
+responded to in whatever way seems appropriate times, unconscious manifestations and meanings
+Adaptation to the clients Therapist seeks to intervene in ways familiar and compatible Therapist intervenes in ways that are alien to the
+character organization with the clients overall character structure, thereby striving client’s character structure
+to avoid confrontation or stress in terms of how the client
+characteristically interacts in various situation
+Management of regression Regression is minimized and where ever possible it is Regression is enhanced
+reversed
+Reinforcement Transference relationship is used to achieve whatever goals Therapist avoids manipulating or using the
+have been set transference to achieve present behavior patterns
+Use of therapist as alter ego Therapist may at times serve as an alter ego when the client is Therapists specifically seek to avoid interacting for
+unable to carry out a particular activity, intervention, effort or the client
+pattern of behavior to satisfy or fulfill his or her needs Clients request to therapist for intervention is
+In such situation therapist might act for the client by interpreted
+intervening in various situations, with people with whom the
+client is unable to maintain or establish his/her own interest
+and may simultaneously present a model of how one can go
+about resolving such problem
+Use of medication Medications are commonly used as an adjunct for the control The usual pattern is to avoid the use of medication,
+of symptoms and alleviation of distressing behavior if possible
+Insight Insight is considered less important Achievement of insight by the client at an
+emotional, as well as cognitive level is the goal of
+the therapy
+Termination of therapy Aim is more to consider interruption of therapeutic contact, Termination date is fixed well in advance of the
+rather than termination actual ending of treatment, and client is allowed
+sufficient opportunity to activate the conflict in
+question
+EP – Expressive therapy; SP – Supportive psychotherapy
+Externalization of interest their leisure time. The various activities which could be
+Under stressful situations, many individuals withdraw suggested may include sports, games, craft, photography,
+themselves from interests that are part and parcel of healthy fine arts etc., These leisure activities, not only make the
+living. In such a situation, the clients are encouraged to person busy, but also allow the person to express their
+resume activities which were once meaningful to them or creativity and improve their interaction with others,
+the therapist helps them to develop new interests to fill thereby reducing social isolation and exposing them to
+S180 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Grover, et al.: CPGs for supportive psychotherapy
+group dynamics. Various therapies such as occupational Table 7: Specific techniques of supportive psychotherapy
+therapy, art therapy, music therapy, drama therapy,
+• Guidance: Providing facts and interpretation, in matters such as
+and social therapy are based on these principles, and education, employment, health, and social relationship
+these can be used as adjuncts to the other traditional • Tension control: Strategies to reduce tension
+psychotherapeutic interventions. Social therapy is • Environment manipulation: Focuses on defining and eliminating
+environmental factors disturbing the psychological balance of the client
+particularly useful when normal familiar relationships,
+or target to address the deficits in the living situation of the client causing
+social activities and work situations lead to upsetting and
+problems
+self-defeating reactions in a client in spite of undergoing • Externalization of interest: Resumption of activities which were once
+other forms of psychotherapy. meaningful to the client or which help them to use their for their leisure
+time
+• Reassurance: Part and parcel of all kind of psychotherapies
+Reassurance
+• Prestige Suggestion: Suggestions may be sometimes be used
+Reassurance is part and parcel of all kind of psychotherapies.
+deliberately in calculated way, in the form of directions given with
+The very presence of the therapist may be soothing for delivered with authoritative emphasis to influence the client’s behaviour
+the client. This is true for severely upset Persuasion as a • Persuasion: Aims at building self‑confidence, so that the client his or her
+technique is based on the belief that the clients have within own master. By using authority’s role, the therapist can act as a mentor to
+persuade the client to rethink about their views and life philosophies
+themselves the power to modify their pathologic emotional
+• Pressure and coercion: These are authoritative methods that are used in
+proneness by force of sheer will or by the utilization of
+a calculated way to stimulate the client towards fruitful actions
+common sense. Clients, who donot have the capacity to • Confession and ventilation: “Talking things out” or “getting things off
+handle their anxiety by using their own resources, and one’s chest”
+look forward to seek comfort from an idealized parental
+figure. Verbal reassurance is often given to the clients, who them with new goals and moves to adapt to the reality.
+verbalize doubt about their ability to get well. Reassurance
+may also be used for clients, who are in the grip of fears, Pressure and coercion
+arising out of their irrational thinking. In such a situation the These are authoritative measures, which can be used
+therapist discusses such fears openly, offers explanations in a calculated manner to stimulate the client to act in a
+about those being baseless with the hope of diverting the positive way. These may be useful for some clients with
+client from destructive thinking pattern. dependent personalities who face life only when forced to
+comply. Coercion may also be used in emergencies where
+Prestige suggestion the individual’s endanger their or others life, where other
+Prestige suggestion is one of the oldest techniques which methods fails. Therapeutic pressure may be exerted in the
+are employed as part of SP. Despite efforts by the therapists form of assigned pursuits. It is important to remember
+to avoid any kind of suggestions, these play an important that a these measure will not result in permanent good
+role in every psychotherapeutic relationship. Generally, therapeutic effect as client will resent of being treated like
+the clients have a tendency to select things, which they a child and resultantly, with time would defy the therapist
+want to hear. At times, suggestions may be used as part even to the point of leaving therapy. Hence, when used,
+of SP deliberately in the form of directives given with pressure and coercion should be used only as a temporary
+authoritative emphasis to influence the client is calculated measure, in critical situation.
+ways. Symptoms that are ameliorated by suggestion
+probably resolve because of the unconscious need of Confession and ventilation
+the client to obey. Suggestion works best, where the Confession “talking things out” or “getting things off
+symptoms have minimal defensive purpose and where the one’s chest” in a professional relationship is an important
+need for symptom free functioning is a powerful incentive. supportive psychotherapeutic technique. This allows for
+Sometimes, clients can use suggestions for themselves, release of pent up feelings and emotions and the subjection
+which is understood as autosuggestions. Clients who are of inner painful elements to objective reappraisal. The mere
+able to follow autosuggestion in the adaptive way need to verbalization of things about self, of which the client may be
+be encouraged to do so. shamed or fearful of, helps to develop a more constructive
+attitude towards themselves. Verbalization of fears, hopes,
+Persuasion ambitions and demands as part of ventilation often gives
+Persuasion is understood as a technique, which is based on relief. Verbalization of faulty ideas and beliefs also provides
+the assumption that the clients themselves have the power opportunity to the therapist to correct the misconceptions.
+to modify their pathologic emotional proneness by their will Repeated verbalization of unpleasant and disagreeable
+power or by using common sense. As part of persuasion, attitude and experiences permits the client to face past fear
+the therapist may serve as a guide/mentor to make the client and conflicts with lesser inner turmoil.
+to revise thier views and life philosophies. The objective of
+persuasion is to change the habitual attitudes of the client Financial support and sponsorship
+against which the client is fighting with self and to provide Nil.
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S181
+Grover, et al.: CPGs for supportive psychotherapy
+Conflicts of interest Psychiatry 2006;21:1139-49.
+There are no conflicts of interest. 13. Barth J, Munder T, Gerger H, Nüesch E, Trelle S, Znoj H, et al. Comparative
+efficacy of seven psychotherapeutic interventions for patients with
+depression: A network meta-analysis. PLoS Med 2013;10:e1001454.
+REFERENCES 14. Bighelli I, Salanti G, Huhn M, Schneider‑Thoma J, Krause M, Reitmeir C,
+et al. Psychological interventions to reduce positive symptoms in
+schizophrenia: Systematic review and network meta-analysis. World
+1. Glover E. The therapeutic effect of inexact interpretation: a contribution Psychiatry 2018;17:316-29.
+to the theory of suggestion. The International Journal of Psychoanalysis, 15. Buckley LA, Maayan N, Soares-Weiser K, Adams CE. Supportive therapy
+1931; 12: 397–411. for schizophrenia. Cochrane Database Syst Rev 2015; CD004716.
+2. Markowitz JC. What is Supportive Psychotherapy ? Focus 2014; 12:285- 16. Misch DA. Basic strategies of dynamic supportive therapy. J Psychother
+89. Pract Res 2000;9:173-89.
+4. Bloch S. Supportive psychotherapy, in An Introduction to the Psych
+17. Sullivan PR. Learning theories and supportive psychotherapy. Am J
+otherapies. Edited by Bloch S. New York: Oxford University Press, 1979.
+Psychiatry 1971;128:119-22.
+5. Wallace ER: Supportive psychotherapy, in Dynamic Psychi atry in Theory
+18. Sullivan HS. The Interpersonal Theory of Psychiatry. New York: Norton;
+and Practice. Philadelphia, Lea and Febiger, 1983
+1953.
+3. Wallerstein RS. Forty-Two Lives in Treatment: A Study of Psychoanalysis
+19. Gaston L. The concept of the alliance and its role in psychotherapy:
+and Psychotherapy. New York: Guilford Press; 1986.
+Theoreticaland empirical considerations. Psychotherapy 1990;27:143-53.
+6. Werman DS. The Practice of Supportive Psychotherapy. New York:
+Brunner/Mazel; 1984. 20. Hellerstein DJ, Pinsker H, Rosenthal RN, Klee S. Supportive therapy as
+the treatment model of choice. J Psychother Pract Res 1994;3:300-6.
+7. Dewald PA. Principles of supportive psychotherapy. Am J Psychother
+1994;48:505-18. 21. Holmes J. Supportive psychotherapy. Br J Psychiatry 1995;167:439‑45.
+8. Pinsker H. A Primer of Supportive Psychotherapy. Hillsdale, NJ, Analytic 22. Rockland LH. Supportive Therapy: A Psychodynamic Approach. New York;
+Press, 1997. Basic Books; 1989.
+9. Winston A, Rosenthal RN, Pinsker H. Introduction to Supportive 23. Novalis PN, Rojcewicz SJ, Peele R. Clinical Manual of Supportive
+Psychotherapy. Washington, DC: American Psychiatric Publishing; 2004. Psychotherapy. Washington, DC: American Psychiatric Press; 1993.
+10. Battaglia J. 5 keys to good results with supportive psychotherapy. Current 24. Winston A, Winston B. Handbook of Integrated Short‑Term Psychotherapy.
+Psychiatry 2007; 6: 27-34. Washington, DC: American Psychiatric Publishing; 2002.
+11. Cuijpers P, Driessen E, Hollon SD, van Oppen P, Barth J, Andersson G. 25. Winston A, Pinsker H, McCullough L. A review of supportive psychotherapy.
+The efficacy of non‑directive supportive therapy for adult depression: Hosp Community Psychiatry 1986;37:1105‑14.
+A meta-analysis. Clin Psychol Rev 2012;32:280-91. 26. Winston A, Rosenthal RN, Muran JC. Supportive psychotherapy. In:
+12. Cuijpers P, van Straten A, Smit F. Psychological treatment of late-life Livesley WJ, editor. Handbook of Personality Disorders: Theory, Research,
+depression: A meta-analysis of randomized controlled trials. Int J Geriatr and Treatment. New York: Guilford; 2001. p. 344-58.
+S182 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020

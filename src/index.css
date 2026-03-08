@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background-color: #FAFAF8;
+    background-image: radial-gradient(circle at 50% 0%, #EAF4F4 0%, transparent 70%);
+    background-attachment: fixed;
+    /* Crucial for Mobile: Ensure content respects safe areas */
+    padding-top: env(safe-area-inset-top, 20px);
+    padding-bottom: env(safe-area-inset-bottom, 20px);
+}
+
+/* CSS Variables for ManoSathi branding */
+:root {
+    --mm-primary: #6B9080;
+    --mm-primary-light: #A4C3B2;
+    --mm-bg-primary: #FAFAF8;
+    --mm-text-primary: #2C3E3D;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-in {
+    animation: fadeIn 0.5s ease-out forwards;
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+}
+
+.duration-700 {
+    animation-duration: 0.7s;
+}

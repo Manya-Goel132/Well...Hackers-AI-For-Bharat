@@ -1,0 +1,375 @@
+service: manosathi-aws-backend
+
+provider:
+  name: aws
+  runtime: nodejs20.x
+  region: us-east-1
+  memorySize: 512
+  timeout: 30
+  environment:
+    AWS_NODEJS_CONNECTION_REUSE_ENABLED: "1"
+    DYNAMO_TABLE_USERS: ${self:custom.tables.users}
+    DYNAMO_TABLE_CHATS: ${self:custom.tables.chats}
+    DYNAMO_TABLE_JOURNALS: ${self:custom.tables.journals}
+    DYNAMO_TABLE_TREATMENTS: ${self:custom.tables.treatments}
+
+  tracing:
+    lambda: true
+    apiGateway: true
+
+  # ── HTTP API Gateway-level CORS (handles OPTIONS preflight for ALL routes) ──
+  httpApi:
+    cors:
+      allowedOrigins:
+        - '*'
+      allowedHeaders:
+        - Content-Type
+        - Authorization
+        - X-Requested-With
+      allowedMethods:
+        - GET
+        - POST
+        - PUT
+        - DELETE
+        - OPTIONS
+      maxAge: 86400
+
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - bedrock:InvokeModel
+            - bedrock:InvokeModelWithResponseStream
+          Resource: "*"
+        - Effect: Allow
+          Action:
+            - sns:Publish
+          Resource: "*"
+        - Effect: Allow
+          Action:
+            - transcribe:StartStreamTranscription
+          Resource: "*"
+        - Effect: Allow
+          Action:
+            - polly:SynthesizeSpeech
+          Resource: "*"
+        - Effect: Allow
+          Action:
+            - comprehend:DetectPiiEntities
+            - translate:TranslateText
+            - cloudwatch:PutMetricData
+            - cloudwatch:GetMetricData
+          Resource: "*"
+        - Effect: Allow
+          Action:
+            - xray:PutTraceSegments
+            - xray:PutTelemetryRecords
+          Resource: "*"
+        - Effect: Allow
+          Action:
+            - dynamodb:Query
+            - dynamodb:Scan
+            - dynamodb:GetItem
+            - dynamodb:PutItem
+            - dynamodb:UpdateItem
+            - dynamodb:DeleteItem
+          Resource:
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/${self:custom.tables.users}"
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/${self:custom.tables.users}/index/*"
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/${self:custom.tables.chats}"
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/${self:custom.tables.chats}/index/*"
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/${self:custom.tables.journals}"
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/${self:custom.tables.journals}/index/*"
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/${self:custom.tables.journals}/stream/*"
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/${self:custom.tables.treatments}"
+            - "arn:aws:dynamodb:${self:provider.region}:*:table/manosathi-clinical-logs"
+        - Effect: Allow
+          Action:
+            - s3:GetObject
+            - s3:PutObject
+            - s3:ListBucket
+          Resource:
+            - "arn:aws:s3:::manosathi-clinical-data-${sls:stage}/*"
+            - "arn:aws:s3:::manosathi-clinical-data-${sls:stage}"
+
+custom:
+  tables:
+    users: manosathi-users-${sls:stage}
+    chats: manosathi-chats-${sls:stage}
+    journals: manosathi-journals-${sls:stage}
+    treatments: manosathi-treatments-${sls:stage}
+
+plugins:
+  - serverless-plugin-typescript
+
+functions:
+  # ── AI Endpoints ──────────────────────────────────────
+  generateEmpathicResponse:
+    handler: src/api/generateEmpathicResponseLambda.handler
+    events:
+      - httpApi:
+          path: /chat/empathic
+          method: post
+
+  generateClinicalResponse:
+    handler: src/api/generateClinicalResponseLambda.handler
+    events:
+      - httpApi:
+          path: /chat/clinical
+          method: post
+
+  analyzeJournalEntry:
+    handler: src/api/analyzeJournalEntryLambda.handler
+    events:
+      - httpApi:
+          path: /journal/analyze
+          method: post
+
+  transcribeAudio:
+    handler: src/api/transcribeAudioLambda.handler
+    events:
+      - httpApi:
+          path: /transcribe
+          method: post
+
+  generateSpeech:
+    handler: src/api/generateSpeechLambda.handler
+    events:
+      - httpApi:
+          path: /speech
+          method: post
+
+  generateClinicalReport:
+    handler: src/api/generateClinicalReportLambda.handler
+    events:
+      - httpApi:
+          path: /clinical/report
+          method: post
+
+  getWellnessMetrics:
+    handler: src/api/getWellnessMetricsLambda.handler
+    events:
+      - httpApi:
+          path: /wellness/metrics
+          method: get
+
+  # ── Crisis Event Dispatcher (AWS Native Event-Driven Pattern) ──
+  dispatchCrisisAlert:
+    handler: src/events/crisisDispatcherLambda.handler
+    events:
+      - stream:
+          type: dynamodb
+          arn:
+            Fn::GetAtt: [ChatsTable, StreamArn]
+          filterPatterns:
+            - { dynamodb: { NewImage: { aiResponseFull: { M: { riskAssessment: { M: { level: { S: ["high", "severe"] } } } } } } } }
+      - stream:
+          type: dynamodb
+          arn:
+            Fn::GetAtt: [JournalsTable, StreamArn]
+          filterPatterns:
+            - { dynamodb: { NewImage: { aiInsights: { M: { metadata: { M: { riskLevel: { S: ["high", "severe"] } } } } } } } }
+    environment:
+      SNS_CRISIS_TOPIC_ARN: !Ref EmergencyAlertTopic
+
+  # ── Auth Endpoints ─────────────────────────────────────
+  authSignup:
+    handler: src/api/authLambda.handler
+    events:
+      - httpApi:
+          path: /auth/signup
+          method: post
+
+  authSignin:
+    handler: src/api/authLambda.handler
+    events:
+      - httpApi:
+          path: /auth/signin
+          method: post
+
+  authMe:
+    handler: src/api/authLambda.handler
+    events:
+      - httpApi:
+          path: /auth/me
+          method: get
+
+  # ── User Profile Endpoints ─────────────────────────────
+  profileHandler:
+    handler: src/api/profileLambda.handler
+    events:
+      - httpApi:
+          path: /profile
+          method: get
+      - httpApi:
+          path: /profile
+          method: put
+
+  # ── Journal Endpoints ──────────────────────────────────
+  journalCollection:
+    handler: src/api/journalLambda.handler
+    events:
+      - httpApi:
+          path: /journals
+          method: get
+      - httpApi:
+          path: /journals
+          method: post
+
+  journalItem:
+    handler: src/api/journalLambda.handler
+    events:
+      - httpApi:
+          path: /journals/{id}
+          method: get
+      - httpApi:
+          path: /journals/{id}
+          method: put
+      - httpApi:
+          path: /journals/{id}
+          method: delete
+
+  # ── Chat Session Endpoints ───────────────────────────
+  chatSessionCollection:
+    handler: src/api/chatSessionLambda.handler
+    events:
+      - httpApi:
+          path: /sessions
+          method: get
+      - httpApi:
+          path: /sessions
+          method: post
+
+  chatSessionItem:
+    handler: src/api/chatSessionLambda.handler
+    events:
+      - httpApi:
+          path: /sessions/{id}
+          method: get
+      - httpApi:
+          path: /sessions/{id}
+          method: put
+      - httpApi:
+          path: /sessions/{id}
+          method: delete
+
+resources:
+  Resources:
+    # 1. Users Table (with email GSI for lookup)
+    UsersTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: ${self:custom.tables.users}
+        AttributeDefinitions:
+          - AttributeName: id
+            AttributeType: S
+          - AttributeName: email
+            AttributeType: S
+        KeySchema:
+          - AttributeName: id
+            KeyType: HASH
+        GlobalSecondaryIndexes:
+          - IndexName: email-index
+            KeySchema:
+              - AttributeName: email
+                KeyType: HASH
+            Projection:
+              ProjectionType: ALL
+        BillingMode: PAY_PER_REQUEST
+
+    # 2. Chats Table (with userId GSI for listing)
+    ChatsTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: ${self:custom.tables.chats}
+        AttributeDefinitions:
+          - AttributeName: chatId
+            AttributeType: S
+          - AttributeName: userId
+            AttributeType: S
+          - AttributeName: lastMessageAt
+            AttributeType: S
+        KeySchema:
+          - AttributeName: chatId
+            KeyType: HASH
+        GlobalSecondaryIndexes:
+          - IndexName: userId-lastMessageAt-index
+            KeySchema:
+              - AttributeName: userId
+                KeyType: HASH
+              - AttributeName: lastMessageAt
+                KeyType: RANGE
+            Projection:
+              ProjectionType: ALL
+        BillingMode: PAY_PER_REQUEST
+        StreamSpecification:
+          StreamViewType: NEW_AND_OLD_IMAGES
+
+    # 3. Journals Table (with userId GSI for listing)
+    JournalsTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: ${self:custom.tables.journals}
+        AttributeDefinitions:
+          - AttributeName: id
+            AttributeType: S
+          - AttributeName: userId
+            AttributeType: S
+          - AttributeName: createdAt
+            AttributeType: S
+        KeySchema:
+          - AttributeName: id
+            KeyType: HASH
+        GlobalSecondaryIndexes:
+          - IndexName: userId-createdAt-index
+            KeySchema:
+              - AttributeName: userId
+                KeyType: HASH
+              - AttributeName: createdAt
+                KeyType: RANGE
+            Projection:
+              ProjectionType: ALL
+        BillingMode: PAY_PER_REQUEST
+        StreamSpecification:
+          StreamViewType: NEW_AND_OLD_IMAGES
+
+    # 5. Clinical Data S3 Bucket (RAG Root)
+    ClinicalDataBucket:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: manosathi-clinical-data-${sls:stage}
+        PublicAccessBlockConfiguration:
+          BlockPublicAcls: true
+          BlockPublicPolicy: true
+          IgnorePublicAcls: true
+          RestrictPublicBuckets: true
+        CorsConfiguration:
+          CorsRules:
+            - AllowedHeaders: ['*']
+              AllowedMethods: [GET, PUT, POST]
+              AllowedOrigins: ['*']
+              MaxAge: 3000
+
+    # 4. Clinical Logs Table
+    ClinicalLogsTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: manosathi-clinical-logs
+        AttributeDefinitions:
+          - AttributeName: logId
+            AttributeType: S
+        KeySchema:
+          - AttributeName: logId
+            KeyType: HASH
+        BillingMode: PAY_PER_REQUEST
+
+    # 6. SNS Topic for Emergency Dispatch
+    EmergencyAlertTopic:
+      Type: AWS::SNS::Topic
+      Properties:
+        DisplayName: "ManoSathi Crisis Alerts"
+        TopicName: manosathi-emergency-alerts-${sls:stage}
+        Subscription:
+          - Protocol: email
+            Endpoint: "mental-health-responder@example.com" # Simulated clinical endpoint

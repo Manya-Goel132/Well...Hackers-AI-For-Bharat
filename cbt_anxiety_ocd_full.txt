@@ -1,0 +1,1407 @@
+Downloadedfromhttp://journals.lww.com/indianjpsychiatrybyBhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdtwnfKZBYtws=on04/21/2022
+CLINICAL PRACTICE GUIDELINES
+Clinical Practice Guidelines for Cognitive-Behavioral Therapies in Anxiety
+Disorders and Obsessive-Compulsive and Related Disorders
+Y.C. Janardhan Reddy, Paulomi M. Sudhir1, M. Manjula1, Shyam Sundar Arumugham,
+Janardhanan C. Narayanaswamy
+Departments of Psychiatry and 1Clinical Psychology, National Institute of Mental Health and Neuro Sciences, Bengaluru,
+Karnataka, India
+2202/12/40no=swtYBZKfnwtdXZQggba0y1CV3fC4lFSvT7iyRdO0D3i3DHrQlI/pQYnWA1XCwyCh0iMX4oHIsbgZEhLJk+a4NfQt1muoEz1vaKHPe5fMDhBybyrtaihcyspjnaidni/moc.wwl.slanruoj//:ptthmorfdedaolnwoD
+INTRODUCTION disorders and OCRDs. In the following sections, we discuss
+scientifically tested CBT models, their evidence base, and
+Anxiety disorders are the most prevalent psychiatric treatment recommendations for individual disorders.
+disorders worldwide, with a lifetime prevalence of up Treatment recommendations are graded based on the
+to 33%.[1] They often run a chronic course and are highly Strength of Recommendation Taxonomy system, with three
+comorbid with other anxiety and mood disorders. Anxiety levels of recommendation, based on the quality, quantity,
+disorders are associated with immense healthcare costs and consistency of evidence [Table 1].[4]
+and huge burden. Despite the availability of evidence-based
+interventions, they are often underrecognized and PANIC DISORDER
+undertreated. The major anxiety disorders in the current
+classificatory system include panic disorder (PD), generalized PD is often a chronic illness with waxing and waning course
+anxiety disorder (GAD), specific phobia, and social anxiety characterized by recurrent and unexpected panic attacks. The
+disorder (SAD). Obsessive–compulsive disorder (OCD) has panic attacks are usually associated with anticipatory anxiety/
+been nosologically separated from anxiety disorders and worry of having another panic attack or consequences of
+classified under the section of obsessive–compulsive and the attack and maladaptive behaviors such as avoidance,
+related disorders (OCRDs) in the DSM-5[2] and ICD-11.[3] safety behaviors, and changes in daily routine. Patients often
+Commonly described disorders in this category include OCD, develop agoraphobia in response to panic attacks. Lifetime
+body dysmorphic disorder (BDD), body-focused repetitive prevalence of PD ranges between 1.6% and 5.2%, and it is
+behaviors (BFRBs, i.e., trichotillomania and skin-picking about two times more common in women than in men.[1] PD is
+disorder), and hoarding disorder. often comorbid with other psychiatric disorders, particularly
+anxiety, mood, and substance use disorders.
+Both pharmacological and psychological interventions are
+effective in treating anxiety disorders and OCRDs. Clinical Assessment
+practice guidelines often recommend cognitive-behavioral Patients with PD often focus on physical symptoms and
+therapy (CBT) as a first-line treatment for both anxiety attribute their symptoms to medical causes. Ruling out
+medical causes of panic attacks is an important aspect of
+Address for correspondence: Dr. Y. C. Janardhan Reddy, assessment. Proper diagnosis and assessment of severity of
+Department of Psychiatry, National Institute of Mental Health the panic and comorbid disorders play an important role
+and Neuro Sciences, Hosur Road, Bengaluru - 560 029,
+Karnataka, India.
+E-mail: ycjreddy@gmail.com
+This is an open access journal, and articles are distributed under the terms of
+the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License,
+Received: 12th December, 2019, Accepted: 16th December, 2019, which allows others to remix, tweak, and build upon the work non-commercially,
+Publication: 17th January, 2020 as long as appropriate credit is given and the new creations are licensed under
+the identical terms.
+Access this article online
+For reprints contact: reprints@medknow.com
+Quick Response Code
+Website:
+www.indianjpsychiatry.org How to cite this article: Reddy YJ, Sudhir PM, Manjula M,
+Arumugham SS, Narayanaswamy JC. Clinical practice guidelines
+for cognitive behavioral therapies in anxiety disorders
+DOI:
+and obsessive–compulsive and related disorders. Indian J
+10.4103/psychiatry.IndianJPsychiatry_773_19
+Psychiatry 2020;62:S230-50.
+S230 © 2020 Indian Journal of Psychiatry | Published by Wolters Kluwer - Medknow
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+in planning therapy. Comorbidity generally adds to the The typical CBT model is based on the catastrophic
+severity of symptoms, functional impairment, and economic misinterpretation of interoceptive stimuli. The model
+costs and is associated with slower rate of response. For emphasizes a vicious cycle of catastrophic misinterpretation
+example, the presence of severe depression may interfere of normal bodily sensations, resulting in anxiety symptoms
+with the therapy for PD. Therefore, it is important to assess (arousal symptoms), interpretation of anxiety symptoms as
+for comorbid conditions and treat them. indicators of impending dangerous consequences which
+further worsens the problem, and consequent avoidance
+Commonly used instruments to diagnose and assess panic and safety behaviors leading to maintenance of fear and
+attacks are shown in Table 2. Behavioral analysis of the anticipatory anxiety [Figure 1].[14] The standard components
+problem is an important aspect of assessment that would of individual CBT are summarized in Table 4.[15,16] The steps
+provide information on predisposing, precipitating, and involved in administering CBT are shown in Figure 2.
+perpetuating biopsychosocial and lifestyle factors. Some of
+the major points gathered by behavioral analysis are shown in Choice of treatment settings
+Table 3. Comprehensive assessment would aid in identifying Therapy for PD is largely carried out on an outpatient basis.
+the targets of therapy and choosing therapeutic components However, in certain situations (e.g., presence of comorbid
+and appropriate assessment methods to monitor outcome. severe depression/other anxiety disorders/substance abuse
+Having a collaborative therapeutic relationship is crucial for or dependence, failed outpatient therapy, and inability
+obtaining adequate information, enhancing motivation, and to implement therapy on an outpatient basis because of
+ensuring participation in therapy. severity of illness), in-patient therapy may be offered.
+Formulating a treatment plan Efficacy of cognitive behavioral therapy in panic disorder
+Formulating the treatment plan would be based on CBT is the first-line psychological treatment for PD.[17,18]
+the targets identified during assessment, which is There is well-replicated evidence for short- and long-term
+communicated to the patient. Formulation often includes effectiveness of CBT.[19] Strength of recommendation for
+presenting a model of panic and factors maintaining various psychological interventions for PD is shown in
+the disorder, as well as the treatments available. The Table 5. A recent component network meta-analysis reviewed
+formulation should also include education about comorbid 72 studies to disentangle the effects of components of CBT
+symptoms if present. The formulations are delivered and reported that cognitive restructuring, interoceptive
+according to the need, receptivity, and understanding of exposure, and face-to-face setting were associated with
+the patient. Presenting a formulation gives confidence better efficacy and acceptability, while muscle relaxation,
+to the patients that their symptoms can be understood, breathing retraining, in vivo exposure, and virtual reality
+explained, and treated. exposure (VRE) were associated with lower efficacy.[19]
+Table 1: Grading of recommendation based on Strength of Recommendation Taxonomy
+Strength of recommendation Definition Examples
+A Consistent and good-quality Meta‑analysis of RCTs with consistent findings or high
+patient-oriented evidence quality individual RCT
+B Inconsistent or limited-quality Systematic review/meta-analysis of lower quality clinical
+patient-oriented evidence trials or studies with inconsistent findings/lower quality
+C Consensus-based evidence Extrapolations from bench research, disease-oriented
+evidence, usual practice, opinion, case series
+RCT – Randomized controlled trials
+Table 2: Instruments for assessing panic disorder
+Name of the scale Purpose
+Physical sensation self-monitoring scale[5] Assesses for intensity and anxiety regarding physical sensations to provide information on interoceptive triggers
+Severity Measure for Panic Disorder-Adult[6] Severity of panic disorder
+Panic disorder severity scale[7] 7 items on 5-point scale (0-4) to assess severity of panic disorder
+Panic and agoraphobia scale[8] Severity of panic disorder and agoraphobia
+Weekly Panic Log[9] Provides contextual information about panic attacks, their symptom expression, anxious appraisal, reappraisal
+capacity and coping resources
+Agoraphobic cognitions questionnaire[10] Measures the frequency of thoughts about catastrophic consequences of anxiety and panic
+Body sensations questionnaire[10] Assesses fear associated with physical symptoms of arousal
+Anxiety sensitivity index[11] Measures symptoms of anxious arousal
+Mobility inventory[12] Measures avoidance of typical agoraphobic situations
+PAI[13] Consists of three separate scales for assessing the cognitive appraisal patterns of panic sufferers (anticipated
+panic, panic consequences and panic coping)
+PAI – Panic appraisal inventory
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S231
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Pharmacological interventions, antidepressants in particular, over 10–15 weeks. The decision on discontinuation/spacing
+and CBT appear to be equally efficacious in the treatment of the sessions (weekly to fortnightly or monthly) is taken
+of PD.[20] A long-term follow-up study of PD patients treated jointly. The patients are prepared for the termination in
+with CBT reported a relapse rate of 23% over 2–14 years of advance (at the beginning when therapy plan is proposed
+follow-up period.[21] as well as a few sessions before termination). Patients
+are prepared for detecting the early warning signs and
+Delivery of cognitive behavioral therapy
+application of the techniques learned in the therapy. They
+Individual face-to-face mode of CBT is found to be most
+are also prepared to handle the factors that may trigger
+effective.[19] The number of sessions generally range between
+panic. It has been found that supplemental CBT, offered
+10 and 15 weekly sessions; however, briefer intervention
+at the time of medication withdrawal, has lowered relapse
+with 6–7 sessions is also shown to be effective.[22] Minimal
+rates in some people. Psychological therapies are found to
+therapist contact interventions such as bibliotherapy,
+internet-based CBT, and self-exposure have been studied
+and found to be more effective than waitlist or relaxation
+Interoceptive triggers External triggers
+controls. However, unsupervised self-help is found to be (e.g., palpitation, (Agoraphobic
+less effective than therapist-administered treatments. There dizziness) situations)
+is a need to examine cost-effectiveness and acceptability of
+these interventions.
+Faulty appraisal of stimulus
+When to stop treatment
+as imminent threat
+Acute treatment is stopped after addressing the symptoms (e.g., Am I having heart attack?
+causing distress, i.e., the target symptoms identified
+in collaboration with the patient, which may happen Persistence of panic attack
+and agoraphobia
+Severe anxiety –
+Table 3: Behavioral Analysis of panic disorder
+Panic attack
+Catastrophic
+1. Nature, intensity, frequency, and duration of the symptoms
+misinterpretation
+2. The situations/triggers for the symptoms, internal (e.g., tightness of chest,
+difficulty in breathing, nausea, increased heart rate, feeling tense/restless,
+dizziness, feeling unreal) and external (e.g., being at home alone, crowds, Physical symptoms of
+Perceived lack of
+elevators, shopping malls, crossing bridges, theatres, public transport) anxiety (e.g.,
+control and
+3. Feared consequences of the symptoms (e.g., fear of death, heart attack, palpitation, search for safety
+breathlessness)
+and “going crazy” or losing control)
+4. The factors that maintain the symptoms, i.e., avoidance, safety behaviors,
+accommodation and reinforcement of symptoms by family members
+5. History of mental health and physical health problems in self and family,
+any adverse experiences in the family Avoidance and safety
+6. Socio-cultural factors, relationships, support systems, and expectations behaviors (e.g.,
+avoiding going out
+of the patient and family members regarding treatment
+alone, taking rest)
+7. Attempts made by the individual to overcome the problem. Awareness
+regarding the problem and psychological interventions
+Figure 1: Cognitive model of panic disorder
+Table 4: Components of cognitive behavioral therapy for panic disorder
+Components Description
+Educating the patient about panic Educate about symptoms of anxiety and panic disorder, “flight or fight” response and corresponding
+disorder (psychoeducation) physiological responses, causes, and maintaining factors (role of avoidance and safety behaviors)
+Share the clinical case formulation, available treatments, outcome and rationale for CBT
+Educate the family members and facilitate support
+Interoceptive exposure (symptom Hyperventilation (to induce breathlessness), spin around or staring at a spot continuously (to induce
+induction) and threat schema activation dizzy or faint feeling), run on spot (racing heart), etc.
+Cognitive restructuring of catastrophic Addressing catastrophic cognitions, exaggerated threat perception, overestimation of negative
+misinterpretation consequences of panic and generating alternative benign explanations for symptoms
+In vivo graded exposure to feared Aids in habituation and disconfirmation of feared consequences
+stimuli (particularly in agoraphobia) Reduces avoidance and safety behaviors (presence of companion, carrying eatables, medicines,
+known location with availability of hospital, toilet, etc.)
+Therapist uses exposure to challenge catastrophic cognitions
+Relapse prevention Prepare the patient for occasional and at times unexpected panic symptoms/attacks and teach what to
+do if symptoms return
+Encourage patient to develop realistic expectations of treatment outcome and reduce “fear of fear”
+Gradually decrease the frequency of therapy sessions and schedule booster sessions
+CBT – Cognitive behavioral therapy
+S232 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Therapeutic alliance, psychoeducation (to patient and family) and presenting Table 5: Recommendations for psychological
+cognitive behavioral therapy formulation, format of therapy sessions
+interventions in panic disorder
+(frequency, duration, components)
+Therapy Strength of
+recommendation
+Self-monitoring of symptoms (panic diary)
+Individual face-to-face CBT with exposure A
+(interoceptive exposure and graded in vivo exposure)
+Cognitive restructuring (using verbal and behavioral methods)
+CBT + antidepressants A
+Group therapy B
+Interoceptive exposure and in vivo exposure to fear cues (planned according Self-help* CBT (therapist-guided) B
+to the hierarchy established) Internet based therapy (self-guided) B
+Modification of anxiety maintaining behaviors (avoidance and safety Psychodynamic therapy B
+behaviors) Supportive therapy B
+Homework assignments and in-session exposures along with cognitive
+Third-wave therapies B
+restructuring
+(Assess periodically [once 1–2 weeks] for effectiveness of the therapy *Internet based and bibliotherapy. CBT – Cognitive behavioral therapy
+[symptom reduction and functioning])
+as well as which are not under one’s control (e.g., illness,
+Inadequate response in 6–8 weeks. Assess reasons for inadequate response future, and community issues) going wrong in a catastrophic
+(undiagnosed co-occurring conditions, poor therapeutic relationship, poor
+treatment adherence, psychosocial stressors, poor motivation, inadequate way. They involve in behaviors to reduce the worry such
+exposure) as reassurance-seeking, avoidance of events, and mentally
+preparing for events.
+Address the barriers for treatment effectiveness and implement therapy
+Lifetime prevalence of GAD ranges between 3% and 6%; it is
+Adequate response to treatment. Terminate therapy gradually and plan around two times more common in women than in men.[1]
+booster sessions (up to 6 months, on monthly basis) to prevent a relapse GAD has a chronic course with exacerbations during stressful
+Figure 2: Steps in cognitive behavioral therapy for panic life events. It is associated with significant dysfunction and
+disorder results in reduced quality of life and economic costs. Less
+than one-third of the patients seek help and mostly from
+have a long duration of effect followed by pharmacological primary care physicians, often for physical symptoms or for
+therapy and self-help.[19] depression. GAD is highly comorbid with other anxiety and
+mood disorders; in addition, the risk of medical conditions
+Guidance for maintenance and follow‑up is also elevated.
+Most often, booster sessions carried out over few months
+would maintain the gains. A randomized controlled trial Assessment
+(RCT) indicated that maintenance CBT carried out monthly It is important to ascertain the nature and content of
+over 9 months after acute treatment maintained the gains worry. Commonly used measures of GAD are given in
+up to 21 months and had significantly lowered the relapse Table 6. The assessment aims to ascertain the diagnosis of
+rate (5.2%) compared to those who did not get maintenance GAD and comorbid (anxiety/mood) disorders and exclude
+CBT (18.4% relapsed).[23] In some people, continuing booster medical conditions with similar presentations (endocrine,
+sessions only during relapse would help. In people where cardiopulmonary, and neurological conditions). Behavioral
+there are multiple psychosocial stressors that contribute analysis is crucial to understand the individual and
+to the maintenance of PD, psychological therapies have environmental factors, contributing to the maintenance
+to be adapted to the mode of maintenance therapy of symptoms as well as those that alleviate and aggravate
+(similar to chronic illness). Augmentation of CBT with the symptoms [Table 7]. Establishing a good therapeutic
+mindfulness, acceptance and commitment therapy (ACT), or relationship and facilitating motivation for therapy are
+supportive therapy according to the necessity as assessed important. It is also crucial to understand the patient’s
+by a clinician also might be helpful. However, there is a goals and expectation of therapy.
+need to examine the effect of augmentation of therapies in
+treatment-refractory cases. Formulating a treatment plan
+Various cognitive models have tried to explain GAD
+GENERALIZED ANXIETY DISORDER for avoidance model of worry and GAD, intolerance
+of uncertainty model, metacognitive model, emotion
+Patients with GAD worry excessively over everyday things dysregulation model, and acceptance-based model.[27] The
+and experience excessive anxiety. They find it difficult to common concepts across various models include cognitive
+control the worry and often experience symptoms, such avoidance (experiential avoidance), positive and negative
+as restlessness, easy fatigue, concentration difficulties, beliefs about worry, poor understanding of emotions and
+irritability, muscular tension, and sleep problems. The maladaptive coping with emotions (worrying), and poor
+content of worry would include things within their control problem orientation and problem-solving. The individual
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S233
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+formulations are tailored according to the presentation of psychotherapies is not established because of paucity of
+symptoms in a patient.[27] comparative studies.[31] CBT may be helpful for treating
+comorbid depression, with gains being maintained at 6 and
+Therapy should be planned based on the baseline 12 months of follow-up.[31] There is some evidence that CBT
+assessment, expectations, and preferences of the patient may be more effective than applied relaxation.[31] Although
+and feasibility. The distress and dysfunction have to be both individual and group CBT are equally effective,
+addressed first by working on regularizing the daily activities. individual therapy is associated with a larger effect size,
+CBT programs typically address the physical, cognitive, and earlier improvement in symptoms, and higher adherence.
+behavioral symptoms of GAD. Cognitive model (intolerance Therapy formats with eight or fewer sessions are also
+of uncertainty model) of GAD is shown in Figure 3.[28] The found to be effective; however, more number of sessions
+essential components of CBT are given in Table 8.[5,29,30] Steps may be required when addressing worry and depression.[32]
+involved in the delivery of CBT are shown in Figure 4. Mindfulness is found to have similar effects compared to
+CBT and behavior therapies.[33] A meta-analysis has shown
+Choice of treatment setting that digital/internet-based CBT is superior to waitlist and
+CBT for GAD is typically delivered on an outpatient basis. placebo control while being comparable to face-to-face
+However, in-patient treatment may be considered in the and group CBT.[34] Transdiagnostic therapies designed to
+presence of comorbid severe anxiety, OCD, substance be applicable across various emotional disorders have been
+abuse, personality disorder, depressive disorders, or found to be helpful, especially in those with comorbid
+self-harm behaviors. conditions. Comparative efficacy of this intervention vis-a-vis
+disorder-specific therapy is yet to be evaluated rigorously.[35]
+Efficacy of cognitive behavioral therapy for generalized
+anxiety disorder There are a number variants of CBT that have been examined using
+CBT is found to be more efficacious than waitlist control RCTs with and without replication: applied relaxation, cognitive
+condition in treating GAD, but its superiority over other therapy, mindfulness and acceptance-based interventions,
+metacognitive therapy (MCT), intolerance of uncertainty
+therapy, cognitive bias modification, emotion regulation
+Table 6: Instruments for assessing generalized anxiety
+therapy, yoga-enhanced CBT, exercise therapy, and short-term
+disorder
+psychodynamic psychotherapy. There is a need for further
+Scale Description
+studies to replicate their effectiveness as well as comparative
+Penn state worry questionnaire- A 3-item measure of worry severity
+effectiveness to CBT. Strength of recommendation for various
+ultrabrief version[24]
+psychological interventions for GAD is shown in Table 9.
+GAD-7[25] It is a 7-item screening tool for assessing
+severity in clinical practice and research
+GAD Severity Scale[26] 6-item scale to assess the severity of When to stop treatment
+GAD symptoms The number of sessions required for improvement may
+GAD – Generalized anxiety disorder vary depending on the severity of GAD and response to
+therapy. Although the optimal duration of therapy is not
+Table 7: Behavioral analysis for generalized anxiety determined, people with GAD may require more number
+disorder of sessions, spread over a year. Initial 12–15 sessions
+1. Nature (content of worry, somatic symptoms), intensity, frequency, may be spaced closely (weekly) followed by more spaced
+and duration of the symptoms. Any deficits that contribute to worry sessions (once a month). Treatment can be terminated
+(e.g., problem-solving skills, communication skills, assertiveness) either when the targets are achieved or when there is
+2. The situations/triggers for the symptoms, internal (e.g., ill health,
+plateauing of response.
+worries, symptoms of anxiety) and external (e.g., ill health of family/others,
+witnessing loss, stressful events in one’s life or other’s life, work demands,
+changes in personal/family/occupational domains) Guidance for maintenance and follow‑up
+3. Feared consequences of the symptoms (e.g., fear of losing control over There are no agreed upon guidelines for maintenance and
+thoughts, developing mental illness/physical illness – blood pressure and follow-up of psychotherapy in GAD. Therapy is generally
+other health problems)
+long term and may require regular follow-up up to 1 year.
+4. The factors that maintain the symptoms, i.e., avoidance, reassurance
+Open appointments to help handling stressful situations
+seeking, safety behaviors, beliefs about need for control and intolerance of
+uncertainty, accommodation by family members that trigger beliefs of uncertainty/need for control/positive
+5. History of mental health and physical health problems in self and family, beliefs of worrying would help in coping with stressful
+life events, ongoing stressors, personality traits of anxiety/worry proneness situations and reducing severity of symptoms.
+6. Sociocultural factors (family environment, modeling of anxiety/worry,
+life style, beliefs about worrying) relationships, support systems, and
+SPECIFIC PHOBIA
+expectations of the patient and family members regarding treatment
+7. Attempts made by the individual to overcome the problem. Awareness of
+the patient and significant others regarding the problem and psychological Phobia is defined as an excessive, irrational fear toward an
+interventions object or situation that cannot be explained or reasoned
+S234 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Situation/triggers (e.g., average scores in
+internal assessment examination)
+What if thinking (e.g., what if I fail in examinations?
+What if I have to discontinue the course?)
+Intolerance of Intolerance of
+uncertainty uncertainty
+Positive beliefs about worry (If I worry I will
+be able to figure out a solution, I should worry
+in order to be prepared for the worst situations)
+Worry (I am in a dangerous
+situation, I will not be able to
+clear the examinations)
+Negative Life
+Mood state events
+Anxiety
+Negative
+problem Cognitive avoidance
+orientation (avoid thinking about
+(perceiving problems, thought
+problems as suppression, distraction)
+threatening,
+doubting one’s
+ability,
+helplessness,
+hopelessness
+Figure 3: Cognitive model (intolerance of uncertainty model) of generalized anxiety disorder
+Table 8: Components of cognitive behavioral therapy for generalized anxiety disorder
+Psychoeducation About GAD: Its symptoms, course and treatment options
+Educate on nature of worry and cognitive perspective of worry, help distinguish productive from unproductive worry
+Self-help reading material on treatment may also be used, if feasible
+Cognitive Challenge unhelpful thinking such as overestimation of likelihood of harm/something bad happening, intolerance of
+restructuring uncertainty, beliefs on benefits of worry and worry about worrying (beliefs about negative effects of worry)
+Help shift attention away from worry
+Challenge underestimation of one’s ability to cope with the problems
+Behavioral Behavioral avoidance is addressed through graded exposure to activities and situations and minimizing reassurance
+strategies seeking or over preparing/planning (worry exposure)
+Worry induction and decatastrophizing (within session and home-work assignments)
+Teach problem solving skills for solvable practical problems and social skills training
+Self-monitoring would help keep track of the worry across the situations
+Arousal Physical symptoms of anxiety are addressed through progressive muscle relaxation and breathing retraining.
+reduction and Mindfulness meditation and acceptance exercises also are used to reduce focus on symptoms need for control and
+mindfulness experiential avoidance
+strategies
+(optional)
+GAD – Generalized anxiety disorder
+away and is beyond voluntary control. A person actively airplanes), and blood injury phobia (needles and invasive
+avoids the stimulus or endures it with extreme distress. procedures). About 75% have more than one phobia.[2]
+There is significant impairment in the individual’s
+functioning due to fear. Specific phobic stimuli include Specific phobia is the most prevalent anxiety disorder,
+animals (spiders, insects, and dogs), natural environment with a lifetime prevalence between 8.3%–13.8%.[1] Similar to
+(storms, thunder, and heights), situations (elevators and other anxiety disorders, it has a female: male prevalence
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S235
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Therapeutic alliance, providing a formulation of the identified problems (using Table 9: Recommendations for psychological
+simple understandable language)
+interventions in generalized anxiety disorder
+Therapy Strength of recommendation
+Self-monitoring of worry, symptoms, and functioning (worry dairy)
+Individual CBT A
+Group CBT B
+Arousal reduction and regularizing routines: Progressive muscle relaxation, CBT + pharmacotherapy B
+applied relaxation, biofeedback assisted relaxation, practice of yoga, regular
+Applied relaxation B
+physical activities, lifestyle modifications (optional)
+Internet based therapies B
+Transdiagnostic therapies B
+Cognitive restructuring: Through verbal reattribution, behavioral experiments, Third wave therapies B
+and exposure Psychodynamic psychotherapy B
+CBT – Cognitive behavioral therapy
+Exposure to feared cues without involving in maladaptive coping methods:
+dropping avoidance, reassurance seeking and worrying, tolerating
+Formulating a treatment plan
+uncertainty, reduce over-the-counter drug usage,
+CBT for specific phobias is based on the learning theories
+that explain acquisition and maintenance of phobias using
+Worry management methods: Worry time, worry postponement
+the two-factor model, where fear is acquired through
+classical conditioning (anxiety/aversive experience
+Teaching problem solving skills, social skills, and skills to distance from
+thoughts associated with the stimuli) and maintained through
+instrumental conditioning (avoidance). Acquisition of
+fears via modeling (vicarious) and informational learning
+Review after 4-6 weeks and take decision on changing the therapy,
+augmenting with another therapy or medication if no response (mindfulness (social messages) is emphasized by social learning theory.
+strategies, acceptance and commitment therapy)
+Cognitive models of phobia stress on the role of threat
+appraisal in the development of specific phobias. Based
+Relapse prevention: Long-term therapy may be required (up to 6 months),
+on these learning and cognitive theories, psychological
+followed by booster sessions on a monthly basis (maintain healthy routines,
+identify early signs, plan to identify difficult situations, and utilize the skills treatments of specific phobias focus on exposure to phobic
+learnt)
+stimuli, habituation, and extinction of fear response and
+Figure 4: Steps in delivery of cognitive behavioral therapy for reappraisal of threat.
+generalized anxiety disorder
+Exposure therapies
+ratio of around 2:1.[1] Treatment seeking and utilization in Exposure is the treatment of choice in the management of
+specific phobias are delayed or limited and many do not specific phobias and refers to deliberate presentation of
+seek mental health consultations. the feared stimulus for a prolonged period of time, without
+engaging in distraction, avoidance, or any other safety
+Assessment behaviors, until the stimuli no longer evoke fear or the fear is
+In addition to a detailed clinical interview, assessment for significantly reduced. Habituation (to the fear response) and
+CBT for specific phobia must include functional analysis of extinction are two key mechanisms by which exposure works.
+cues, extent of avoidance, safety behaviors, accommodation
+by others, nature of arousal symptoms, negative automatic Exposure can be delivered through several ways. The most
+thoughts associated with it, and degree of impairment. If effective way is that of in vivo exposure or direct exposure to
+there is more than one phobic stimulus, this information feared stimuli, followed by imaginal exposure in which the
+is obtained separately for each of them. The functional patient is asked to imagine the feared stimuli, and in vitro or
+analysis will also document information on early learning virtual reality-based exposure.
+experiences that are likely contributors to the acquisition
+of the phobia. A fear hierarchy, with an ascending order of Virtual reality exposure
+the triggering cues, along with subjective units of distress is VRE is a technology-based exposure in which the person
+constructed for the purpose of exposure therapy. is exposed to the feared stimulus using a simulated
+environment within the controlled setting and is immersive
+Self-report of fears and interactive in nature, therefore closest to real-life
+The Fear Questionnaire by Mathews and Marks[36] is a exposure. VRE has demonstrated efficacy in specific
+self-report measure of fear and avoidance of various stimuli, phobias (fear of flying, interactions, and large open spaces),
+including blood, traveling alone, social situations, and with large-to-moderate effect sizes and maintenance of
+going to a dentist. Items are marked on both avoidance and gains over follow-up.[37]
+distress experienced. Several other measures are available
+that tap specific fears (spider, dental, and blood injury) and Despite its demonstrated efficacy, one of the major
+may be used in addition to functional analysis. challenges in exposure therapy is the high attrition rate
+S236 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+and refusal to participate in exposure due to intolerance Choice of treatment setting
+of anxiety. Brief inadequate exposures result in insufficient Most patients are treated on an outpatient basis and remain
+exposure to feared stimuli, or if safety behaviors or subtle functional in most areas of life.
+avoidance during exposure result in enhancement of fear
+response, through incubation. Efficacy of cognitive behavioral therapy in specific phobia
+Review of psychological treatments for specific phobias
+Modeling is a therapeutic approach based on vicarious indicates largest and consistent evidence for exposure
+learning. Modeling can be achieved by directly modeling therapies. While all modalities of exposure are effective
+the behavior by a role model (e.g., therapist in the session) compared to other treatment components, in vivo exposure
+or through video modeling (e.g., a successful medical is superior compared to imaginal and in vitro exposure.
+procedure). Modeling here is used to promote or facilitate Exposure therapies also outperform treatments that do not
+approach behaviors toward the feared object. include exposure as a component, such as applied relaxation
+with no exposure, only cognitive restructuring, AT. With
+Systematic desensitization (SD) is a therapeutic approach respect to factors moderating effect size and outcome,
+is based on the principle of reciprocal inhibition. SD type of phobia is not a significant factor; however, the
+comprises three steps of training in deep muscle relaxation, number of treatment sessions was a significant moderator,
+constructing a fear hierarchy, and presenting the anxiety with multi-session treatments performing better than
+cues, by juxtaposing them with the experience of relaxation single-session treatments.[40] Strength of recommendation
+such that relaxation inhibits the anxiety. for various techniques targeting specific phobia is shown
+in Table 10.
+While exposure therapy is the treatment of choice for
+specific phobias, cognitive therapy addresses threat SOCIAL ANXIETY DISORDER
+appraisal, in addition to safety behaviors and avoidance.
+Cognitive therapy in specific phobia is more effective SAD is a common anxiety disorder, with a lifetime
+than waitlist control and no treatment controls and may prevalence varying from 3% to 13%.[1] It has an onset in
+be more indicated when maintaining factors are related early-to-middle adolescence and is more prevalent among
+to cognitions and safety behaviors than merely the fear women.[1] SAD is characterized by marked and persistent
+response.[38] However, few studies employ cognitive fear of social (meeting people, attending a social gathering)
+restructuring alone to allow for comparisons between or performance (public speaking) situations, with fear of
+treatments. being embarrassed, scrutinized, or negatively evaluated.
+Social situations are avoided or endured with distress.
+Treatment of blood injury phobia Other clinical features of SAD include experience of
+Blood injury phobia is a distinct focal phobia that is physiological arousal (e.g., fear of blushing, sweating,
+characterized by a vasovagal response that results in and palpitations) and negative cognitions (e.g., social
+fainting (syncope), and there is a drop in blood pressure and/or cognitive catastrophes, such as losing control over
+rather than anxiety. Persons with blood injury phobia may emotions and going blank). SAD is marked by functional
+additionally have significant avoidance of hospitals and impairment and is more than normal shyness, although
+other associated cues such as needles and blood. While people with SAD may report being shy individuals. SAD is
+exposure is effective in treating avoidance response to characterized by high degree of psychiatric comorbidity.
+generalized cues, applied tension (AT), a technique that The most common comorbid conditions include major
+raises blood pressure, is recommended when working depressive disorder, other anxiety disorders, substance use
+on exposure to specific cues related to the phobia.[39] disorders, and personality disorders and notably anxious
+AT, a five-session behavioral coping technique, has two avoidant personality disorder.[41]
+components: learning a tension technique and applying it
+in specific situations. Treatment begins with providing the Assessment
+patient a rationale for AT based on the diphasic response The most widely used measures in SAD are shown in
+of initial increase in blood pressure and subsequent drop, Table 11. A detailed clinical history and a cognitive
+resulting in fainting. Patient is instructed to note down early behavioral or functional analysis [Table 12] are essential
+cues of this response. Following this, the tension method is steps in the assessment for therapy. Assessment is aimed
+introduced, whereby patient is asked to tense, gross muscle at identifying nature of fears, extent of avoidance, fears
+groups across arms, chest, and legs, until the patient feels of negative evaluation, severity of social anxiety, and
+a sense of warmth in the face. In the next three sessions, impairment in functioning and comorbid conditions.
+the patient is exposed gradually to pictures of injury and
+blood and then to actual settings, such as blood donation Formulating a treatment plan
+and minor surgeries, during which the patient is instructed Cognitive models of social anxiety focus on self-focused
+to apply the tension technique. attention and resultant heightened self-consciousness and
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S237
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+self-processing biases,[47] mental representation of self as Table 10: Recommendations for psychological
+seen by others and attentional biases to threats in social interventions for specific phobia
+situations,[48] and metacognitive processes[49] underlying social
+Therapy Strength of recommendation
+anxiety. Typical model and the steps involved in administering
+Exposure therapy A
+CBT for SAD are shown in Figures 5[47,48] and 6, respectively. In vivo exposure A
+Imaginal exposure A
+CBT for social anxiety is typically conducted over In vitro exposure A
+14–16 sessions (weekly, over 3–4 months). The essential Systematic desensitization B
+Applied tension* B
+components of the program are shown in Table 13. Patients
+Cognitive restructuring B
+may also be encouraged to use workbooks to maximize
+*For blood/injury phobia
+gains in therapy.[50] Systematic and repeated practice of
+skills is essential and the key to better outcomes across all
+Table 11: Instruments for assessing social anxiety
+approaches within CBT.
+disorder
+Name of the scale Purpose
+Exposure
+Exposure is an essential component of CBT. It involves graded Liebowitz Social A 24-item, clinician rated measure of fear and
+Anxiety Scale[42] avoidance in social and performance situations
+exposure to socially feared situations without any escape
+BFNE[43] A 12-item measure of the fear of negative
+or avoidance (including distraction and safety behaviors).
+evaluation, a cognitive component in SAD
+Exposure can be in vivo or in imagination and would be largely SIAS[44] This 19-item measure assesses cognitive,
+dependent on the nature of the feared stimuli and opportunities affective, or behavioral reaction to a social
+interaction in dyads or groups
+for exposure. Although exposure is a critical element in the
+SPIN[45] Screening tool which assesses fear, avoidance,
+treatment of phobias, there are some challenges posed in
+physiological arousal related to social phobia
+the use of exposure in SAD. These include (a) being able to SPRS[46] Outcome measure consisting of five rating scales
+ensure graduated and repeatable tasks as social situations assessing key components of the Clark and
+may be variable and somewhat unpredictable in outcomes; (b) Wells’ (1995) model[47] of social phobia - distress,
+avoidance, self-consciousness, frequency of
+prolonging exposure time as social situations may be naturally
+safety-seeking behaviors, and negative beliefs
+brief; (c) ensuring that adequate time is spent in exposure,
+SPRS – Social Phobia Rating Scale; SPIN – Social Phobia Inventory;
+due to cognitive processes such as self-focused attention;
+SIAS – Social Interaction and Anxiety Scale; BFNE – Brief Fear of Negative
+and (d) dealing with the cognitive aspects of social phobia, Evaluation scale; SAD – Social anxiety disorder
+such as cognitive errors.[51] These difficulties are overcome
+using in-session exposures, behavioral experiments, and Table 12: Behavioral analysis for social anxiety disorder
+role-plays, which provide opportunities to ensure consistency
+1. The antecedents/situations/triggers of social anxiety (social interactions,
+across exposure tasks. performance situations like public speaking, being center of attention,
+attending social functions, small/large group interactions, introducing self in
+a group); intensity and magnitude of anxiety, associated anxiety symptoms.
+Cognitive restructuring
+These are elicited using specific, recent incidents of social anxiety
+Cognitive restructuring is achieved through both verbal
+2. Specific cognitions (negative automatic thoughts, dysfunctional
+and behavioral methods. As part of the process of cognitive assumptions, cognitive errors such as mind reading, selective abstraction),
+restructuring, individuals are taught to (1) identify negative anticipated anxiety and outcomes (self-focused attention, fears of going
+thoughts that occur before, during, or after anxiety-provoking blank, social catastrophes like a making a fool of oneself, losing control
+situations using self-monitoring; (2) evaluate the accuracy over anxiety symptoms, others noticing one’s anxiety)
+3. Maintaining factors such as use of safety behaviors (holding a spoon
+of their thoughts using information from Socratic
+tight to avoid trembling of hands, covering one’s face to avoid attention,
+questioning and/or through behavioral experiments that excessive rehearsal before a presentation), avoidance (not making eye
+are aimed at testing predictions (e.g., “I will stammer so contact, avoiding meetings, refusing promotions), perfectionistic beliefs
+much that the shop-keeper will not understand me”); regarding self-presentation and social behaviors
+4. Early learning experiences (including parenting styles, exposure to
+and (3) generate rational alternative thoughts based on
+anxiety experiences, anxious temperament, sensitivity to criticism, role
+the information acquired through and rate the conviction
+models (or absence of appropriate role models), social skill deficits, critical
+in these rational alternatives. Cognitive restructuring events such a bullying, illness or other factors that impact self-image
+techniques and exposure are interlinked in that exposure 5. Sociocultural factors, social relationships, support systems, and
+tasks and behavioral experiments can be used to challenge expectations of the patient and family members regarding role functions
+and demands
+dysfunctional beliefs. Modification of dysfunctional beliefs
+can also be attempted using other verbal methods, such
+as asking patient to drop excessive rules for one’s social Applied relaxation
+behavior, keeping a log of positive experiences that counter Excessive physiological arousal is common in SAD and
+their predictions, recording evidence from the external may interfere with expression of social skills and enhance
+situation that contradicts their biases, and facilitating self-processing biases. Some patients also report panic attacks.
+perspective-taking.[47,48] The role of relaxation in social anxiety has been discussed with
+S238 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Entering a social situation (social
+situation seen as a threat, preexisting
+perception of audience as being critical,
+negative)
+Dysfunctional Assumptions about self are
+activated (If I show others that I am anxious,
+people will think I am a fool”: assumptions
+based on early experiences, high personal
+standards for self, negative comparisons of
+self to others)
+Viewing self in the situation as seen by others: Looking like
+a fool, “appearing incompetent” “fumbling like an idiot”:
+Also involves excessive focus on self, and self-
+consciousness, attentional biases (not considering contrary
+information and excessive focus on self)
+Safety behaviors, avoidance, attentional Somatic/physiological and cognitive
+biases toward or away from threat, e.g., Not symptoms of anxiety (mind going blank,
+making eye contact or looking specifically at palpitations, and dryness of mouth); which
+some persons, trying to finish conversation also act as cues to signal danger and
+sooner, holding the table tight to prevent evidence for perceive loss of control over
+trembling emotions)
+Figure 5: Cognitive model of social anxiety disorder
+Table 13: Components of cognitive behavioral therapy for social anxiety disorder
+Components Description
+Psychoeducation Educating client regarding factors contributing to social anxiety, role of safety behaviors, avoidance, and
+attentional biases in SAD, sharing the CBT model using information from assessment
+Self-monitoring of anxiety Self-monitoring of social and performance situations that trigger anxiety, cognitions and emotions associated
+with them and safety behaviors adopted
+Cognitive restructuring Identifying automatic thoughts, cognitive errors, such as mind reading, fortune telling, modifying dysfunctional
+(for self-processing biases, assumptions and fear of negative evaluation using Socratic dialogue, verbal challenging strategies (e.g., keeping
+cognitive errors and beliefs) a positive data log, maintain a social balance sheet to gather evidence for and against assumptions). Using
+behavioral experiments, based on the PETS model[46] to challenge specific predictions in social situations
+Reducing self-focused attention Understanding self‑focused attention, in maintaining social anxiety. Specific assumptions regarding safety
+and safety behaviors behaviors, self-focused attention are tested using video and audio exercises, tasks for shifting of attention to
+external cues such as objects, sounds (to reduce self-focused attention)
+Graded exposure In session (controlled exposures) and between-session exposure tasks to reduce avoidance, provide
+opportunities to experience and face anxiety, while dropping safety behaviors
+Addressing anticipatory and Using self‑monitoring, postevent processing is identified and avoiding rumination is recommended
+postevent processing (rumination)
+Relapse prevention Continued exposure in real life situations. Making a blue print for plans after end of active treatment.
+Anticipating and dealing with high-risk situations are discussed
+CBT – Cognitive behavioral therapy; SAD – Social anxiety disorder; PETS – Prepare-Expose-Test-Summarize
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S239
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Psychoeducation regarding SAD and sharing cognitive behavioral therapy or engaged in other activities despite their anxiety.
+model using information from assessment In-patient setting may be considered only when patient has
+other comorbid conditions, such as severe depression.
+Self-monitoring of anxiety situations, thoughts and emotions
+Efficacy of cognitive behavioral therapy in social anxiety
+Identification of triggers of social anxiety, patterns of avoidance, and safety disorder
+behaviors
+Among the various interventions, individual CBT appears
+to have the largest effect size for the treatment of SAD.[52]
+Cognitive restructuring by identifying automatic thoughts and challenging
+The most frequently examined components of CBT for SAD
+them
+include exposure therapies, cognitive restructuring (with
+and without exposure), applied relaxation, and SST.
+Graded exposure (in session and between session) along with graded
+cessation of avoidance, distraction strategies and safety behaviors Exposure alone or in combination with cognitive
+restructuring has demonstrated the greatest effect
+sizes among the various components of CBT, and other
+Reducing self-focused attention and safety behaviors, video and audio
+feedback to address self-processing biases (recording a presentation and components when incorporated with exposure result in
+playing it back to challenge biases)
+significant changes in symptoms. Studies examining SST
+and its efficacy in SAD indicate that little evidence for SST
+Using behavioral experiments and Socratic dialog to address dysfunctional alone in SAD.[53] However, social skills, in combination
+assumptions and high standards set for self in social situations about self
+with exposure, are reported to yield larger effect sizes
+than exposure alone.[54] The recommendations for
+Addressing anticipatory and post event processing (rumination)
+psychological intervention components of CBT are shown
+in Table 14.
+Relapse prevention (developing blue prints for future situations)
+Figure 6: Steps of cognitive behavioral therapy for social Third-wave behavior therapies and other psychological
+anxiety disorder approaches for social anxiety disorder
+There is limited but emerging evidence for newer
+varying viewpoints, with some models excluding relaxation therapeutic approaches, within CBT such as ACT and
+altogether.[47,48] Applied relaxation involves training the client mindfulness-based interventions, as well as for manualized
+through various stages of relaxation from progressive muscle psychodynamic psychotherapy and interpersonal therapy.
+relaxation to rapid relaxation, with the aim of producing the Therapeutic components in each of these approaches have
+relaxation response in a short time, to be used in different been modified for social anxiety. These also incorporate
+social situations (applied) at the earliest experience of anxiety. strategies similar to self-exposure, restructuring of beliefs
+It is a portable form of relaxation and involves elements of regarding self and skills training. Hence, it may be difficult
+exposure in the final phase of application. It is meant to serve to ascertain exact mechanisms that result in improvement
+as a coping mechanism. The client should be aware of this with these therapies.
+and should not use relaxation as a safety behavior. Although
+it was initially used extensively in PD, later studies have Variants in delivery and format of cognitive behavioral therapy
+demonstrated its role in SAD as well. Attempts to deliver CBT in varying formats have been
+reported. These include cognitive behavioral group
+Social skills training therapy (CBGT), brief CBT and internet-delivered CBT (ICBT),
+Majority of persons with SAD may have performance deficits and VRE therapy (VRET).
+due to anxiety, rather than actual skills deficits. The need to
+address social skills has been linked to social competence Rapee and Heimberg’s cognitive behavioral group therapy
+and functioning in persons with SAD. Assertiveness skills (CBGT) model has been examined widely.[48] Reviews
+training addresses specific interpersonal skills such as comparing individual CBT with group CBT report that both
+making and refusing requests, expressing negative and are equally effective in reducing levels of social anxiety.
+positive feelings, negotiating, and bargaining. Social skills There is a paucity of evidence for the efficacy of brief CBT;
+training (SST) involves a significant component of exposure however, preliminary evidence suggests that this may be a
+to social situations as part of the training and contributes promising approach.[55]
+to the reduction in anxiety. The common techniques used
+for SST include modeling, role-play, behavioral rehearsal, Internet-delivered cognitive behavioral therapy
+reinforcement, feedback, and homework practice. In a review of over 21 studies, of both guided and unguided
+ICBT for SAD, substantial reductions in social anxiety were
+Choice of treatment settings noted, with larger within-group effect sizes and long-term
+Most treatment-seeking persons with social anxiety are gains from 3 months to 5 years.[56] However, ICBT may not
+treated in outpatient settings since they are often employed be equally beneficial in all patients with SAD and careful
+S240 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+screening of patients is important. It must be noted avoidance.[61] Active sessions may be terminated when
+that control groups have been largely waitlist groups. the patient reports improvement on both self-report and
+A systematic review comparing ICBT with face-to-face clinician-assessed measures. It is recommended that at the
+therapy found that the two modes of CBT delivery were start of the therapy, the therapist and patient collaboratively
+equally effective for SAD.[57] discuss the goals of therapy and expected realistic outcomes.
+Unlike in other anxiety disorders, complete extinction of
+Virtual reality for social anxiety disorder anxiety is unlikely in SAD. This is particularly true when
+Virtual reality is an emerging CBT component for SAD. It patients have generalized social anxiety and/or AAPD.
+offers opportunities for exposure to interactions and other
+situations, under simulated conditions. Generalization from Guidance for maintenance and follow‑up
+virtual reality to actual social situations may be a challenge Relapse prevention is an essential component of CBT for SAD.
+when in vivo exposure and homework are not planned. Due to the nature of SAD, continued practice of exposure
+Studies on virtual reality for social anxiety additionally is recommended. Maintenance of gains is determined by
+indicate that VRET alone is not as effective as compared how prepared the patient is to deal with future situations
+to individual in vivo exposure therapy or virtual reality that of anxiety. Hence, during the phase of termination, the
+patient and therapist discuss and prepare a blueprint of
+combines actual social interactions. A meta-analysis of
+what to expect after termination of active sessions and
+technology-based interventions for SAD, including VRET,
+the importance of reduced avoidance. Booster sessions
+ICBT, and cognitive bias modification, indicated that both
+may be planned collaboratively to enhance consolidation
+ICBT and VRET show promise in reducing symptoms of
+and continued learning for specific skills. Studies on CBT
+SAD and that ICBT had an advantage over active control
+suggest maintenance of gains in social anxiety up to a year
+conditions.[58]
+following therapy.
+Other therapeutic approaches and third-wave therapies
+OBSESSIVE–COMPULSIVE DISORDER
+MCT[59] employs strategies such as detached mindfulness,
+attentional control training, and metacognitive Socratic
+OCD is a disabling psychiatric disorder characterized by the
+dialog in addition to classic CBT. Evidence for its efficacy
+presence of obsessions and compulsions. Obsessions are
+and superiority over traditional CBT is limited. It may be
+repetitive intrusive and often unwanted thoughts, images,
+helpful in addressing metacognitions.[60]
+or urges, which are associated with anxiety or distress.
+Patients with OCD perform repetitive and often ritualistic
+When to stop treatment
+behaviors and/or mental acts to decrease the anxiety/distress
+Termination of active sessions in CBT is determined by
+associated with obsessions. The current classificatory
+the reduction in symptoms, rated on measures of anxiety,
+systems recognize that insight of patients regarding the
+irrationality or excessiveness of their symptoms may vary
+Table 14: Recommendations for psychological from good to poor to delusional.
+interventions for social anxiety disorder
+Therapy Grading of OCD has a lifetime prevalence of 1%–3%.[62] Untreated OCD
+evidence often runs a chronic waxing and waning course. OCD is often
+Exposure alone A comorbid with other conditions such as mood, anxiety,
+Cognitive restructuring alone A
+and personality disorders, as well as childhood-onset
+Cognitive restructuring + exposure (CBT) A
+neuropsychiatric conditions such as tic disorders and
+CBGT A
+CBT + pharmacotherapy (antidepressants) A attention-deficit hyperactivity disorder. Further, obsessive–
+Internet-based CBT (with minimal therapist guidance via A compulsive spectrum conditions such as BDD and hoarding
+email/SMS) disorder are often underrecognized comorbidities.
+VRE A
+Serotonin reuptake inhibitors and/or CBT are the first-line
+Applied relaxation with exposure B
+treatments for OCD.[63]
+Mindfulness based interventions (acceptance and B
+commitment and mindfulness based stress reduction***)
+Interpersonal therapy for social anxiety*** B Assessment
+Social skills training alone C After establishing a diagnosis of OCD, a detailed evaluation
+Applied relaxation alone C
+of clinical profile is necessary before initiating therapy. It
+MCT C
+is essential to identify psychiatric comorbidities including
+Brief CBT (<10 sessions) C
+Short-term psychodynamic psychotherapy*** C mood, anxiety, and personality disorders, which might
+Supportive psychotherapy C require separate attention and also help the therapist
+***Treatment components are similar to CBT (included modified exposure, readjust the course of therapy accordingly. It would be
+cognitive restructuring, and distancing). CBGT – Cognitive behavioral group helpful to assess various facets of illness, including severity,
+therapy; MCT – Metacognitive therapy; VRE – Virtual reality exposure;
+CBT – Cognitive behavioral therapy nature of obsessions/compulsions, extent of avoidance,
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S241
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+and family accommodation. Assessment of underlying The cornerstone of OCD therapy has been exposure and
+constructs such as obsessive beliefs, sensory phenomena, response prevention (ERP), which involves graded exposure
+and disgust sensitivity may help readjust therapy in certain to the obsession triggers while preventing compulsive
+circumstances. Structured instruments for assessing rituals and avoidance until the anxiety gradually wanes off.
+OCD are summarized in Table 15. Behavioral analysis of The principle behind ERP is the extinction of conditioned
+symptoms [Table 16] aids in understanding the symptoms fear response through habituation and disconfirmation of
+from a behavioral perspective and thus aids in planning underlying beliefs/assumptions. ERP also helps patients
+gain self-efficacy through mastery of fears without having
+therapy.
+to rely on avoidance or compulsions. Recent models
+emphasize on inhibitory learning paradigm.[79] Purely
+Formulating a treatment plan
+cognitive interventions without behavioral techniques
+Before starting CBT, it is important to discuss an
+are also sometimes employed. The CBT model for OCD is
+individualized CBT model for OCD, therapeutic techniques
+depicted in Figure 7. The components of CBT for OCD are
+involved, expected frequency/number/duration of sessions,
+summarized in Table 17. Steps involved in CBT are shown
+need to tolerate anxiety as a part of treatment, need for
+in Figure 8.
+homework compliance, and involvement of family members,
+if required.
+Therapy should be planned based on a personalized
+formulation constructed around the symptoms and
+Different CBT models have been proposed for OCD. The
+identified cognitive distortions/beliefs. A collaborative
+earlier two-stage behavioral model, based on learning theory,
+understanding of the formulation with the patient is
+explains the acquisition of obsessive fears through classical
+essential before starting intervention.
+conditioning, while avoidance/compulsions maintain the
+fears through operant conditioning. More recent cognitive
+Choice of treatment settings
+models explain obsessions as normal cognitive intrusions,
+CBT for OCD is generally provided on an outpatient basis
+which are misinterpreted as threatening by patients with
+as individual therapy. Typical CBT package is delivered
+OCD due to certain underlying beliefs. These obsessive over 2–3 months of 2–3 sessions a week for around
+beliefs, such as exaggerated threat perception, inflated 15–20 sessions.
+responsibility, need for perfection/certainty, thought-action
+fusion, and over-importance of thoughts and need to control Access to trained therapists and time constraints are
+thoughts, may be secondary to individualistic factors such major barriers in the Indian setting. Recent developments
+as early life experiences, personality traits, and critical life such as ICBT or computer-delivered CBT decrease direct
+incidents. therapist contact, and the therapy can be delivered
+Table 15: Instruments for assessing obsessive-compulsive disorder
+Instrument Description
+Y-BOCS[64] The Y-BOCS symptom checklist assesses for current, past and principal symptoms of OCD-helps identify
+targets of therapy
+The Y-BOCS severity scale is considered the gold standard for assessing severity of OCD. It is helpful in
+monitoring of symptoms ‑ has expert consensus defined cut‑offs for diagnosis, severity, treatment response[65]
+OCI-R[66] 18-item self-report measure used for assessing severity across dimensions
+MOCI[67] 30-item self-report scale with dichotomous responses used for screening and severity
+FOCI[68] Self-report questionnaire- with 2 parts for screening and severity rating
+Leyton obsessional inventory [69] 69-item self-report questionnaire for assessing obsessional symptoms and traits
+DY-BOCS[70] Assesses for severity across various symptom dimensions
+Dimensional Obsessive-Compulsive scale[71] 20-item self-report scale to assess severity of symptoms along 4 dimensions
+Scales to assess insight in OCD
+YBOCS, Item 11[64] Single item - rates insight between 0-4
+BABS[72] 7-item clinician-administered scale to assess the degree of conviction and insight into beliefs
+OVIS[73] 11-item clinician-administered scale to assess severity of overvalued ideation
+Assessment of related constructs
+FAS[74] 13-item clinician-administered scale to screen and monitor family accommodation
+OBQ[75] 44-item self-report to assess beliefs underlying development and maintenance of OCD
+MCQ-30[76] Self-report questionnaire which assesses beliefs about thinking
+DPSS[77] 16-item scale for assessing the tendency and emotional impact of disgust
+University of São Paulo Sensory Self-report scale which includes checklist and assessment of severity for sensory phenomena in OCD subjects
+Phenomena Scale[78]
+OCD – Obsessive-compulsive disorder; Y-BOCS – Yale-Brown Obsessive-Compulsive Scale; OCI-R – Obsessive-compulsive inventory-revised; MOCI – Maudsley
+Obsessive-compulsive inventory; FOCI – Florida Obsessive-Compulsive Inventory; DY-BOCS – Dimensional Yale-Brown Obsessive-Compulsive Scale;
+BABS – Brown Assessment of Beliefs Scale; OVIS – Overvalued ideas Scale; FAS – Family Accommodation Scale; OBQ – Obsessive-beliefs questionnaire;
+MCQ-30 – Metacognitions questionnaire – 30; DPSS – Disgust propensity and sensitivity scale
+S242 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+in the home atmosphere. The principles of CBT are Intensive residential treatment (IRT) is a form of in-patient
+similar to that of office-based CBT, but the major part of treatment for OCD, which is generally provided for severe
+the intervention is done by logging to a website and and treatment-resistant patients, who do not respond to
+outpatient treatment. It is a multidimensional treatment
+administering online self-help material. Periodic therapist
+that involves elements of medication management, intensive
+contact (online or telephonic) may be necessary to improve
+behavioral therapy, milieu support, and sometimes group
+outcomes and prevent dropouts in internet-based therapy.[80]
+therapy. The CBT sessions are more intensive with close
+Notwithstanding promising results from uncontrolled trials,
+supervision of ERP by a multidisciplinary team of trained
+there is limited evidence in the form of well-controlled
+therapists. Exposure tasks are facilitated by addressing
+trials. Moreover, this mode of intervention has not been
+therapeutic milieu and family accommodation.
+evaluated in the Indian setting.
+Efficacy of cognitive behavioral therapy in obsessive–
+compulsive disorder
+Table 16: Behavioural analysis of obsessive-compulsive
+CBT involving ERP has been consistently shown to be
+disorder
+efficacious in the treatment of OCD.[81] All treatment
+1. Specific antecedents that trigger anxiety/distress, which include both
+guidelines, including Indian guidelines, recommend CBT
+external (e.g., washrooms) and internal triggers (e.g., thoughts, images).
+It is important to elaborate on the specific and idiosyncratic nature of cues as a first-line treatment for OCD.[63] When therapists are
+to plan exposure-based therapy. Build a hierarchy of the triggers based on available, CBT/ERP may be attempted as monotherapy in
+subjective units of distress scale (0-100) mild-to-moderately severe OCD. Severely ill patients may
+2. Feared consequence of the triggers (e.g., contracting illness, something
+require a combination of CBT and an Selective Serotonin
+terrible happening to family members) - would aid in planning exposure
+Reuptake Inhibitor (SSRI). CBT is the first-line augmenting
+tasks, preventing subtle avoidance and plan cognitive restructuring
+3. Elaborate understanding of rituals (compulsions) including overt strategy for partial/nonresponders to SSRIs.[82]
+compulsions, mental compulsions, and compulsions by proxy. The
+sequence and function of each ritual have to be elicited A recent meta-analysis did not find significant difference in
+4. Avoidance/other safety behaviors (e.g., not using public toilets, avoiding
+efficacy between individual and group therapy.[83] However,
+work/cooking), which passively prevent habituation and maintain
+group therapy unlike individual CBT has not been evaluated
+symptoms
+5. Family accommodation of symptoms (e.g., performing patient’s work such in large well-controlled studies.
+as arranging clothes, cooking, helping patient avoid triggers, compulsions by
+proxy), which has to be decreased gradually as part of exposure tasks With regard to IRT, uncontrolled studies from
+6. Insight into obsessions and motivation for change has to be addressed
+different centers have shown improvement in 50%–
+before planning exposure-based strategies.
+70% of predominantly treatment-resistant samples.
+7. Personality traits, which may maintain symptoms (e.g., distress
+tolerance, harm avoidance, perfectionism) A meta-analysis of 19 IRT studies involving 2306
+8. Socio-cultural factors - cultural beliefs (e.g., about cleanliness), support participants found a mean reduction of 10.7 (9.8–11.5)
+system, expectation of patient and family members points in Yale-Brown Obsessive–Compulsive Scale
+Table 17: Components for cognitive behavioral therapy for obsessivecompulsive disorder
+Step Components
+Psychoeducation About OCD (symptoms, course, and treatment)
+Principles of CBT for OCD
+Rationale behind ERP (concept of habituation and fear extinction and how compulsions, avoidance, and
+safety behaviors maintain obsessions and prevent fear extinction and disconfirmation of beliefs)
+Expected frequency/number/duration of sessions
+Need to tolerate anxiety as part of treatment
+Importance of between session exposures
+Involvement of family members
+Therapeutic formulation Personalized formulation of therapy based on symptoms and individual cognitive distortions/beliefs
+Collaborative understanding of formulation
+Exposure and Response prevention Build a hierarchy of obsessional triggers based on subjective units of distress (0-100)
+Graded exposure from the least to the most anxiety provoking stimulus and graded response prevention
+Practice exposure till reduction or cessation of anxiety/fear
+Homework ERP exercises
+Cognitive restructuring Elicit faulty appraisals and cognitive distortions
+Gather evidence for and against beliefs and explore alternative benign explanations
+Challenge the assumptions employing Socratic questioning and behavioral experiments
+Handling obsessive thoughts/ruminations Being a “neutral spectator” by observing thoughts without interpreting, controlling and resisting thoughts
+Relapse prevention Explain need for continued exposure
+Periodic booster sessions, as required
+Education regarding possibility of future relapse, early warning symptoms and signs of subtle avoidance
+CBT – Cognitive behavioral therapy; OCD – Obsessive-compulsive disorder; ERP – Exposure and response prevention
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S243
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Forge therapeutic alliance, psychoeducation about cognitive behavioral
+*- Therapeutic
+therapy model of obsessive–compulsive disorder, collaborative cognitive
+techniques
+behavioral therapy formulation and discuss principles and format of therapy
+(frequency, duration, components)
+Trigger Exposure to
+(Touched a pen) triggers* Build a hierarchy of triggers of obsessions/anxiety based on subjective units
+of distress scale
+Cognitive restructuring (using verbal techniques and behavioral experiments)
+may be performed as required
+Intrusive thought
+(It may be dirty)
+Obsessive beliefs Graded exposure to triggers and prevent compulsive rituals. Demonstrate
+(Increased threat Cognitive habituation in-session and plan homework sessions
+restructuring*
+perception)
+Misinterpretation Gradually decrease subtle avoidance strategies/safety behaviors and family
+of obsessions accommodation
+(I may get infected)
+Reassess progress after 4–6 weeks. If there is no improvement, evaluate and
+address possible causes of inadequate response (inadequate understanding
+of symptoms, insight, motivation, avoidance behaviors, replacement of rituals,
+family accommodation, comorbidity, personality factors)
+Anxiety/distress
+Response
+prevention* Address barriers and implement therapy including cognitive restructuring/
+family intervention as required
+Avoidance
+Compulsions
+(Handwashing) Safety behaviors If there is adequate response to therapy, plan termination and booster
+Attempts to suppress sessions to prevent relapse
+Figure 8: Steps involved in cognitive behavioral therapy for
+Reinforcement Reinforcement
+obsessive–compulsive disorder
+Relief of anxiety
+Inference-based approach to therapy is more or less a
+cognitive model. It presumes that obsessive doubts arise
+from inferences about reality made based on an internal
+No opportunity for
+habituation narrative, which is remote from empirically available sensory
+and disconfirmation information. This leads to an incorrect interpretation of a
+of beliefs/cognitions
+distant possibility as reality, while compulsions result from
+Figure 7: Cognitive behavioral therapy model for obsessive– acting as if the possibility is true. Therapy targets insight
+compulsive disorder through reality reorientation by staying in touch with
+sensory information. Two controlled trials have shown
+(Y-BOCS), with a large effect size of 1.87.[84] There is efficacy comparable to CBT.[89] There is a need for larger
+evidence to suggest that the improvement may persist trials, especially in those with poor insight.
+up to 6 months postdischarge.[85,86] However, difficulty in
+obtaining suitable controls precludes gathering higher Third-wave therapies such as ACT and mindfulness-based
+level of evidence for this intervention. cognitive therapy are yet to be tested in controlled trials.
+Stress management, relaxation training, and psychodynamic
+A recent innovation is the Bergen 4-day concentrated therapies have scant evidence as standalone treatments for
+exposure treatment, which involves concentrated OCD. The role of pharmacological augmenters of CBT, such
+exposure-based therapy over a 4-day period for groups as d-cycloserine, is yet to be established.
+consisting of 3–6 patients, by the same number of therapists.
+The therapy is described as “individual treatment delivered The treatment recommendations for psychological
+in a group setting” and is found to be highly efficacious in interventions for OCD are summarized in Table 18.
+uncontrolled studies.[87]
+When to stop treatment
+Family interventions targeting family accommodation and The decision for termination of therapy should be made
+aimed at improving family functioning have been found to based on the progress in relation to collaboratively
+be helpful in reducing symptoms of OCD.[88] Thus, family arrived goals at the initiation of therapy. It is important
+involvement in therapy has to be encouraged, especially in to periodically monitor symptoms for the improvement
+those with high family accommodation. and plateauing of response. While evidence suggests that
+S244 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+full remission at the end of treatment predicts long-term grooming behaviors, reassurance-seeking, or cognitive acts
+outcomes,[90] it might be a utopian goal in many patients in response to appearance preoccupations. DSM-5 has an
+with OCD. Therapy may be terminated based on a realistic insight specifier, which helps clinicians to identify patients
+goal, when most of the planned targets are achieved, with BDD with poor insight, without having them assigned to
+with plans for booster sessions as required. Preparation a diagnosis of delusional disorder. DSM-5 also has a specifier
+for termination of therapy should be done in advance, for muscle dysmorphia. Major depressive disorder, SAD, and
+addressing issues such as need for continued exposure, substance use disorders are common comorbid conditions
+homework tasks, stress management, relapse prevention, in BDD. Suicide risk is high in BDD. The prevalence rates
+and optimizing functional outcomes. of BDD among both adult and adolescent populations is
+around 2%, and it is more common among females.[93]
+Guidance for maintenance and follow‑up
+Although there is evidence to suggest that relapse Assessment
+rates are less following CBT as compared to medication The BDD version of the YBOCS (BDD-YBOCS) is considered
+discontinuation, posttherapy relapse occurs in at least the gold standard measure of BDD symptom severity, and
+20% of patients. Factors such as lower initial severity of this instrument has been used as the principal outcome
+illness, remission at the end of treatment, absence of measure in various clinical trials.[94] The BDD-YBOCS is
+comorbidities, more intensive CBT, and better homework a 12-item semi-structured, clinician-administered scale,
+compliance predict long-term success.[91] A plan for relapse which records BDD symptom severity over the past week.
+prevention plan is imperative before termination. Most CBT It is sensitive to changes with treatment and has good
+trials have included patients on medications. The long-term psychometric properties. The BDD Questionnaire is a brief
+outcome of these patients without medications is not clear. self-report screening instrument with good psychometric
+Thus, medications may have to be continued over long term properties.[95]
+to prevent relapses, especially when CBT is provided as an
+augmentation treatment. Relapse prevention programs Formulating a treatment plan
+have been found helpful.[92] Relapse prevention programs The literature extends the best support for the use of CBT as
+include psychoeducation, self-exposure, stress/anxiety the primary treatment for BDD.[96] The other evidence-based
+management, and lifestyle modification. Booster sessions treatment includes pharmacotherapy with serotonin
+with telephonic/direct contact may be planned with reuptake inhibitors, as in OCD.[96]
+gradually tapering during follow-up.
+Biological, psychological, and sociocultural factors in the
+BODY DYSMORPHIC DISORDER development and persistence of BDD symptoms have
+been considered and incorporated into the CBT models
+BDD is a disabling psychiatric condition characterized by of BDD.[97,98] These models explain that persons with
+exaggerated and persistent preoccupation with perceived BDD exhibit selective attention over minor features of
+defects or flaws in one’s appearance.[2] appearance, instead of paying attention to a larger picture.
+They also over-estimate the importance of perceived
+BDD is currently listed under OCRDs Chapter of DSM-5[2] physical deformities/deficits (ascribing greater value to
+and the ICD-11.[3] Patients with BDD perform repetitive these flaws). Patients may also misinterpret small flaws as
+behaviors such as repeated mirror-gazing, exaggerated major personal concerns. It is theorized that self-defeating
+explanations result in the development of negative
+Table 18: Recommendations for cognitive behavioral feelings, which in turn are neutralized with rituals such
+therapy for obsessive-compulsive disorder as repeated mirror-gazing and seeking cosmetic surgery.
+Therapy Strength of Further, they avoid social situations to minimize perceived
+recommendation negative evaluation. These behaviors are thought to
+CBT A be negatively reinforced since they result in temporary
+Behavior therapy (exposure and response prevention) A reduction of anxiety culminating in maladaptive beliefs
+CBT/BT formats and poor coping methods. The CBT model for BDD is
+Outpatient individual therapy A
+depicted in Figure 9.
+Outpatient group therapy A
+Intensive residential treatment B
+Internet-based CBT B CBT for BDD starts with detailed assessment of symptoms.
+Bergen’s 4‑day concentrated CBT B This is followed by psychoeducation where explanations
+Mindfulness-based CBT C for the symptoms are provided with individualized
+Acceptance and commitment therapy C
+presentation of the CBT model. The subsequent
+Stress management and relaxation training C
+components include cognitive restructuring, exposure,
+Thought stopping C
+Dynamic psychotherapy C and ritual and relapse prevention. Certain CBT models also
+CBT – Cognitive behavioral therapy include a component of perceptual retraining to address
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S245
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+mirror-related behaviors. The components of CBT for BDD report a prevalence estimate of 1%–4% for distressing
+are elaborated in Table 19. excoriation conditions.[106] Anxiety disorders and depression
+are frequent comorbidities.
+Efficacy of cognitive behavioral therapy in body
+dysmorphic disorder Scalp is the most common location for hair-pulling
+RCTs in adult participants have demonstrated efficacy of CBT in trichotillomania followed by the eyebrows.
+in reducing BDD symptom severity as compared to waitlist Hair-pulling may be preceded by various triggers,
+controls as well as other nonspecific interventions, such as including sensory (e.g., sensations on the scalp),
+anxiety management and supportive psychotherapy.[99-101] mood-related (anxiety, boredom, anger), and cognitive
+A naturalistic 1–4-year follow-up of participants in an RCT (rigidity in thinking/cognitive errors) stimuli. However, some
+found that the gains made at the end of CBT sessions were patients report that they are not “aware” of hair-pulling,
+sustained in the long term.[102] More recently, internet-based and this is referred to as “automatic” hair-pulling. About
+therapist-assisted CBT has also be systematically tested and 5%–20% of individuals with trichotillomania engage in
+found to be useful in this condition.[103] There have been no trichophagia (ingestion of hair). This may rarely lead to
+consistent response predictors of response to CBT, but greater a gastric medical complication called trichobezoar. In
+motivation, greater expectation from treatment, as well as excoriation disorder, the sufferers experience repeated and
+better insight at the baseline may predict improvement with compulsive urges to remove certain alterations in the areas
+CBT.[104] Overall, based on the available evidence, CBT has with acne, scars, and scabs.[107] The regions of excoriation
+strength of recommendation level A for BDD. may vary. Generally, multiple areas of the body that are
+easily accessible (face, extensor surface of the arms, and
+BODY-FOCUSED REPETITIVE BEHAVIORS: fingers) are targets.
+TRICHOTILLOMANIA AND SKIN-PICKING
+DISORDER Assessment
+A summary of instruments available for the assessment
+Trichotillomania (hair-pulling disorder) is a disorder of of hair-pulling and skin-picking have been provided by
+repetitive pulling out of one’s own hair, while skin-picking Jones et al.[108] Massachusetts General Hospital Hair Pulling
+disorder is characterized by recurrent picking of one’s own Scale (MGH-HPS) is generally recommended for measuring the
+skin. These conditions are often subsumed under a common severity of hair-pulling disorder.[109] The MGH-HPS is a 7-item
+rubric “BFRBs.” DSM-5[2] and ICD-11[3] have included self-report scale that measures urge to pull hair, amount of
+trichotillomania and excoriation (skin-picking) disorder pulling, control over the behavior, and the associated distress
+within the OCRDs. Trichotillomania has a prevalence of over the previous 7 days. The Keuthen Diagnostic Inventory
+1%–3% across studies conducted in different populations.[105] for Skin Picking for DSM-5 has been recommended as a quick
+Its prevalence is four times greater among women compared tool to measure the severity of skin-picking.[108] Since anxiety
+to men. There are no well-conducted prevalence studies for disorders, depression, and OCD are commonly seen comorbid
+excoriation disorder. However, the limited existing studies with trichotillomania and excoriation disorder, it is important
+Selective attention on Repeated
+Negative appraisal imagined/real flaws or mirror
+of body image specific body parts viewing/
+(excessive valence) avoidance
+Ruminations and negative
+thoughts about self;
+ascribing excessive value Low mood state
+for appearance factors;
+comparison with “ideal”
+body image
+Avoidance and
+safety behaviors
+(like applying
+excess make-up)
+Figure 9: Cognitive behavioral therapy model for body dysmorphic disorder
+S246 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Table 19: Components of cognitive behavioral therapy for body dysmorphic disorder
+CBT step Component
+Assessment Assess the points of concern, thoughts, behaviors, and associated impairment
+Degree of extension into various spheres of life, avoidance behaviors, and the degree of rituals involved
+Assessment of insight into symptoms
+Examine for comorbidities - depression, social anxiety, suicidal ideations
+Patients’ plans for cosmetic remediations such as surgery
+Prior medication and CBT history, if any
+Motivational Assessment of motivation levels
+assessment incorporate techniques from motivational interviewing, particularly for those with poor insight
+Psychoeducation Provide psychoeducation of the illness - prevalence, presenting symptoms
+Discuss the difference between body image and appearance
+Personalized model of BDD in tune with the patient’s specific set of symptoms
+Cognitive methods Cognitive strategies -identifying and examining maladaptive/dysfunctional thoughts together with generating alternative adaptive thoughts
+Identify particular cognitive errors seen with the condition such as “all or none thinking,” and mind-reading
+Addressing the core‑beliefs such as “I am an inadequate person” and “I am not fit enough to be loved”
+Maladaptive core beliefs need to be addressed through cognitive restructuring, behavioral experiments
+Learning to widen the components of self-worth by including appearance-unrelated factors such as other positive factors in their
+personality and skills
+Exposure and Develop a hierarchy of anxiety-provoking/avoided- situations
+ritual prevention Monitor the frequency and situations in which rituals occur
+(Behavioral Strategies to eliminate rituals or reduce rituals - e.g., resisting urges to check mirror, using less make-up before going out
+experiments) Exposure exercises like behavioral experiments to examine the validity of negative predictions and thus disconfirming the previous
+fears over time
+Perceptual training Aims to address distorted body-image perception. It helps patients learn to engage in more adaptive mirror-related behaviors such as
+not specifically focusing on one particular area, using objective description in place of evaluative language in front of mirror and not
+entirely avoiding the mirror
+Relapse prevention Consolidation of skills and exploring clear future plans
+Booster sessions may be offered, as required
+CBT – Cognitive behavioral therapy; BDD – Body dysmorphic disorder
+to systematically assess for the presence of these conditions. a component in the context of HRT, whereby the patient is
+Functional analysis of the pulling behavior helps to identify explained to experience hair-pulling urges and accept those
+antecedent triggers (may be external and/or internal) and urges without having to act on them.
+consequences (positive or negative reinforcement) following
+hair-pulling behavior. Similar strategies are suggested for excoriation disorder
+also.[114] Skin-picking disorder, being a recently recognized
+Cognitive behavioral therapy for body‑focused repetitive diagnostic entity, has been less studied less extensively.
+behaviors HRT has been found to be useful for skin-picking disorder in
+Although the evidence is relatively limited compared to the a limited number of RCTs, while ACT has been tested only in
+other disorders discussed above, CBT is often recommended uncontrolled studies. The recommendations for OCRD are
+as a first-line treatment for both trichotillomania and summarized in Table 21.
+skin-picking disorder. Behavioral techniques are more
+commonly employed. In particular, habit reversal SUMMARY
+therapy (HRT) is the most commonly prescribed technique.
+The components of HRT are elaborated in Table 20. CBT is a first-line treatment for most anxiety disorders and
+obsessive–compulsive-related disorders. It has also been
+Efficacy of cognitive behavioral therapy in body‑focused found to be helpful in those with inadequate response to
+repetitive behaviors medications. Despite similarity of certain techniques such as
+Multiple RCTs support the efficacy of HRT for trichotillomania, exposure and cognitive restructuring, individual disorders
+while there are few studies on skin-picking disorder too.[110] have different CBT models, which have been tested and
+HRT has been administered in different frequency formats, proven to be effective. For some disorders, such as specific
+ranging from 4 to 20 sessions. Dialectical behavioral phobia and BFRB, primarily behavioral techniques have
+augmented CBT[112] and ACT[113] have been tested in single been found to be helpful. While graded exposure is helpful
+RCTs each. Dialectical approaches may help in augmenting in the former, habit reversal is recommended for the later.
+HRT. The components of this approach include mindfulness Individual face-to-face therapy has been the most rigorously
+training where patients are encouraged to experiences the tested, but group therapy also has been found effective in
+urges/emotions associated as they occur at the moment, many conditions. Self-help therapy, such as internet-based
+inculcating necessary skills for emotion regulation and therapy, may be helpful, especially when used with
+build distress tolerance. ACT may also be used similarly as intermittent therapist guidance. Exposure using virtual
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S247
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+Table 20: Components of habit reversal training[110,111] fear of fear in agoraphobics: The body sensations questionnaire and
+the agoraphobic cognitions questionnaire. J Consult Clin Psychol
+Therapy step Components 1984;52:1090-7.
+11. Reiss S, Peterson RA, Gursky DM, McNally RJ. Anxiety sensitivity, anxiety
+Psychoeducation Education about the disorder with explanation related to
+frequency and the prediction of fearfulness. Behav Res Ther 1986;24:1-8.
+triggers and mood state associated with hair-pulling 12. Chambless DL, Caputo GC, Jasin SE, Gracely EJ, Williams C. The
+Awareness Helping to develop awareness of situations that triggers/ mobility inventory for agoraphobia. Behav Res Ther 1985;23:35-44.
+training precedes hair-pulling episodes 13. Telch MJ, Brouillard M, Telch CF, Agras WS, Taylor CB. Role of cognitive
+Stimulus control Patient is asked to prevent hair-pulling through reduction appraisal in panic-related avoidance. Behav Res Ther 1989;27:373-83.
+14. Clark DM. A cognitive approach to panic. Behav Res Ther 1986;24:461-70.
+of the impact of conditioned-cues in the surroundings
+15. Clark DA, Salkovskis PM. Cognitive Treatment of Panic: Therapist’s
+(e.g., restricting access to hair-pulling instruments)
+Manual. Oxford, UK: Department of Psychiatry, University of Oxford; 1986.
+Competing Encourage practicing motor-response which is 16. Barlow DH, Craske MG. Mastery of Your Anxiety and Panic (MAP‑3):
+response practice incompatible with hair‑pulling (e.g., clenching of fists) Client Workbook for Agoraphobia. 3rd ed. S.L.: Academic Press; 2000.
+17. Katzman MA, Bleau P, Blier P, Chokka P, Kjernisted K, Van Ameringen M,
+et al. Canadian clinical practice guidelines for the management of
+anxiety, posttraumatic stress and obsessive-compulsive disorders. BMC
+Table 21: Recommendation for obsessive-
+Psychiatry 2014;14 Suppl 1:S1.
+compulsive-related disorders 18. Overview | Generalised Anxiety Disorder and Panic Disorder in Adults:
+Management | Guidance | NICE. Available from: https://www.nice.org.uk/
+Therapy Strength of recommendation guidance/cg113. [Last accessed on 2019 Jun 27].
+Body dysmorphic disorder 19. Pompoli A, Furukawa TA, Efthimiou O, Imai H, Tajika A, Salanti G.
+Dismantling cognitive-behaviour therapy for panic disorder: A systematic
+Cognitive behavioral therapy A
+review and component network meta-analysis. Psychol Med
+Trichotillomania
+2018;48:1945-53.
+Habit reversal therapy A 20. Imai H, Tajika A, Chen P, Pompoli A, Furukawa TA. Psychological therapies
+Dialectical behavioral therapy B versus pharmacological interventions for panic disorder with or without
+Acceptance and commitment therapy B agoraphobia in adults. Cochrane Database Syst Rev 2016;10:CD011170.
+21. Fava GA, Rafanelli C, Grandi S, Conti S, Ruini C, Mangelli L, et al.
+Skin-picking disorder
+Long-term outcome of panic disorder with agoraphobia treated by
+Habit reversal therapy B
+exposure. Psychol Med 2001;31:891-8.
+Acceptance and commitment therapy C 22. Clark DM, Salkovskis PM, Hackmann A, Wells A, Ludgate J, Gelder M.
+Brief cognitive therapy for panic disorder: A randomized controlled trial.
+J Consult Clin Psychol 1999;67:583-9.
+reality, augmentation with mindfulness, and emotional 23. White KS, Payne LA, Gorman JM, Shear MK, Woods SW, Saksa JR,
+et al. Does maintenance CBT contribute to long-term treatment response
+regulation strategies are exciting and emerging strategies
+of panic disorder with or without agoraphobia? A randomized controlled
+for augmenting the effects of CBT. clinical trial. J Consult Clin Psychol 2013;81:47-57.
+24. Berle D, Starcevic V, Moses K, Hannan A, Milicevic D, Sammut P.
+Preliminary validation of an ultra-brief version of the Penn state worry
+Financial support and sponsorship questionnaire. Clin Psychol Psychother 2011;18:339-46.
+Nil. 25. Spitzer RL, Kroenke K, Williams JB, Löwe B. A brief measure for
+assessing generalized anxiety disorder: The GAD-7. Arch Intern Med
+2006;166:1092-7.
+Conflicts of interest 26. Shear K, Belnap BH, Mazumdar S, Houck P, Rollman BL. Generalized
+anxiety disorder severity scale (GADSS): A preliminary validation study.
+There are no conflicts of interest. Depress Anxiety 2006;23:77-82.
+27. Behar E, DiMarco ID, Hekler EB, Mohlman J, Staples AM. Current
+theoretical models of generalized anxiety disorder (GAD): Conceptual
+REFERENCES
+review and treatment implications. J Anxiety Disord 2009;23:1011-23.
+28. Dugas MJ, Robichaud M. Cognitive-Behavioral Treatment for Generalized
+1. Bandelow B, Michaelis S. Epidemiology of anxiety disorders in the Anxiety Disorder: From Science to Practice. Google Books. Available
+21st century. Dialogues Clin Neurosci 2015;17:327-35. from: https://books.google.co.in/books/about/Cognitive_behavioral_
+2. American Psychiatric Publishing. Diagnostic and Statistical Manual Treatment_for_Gener.html?id=bLGqfBtyMcoC and redir_esc=y. [Last
+accessed on 2019 Sep 11].
+of Mental Disorders. 5th ed. Washington, D.C: American Psychiatric
+29. Treatment of Generalized Anxiety Disorder: Gavin Andrews:
+Publishing; 2013.
+9780198758846. Available from: https://www.bookdepository.
+3. Stein DJ, Kogan CS, Atmaca M, Fineberg NA, Fontenelle LF, Grant JE,
+et al. The classification of obsessive‑compulsive and related disorders in com/Treatment-generalized-anxiety-disorder-Gavin-Andre
+ws/9780198758846. [Last accessed on 2019 Aug 29].
+4. t E h b e e I l C l M D‑ H 1 , 1 . S J iw A e ff k e c J t , D W is e o is rd s 2 B 0 D 1 , 6 W ;1 o 9 o 0 l : f 6 S 63 H ‑ , 7 4 S . usman J, Ewigman B, et al. 30. Kim YW, Lee SH, Choi TK, Suh SY, Kim B, Kim CM, et al. Effectiveness of
+mindfulness-based cognitive therapy as an adjuvant to pharmacotherapy
+Strength of recommendation taxonomy (SORT): A patient-centered
+in patients with panic disorder or generalized anxiety disorder. Depress
+approach to grading evidence in the medical literature. J Am Board Fam
+Anxiety 2009;26:601-6.
+Pract 2004;17:59-67.
+31. Cuijpers P, Sijbrandij M, Koole S, Huibers M, Berking M, Andersson G.
+5. Clark DA, Beck AT. Cognitive Therapy of Anxiety Disorders: Science and
+Psychological treatment of generalized anxiety disorder: A meta-analysis.
+Practice. Updated edition. New York: The Guilford Press; 2011.
+Clin Psychol Rev 2014;34:130-40.
+6. Craske M, Wittchen U, Bogels S, Stein M, Andrews G, Lebeu R, et al.
+32. Hunot V, Churchill R, Silva de Lima M, Teixeira V. Psychological
+Severity Measure for Panic Disorder – Adult. American Psychiatric therapies for generalised anxiety disorder. Cochrane Database Syst Rev
+Association; 2013. Available from: http://tpcjournal.nbcc.org/wp-content/ 2007;(1):CD001848.
+uploads/2014/07/Pages-216-231-Schmit.pdf. [Last accessed on 33. Khoury B, Lecomte T, Fortin G, Masse M, Therien P, Bouchard V, et al.
+2019 Aug 29]. Mindfulness-based therapy: A comprehensive meta-analysis. Clin Psychol
+7. Shear MK, Brown TA, Barlow DH, Money R, Sholomskas DE, Woods SW, Rev 2013;33:763-71.
+et al. Multicenter collaborative panic disorder severity scale. Am J 34. Andrews G, Basu A, Cuijpers P, Craske MG, McEvoy P, English CL, et al.
+Psychiatry 1997;154:1571-5. Computer therapy for the anxiety and depression disorders is effective,
+8. Bandelow B, Broocks A, Pekrun G, George A, Meyer T, Pralle L, et al. The acceptable and practical health care: An updated meta-analysis. J Anxiety
+use of the Panic and agoraphobia scale (P and A) in a controlled clinical Disord 2018;55:70-8.
+trial. Pharmacopsychiatry 2000;33:174-81. 35. Norton PJ, Roberge P. Transdiagnostic therapy. Psychiatr Clin North Am
+9. Shear MK, Maser JD. Standardized assessment for panic disorder 2017;40:675-87.
+research. A conference report. Arch Gen Psychiatry 1994;51:346-54. 36. Marks IM, Mathews AM. Brief standard self-rating for phobic patients.
+10. Chambless DL, Caputo GC, Bright P, Gallagher R. Assessment of Behav Res Ther 1979;17:263-7.
+S248 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+37. Opriş D, Pintea S, García‑Palacios A, Botella C, Szamosközi Ş, David D. obsessive-compulsive disorder. World Psychiatry 2016;15:80-1.
+Virtual reality exposure therapy in anxiety disorders: A quantitative 66. Foa EB, Huppert JD, Leiberg S, Langner R, Kichic R, Hajcak G, et al. The
+meta-analysis. Depress Anxiety 2012;29:85-93. Obsessive-compulsive inventory: Development and validation of a short
+38. Craske MG, Rowe MK. A comparison of behavioral and cognitive version. Psychol Assess 2002;14:485-96.
+treatments for phobias. In G. C. L. Davey (Ed.), Phobias: A handbook 67. Hodgson RJ, Rachman S. Obsessional‑compulsive complaints. Behav
+of theory, research, and treatment. Chichester, England: Wiley; 1997. Res Ther 1977;15:389-95.
+p. 247-80. 68. Storch EA, Kaufman DA, Bagner D, Merlo LJ, Shapira NA, Geffken GR,
+39. Ost LG, Fellenius J, Sterner U. Applied tension, exposure in vivo, et al. Florida obsessive-compulsive inventory: Development, reliability,
+and tension-only in the treatment of blood phobia. Behav Res Ther and validity. J Clin Psychol 2007;63:851-9.
+1991;29:561-74. 69. Cooper J. The Leyton obsessional inventory. Psychol Med 1970;1:48-64.
+40. Wolitzky‑Taylor KB, Horowitz JD, Powers MB, Telch MJ. Psychological 70. Rosario-Campos MC, Miguel EC, Quatrano S, Chacon P, Ferrao Y,
+approaches in the treatment of specific phobias: A meta‑analysis. Clin Findley D, et al. The dimensional Yale-Brown obsessive-compulsive
+Psychol Rev 2008;28:1021-37. scale (DY-BOCS): An instrument for assessing obsessive-compulsive
+41. Kessler RC, Chiu WT, Demler O, Merikangas KR, Walters EE. Prevalence, symptom dimensions. Mol Psychiatry 2006;11:495-504.
+severity, and comorbidity of 12-month DSM-IV disorders in the National 71. Abramowitz JS, Deacon BJ, Olatunji BO, Wheaton MG, Berman NC,
+Comorbidity Survey Replication. Arch Gen Psychiatry 2005;62:617-27. Losardo D, et al. Assessment of obsessive-compulsive symptom
+42. Liebowitz MR. Social Phobia. Anxiety 1987;22:141-73. dimensions: Development and evaluation of the dimensional
+43. Leary MR. A brief version of the fear of negative evaluation scale. Pers Soc obsessive-compulsive scale. Psychol Assess 2010;22:180-98.
+Psychol Bull 1983;9:371-5. 72. Eisen JL, Phillips KA, Baer L, Beer DA, Atala KD, Rasmussen SA. The
+44. Mattick RP, Clarke JC. Development and validation of measures of social Brown assessment of beliefs scale: Reliability and validity. Am J Psychiatry
+phobia scrutiny fear and social interaction anxiety. Behav Res Ther 1998;155:102-8.
+1998;36:455-70. 73. Neziroglu F, McKay D, Yaryura-Tobias JA, Stevens KP, Todaro J.
+45. Connor KM, Davidson JR, Churchill LE, Sherwood A, Foa E, Weisler RH. The overvalued ideas scale: Development, reliability and validity in
+Psychometric properties of the Social Phobia Inventory (SPIN). New obsessive-compulsive disorder. Behav Res Ther 1999;37:881-902.
+self-rating scale. Br J Psychiatry 2000;176:379-86. 74. Calvocoressi L, Mazure CM, Kasl SV, Skolnick J, Fisk D, Vegso SJ, et al.
+46. Wells A. Cognitive Therapy of Anxiety Disorders: A Practice Manual and Family accommodation of obsessive-compulsive symptoms: Instrument
+Conceptual Guide. 1st ed. Chichester : New York: Wiley; 1997. development and assessment of family behavior. J Nerv Ment Dis
+47. Clark DM, Wells A. A cognitive model of social phobia. In: Social Phobia: 1999;187:636-42.
+Diagnosis, Assessment, and Treatment. New York, NY, US: The Guilford 75. Obsessive Compulsive Cognitions Working Group. Psychometric
+Press; 1995. p. 69-93. validation of the obsessive beliefs questionnaire and the interpretation of
+48. Rapee RM, Heimberg RG. A cognitive‑behavioral model of anxiety in intrusions inventory: Part I. Behav Res Ther 2003;41:863-78.
+social phobia. Behav Res Ther 1997;35:741-56. 76. Wells A, Cartwright‑Hatton S. A short form of the metacognitions
+49. Wells A. Metacognitive Therapy for Anxiety and Depression. New york: questionnaire: Properties of the MCQ-30. Behav Res Ther 2004;42:385-96.
+Guilford Press; 2011. 77. Overveld VW, Jong DP, Peters ML, Cavanagh K, Davey GC. Disgust
+50. Butler G. Overcoming Social Anxiety and Shyness. 1st ed. A Self‑Help propensity and disgust sensitivity: Separate constructs that are
+Guide Using Cognitive Behavioral Techniques. London: Robinson; 2009. differentially related to specific fears. Pers Individ Diff 2006;41:1241‑52.
+51. Butler G, Cullington A, Munby M, Amies P, Gelder M. Exposure and 78. Rosario MC, Prado HS, Borcato S, Diniz JB, Shavitt RG, Hounie AG, et al.
+anxiety management in the treatment of social phobia. J Consult Clin Validation of the University of São Paulo sensory phenomena scale: Initial
+Psychol 1984;52:642-50. psychometric properties. CNS Spectr 2009;14:315-23.
+52. Mayo-Wilson E, Dias S, Mavranezouli I, Kew K, Clark DM, Ades AE, 79. Abramowitz JS, Blakey SM, Reuman L, Buchholz JL. New directions in the
+et al. Psychological and pharmacological interventions for social anxiety cognitive-behavioral treatment of OCD: Theory, research, and practice.
+disorder in adults: A systematic review and network meta-analysis. Lancet Behav Ther 2018;49:311-22.
+Psychiatry 2014;1:368-76. 80. Andersson E, Ljótsson B, Hedman E, Kaldo V, Paxling B, Andersson G,
+53. Ponniah K, Hollon SD. Empirically supported psychological interventions et al. Internet-based cognitive behavior therapy for obsessive compulsive
+for social phobia in adults: A qualitative review of randomized controlled disorder: A pilot study. BMC Psychiatry 2011;11:125.
+trials. Psychol Med 2008;38:3-14. 81. Skapinakis P, Caldwell DM, Hollingworth W, Bryden P, Fineberg NA,
+54. Beidel DC, Alfano CA, Kofler MJ, Rao PA, Scharfstein L, Wong Sarver N. Salkovskis P, et al. Pharmacological and psychotherapeutic interventions
+The impact of social skills training for social anxiety disorder: A randomized for management of obsessive-compulsive disorder in adults: A systematic
+controlled trial. J Anxiety Disord 2014;28:908-18. review and network meta-analysis. Lancet Psychiatry 2016;3:730-9.
+55. Pinjarkar GR, Sudhir PM, Mariamma P, Math BS, Wells A. Brief cognitive 82. Hezel DM, Simpson HB. Exposure and response prevention for
+therapy plus treatment as usual for social anxiety disorder: A randomized obsessive-compulsive disorder: A review and new directions. Indian J
+trial of adults in India. J Cogn Ther 2018;11:299-310. Psychiatry 2019;61:S85-92.
+56. Boettcher J, Carlbring P, Renneberg B, Berger T. Internet-based 83. Pozza A, Dèttore D. Drop‑out and efficacy of group versus individual
+interventions for social anxiety disorder – An overview. VER 2013;23:160-8. cognitive behavioural therapy: What works best for obsessive-compulsive
+57. Carlbring P, Andersson G, Cuijpers P, Riper H, Hedman‑Lagerlöf E. disorder? A systematic review and meta-analysis of direct comparisons.
+Internet-based vs. face-to-face cognitive behavior therapy for psychiatric Psychiatry Res 2017;258:24-36.
+and somatic disorders: An updated systematic review and meta-analysis. 84. Veale D, Naismith I, Miles S, Gledhill LJ, Stewart G, Hodsoll J. Outcomes
+Cogn Behav Ther 2018;47:1-8. for residential or inpatient intensive treatment of obsessive-compulsive
+58. Kampmann IL, Emmelkamp PM, Morina N. Meta-analysis of disorder: A systematic review and meta-analysis. J Obsessive Compuls
+technology-assisted interventions for social anxiety disorder. J Anxiety Relat Disord 2016;8:38-49.
+Disord 2016;42:71-84. 85. Stewart SE, Stack DE, Tsilker S, Alosso J, Stephansky M, Hezel DM,
+59. Wells A, Matthews G. Attention and Emotion: A Clinical Perspective. et al. Long-term outcome following Intensive Residential Treatment of
+London: Psychology Press; 1994. Obsessive-Compulsive Disorder. J Psychiatr Res 2009;43:1118-23.
+60. Lakshmi J, Sudhir PM, Sharma MP, Math SB. Effectiveness of 86. Balachander S, Bajaj A, Hazari N, Narayanaswamy JC, Kumar A,
+metacognitive therapy in patients with social anxiety disorder: A pilot Anand N, et al. Outcome of Intensive Inpatient Care for Severe, Resistant
+investigation. Indian J Psychol Med 2016;38:466-71. Obsessive-Compulsive Disorder in Young Adults: Experience of a
+61. Jakobsons LJ, Brown JS, Gordon KH, Joiner TE. When are clients ready Specialty OCD Clinic in South India. Vancouver, British Columbia; 2019.
+to terminate? Cogn Behav Pract 2007;14:218-30. 87. Hansen B, Hagen K, Öst LG, Solem S, Kvale G. The Bergen 4‑day OCD
+62. Ruscio AM, Stein DJ, Chiu WT, Kessler RC. The epidemiology of treatment delivered in a group setting: 12-month follow-up. Front Psychol
+obsessive-compulsive disorder in the National Comorbidity Survey 2018;9:639.
+Replication. Mol Psychiatry 2010;15:53-63. 88. Baruah U, Pandian RD, Narayanaswamy JC, Bada Math S, Kandavel T,
+63. Janardhan Reddy YC, Sundar AS, Narayanaswamy JC, Math SB. Clinical Reddy YC. A randomized controlled study of brief family-based intervention
+practice guidelines for obsessive-compulsive disorder. Indian J Psychiatry in obsessive compulsive disorder. J Affect Disord 2018;225:137‑46.
+2017;59:S74-S90. 89. Julien D, O’Connor K, Aardema F. The inference-based approach to
+64. Goodman WK, Price LH, Rasmussen SA, Mazure C, Fleischmann RL, obsessive-compulsive disorder: A comprehensive review of its etiological
+Hill CL, et al. The Yale-Brown obsessive compulsive scale. I. development, model, treatment efficacy, and model of change. J Affect Disord
+use, and reliability. Arch Gen Psychiatry 1989;46:1006-11. 2016;202:187-96.
+65. Mataix-Cols D, Fernández de la Cruz L, Nordsletten AE, Lenhard F, 90. Braga DT, Manfro GG, Niederauer K, Cordioli AV. Full remission and
+Isomura K, Simpson HB. Towards an international expert consensus relapse of obsessive-compulsive symptoms after cognitive-behavioral
+for defining treatment response, remission, recovery and relapse in group therapy: A two-year follow-up. Braz J Psychiatry 2010;32:164-8.
+Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020 S249
+Reddy, et al.: CBT guidelines for anxiety disorders and OCRD
+91. O’Neill J, Feusner JD. Cognitive-behavioral therapy for therapy for body dysmorphic disorder: A naturalistic case series of 1 to
+obsessive-compulsive disorder: Access to treatment, prediction of 4 years after a controlled trial. Behav Ther 2015;46:775-85.
+long-term outcome with neuroimaging. Psychol Res Behav Manag 103. Enander J, Andersson E, Mataix-Cols D, Lichtenstein L, Alström K,
+2015;8:211-23. Andersson G, et al. Therapist guided internet based cognitive behavioural
+92. Hiss H, Foa EB, Kozak MJ. Relapse prevention program for treatment of therapy for body dysmorphic disorder: Single blind randomised controlled
+obsessive-compulsive disorder. J Consult Clin Psychol 1994;62:801-8. trial. BMJ 2016;352:i241.
+93. Veale D, Gledhill LJ, Christodoulou P, Hodsoll J. Body dysmorphic 104. Greenberg JL, Phillips KA, Steketee G, Hoeppner SS, Wilhelm S. Predictors
+disorder in different settings: A systematic review and estimated weighted of response to cognitive-behavioral therapy for body dysmorphic disorder.
+prevalence. Body Image 2016;18:168-86. Behav Ther 2019;50:839-49.
+94. Phillips KA, Hollander E, Rasmussen SA, Aronowitz BR, DeCaria C, 105. Grant JE, Chamberlain SR. Trichotillomania. Am J Psychiatry
+Goodman WK. A severity rating scale for body dysmorphic disorder: 2016;173:868-74.
+Development, reliability, and validity of a modified version of the Yale‑Brown 106. Grant JE, Stein DJ. Body-focused repetitive behavior disorders in ICD-11.
+obsessive compulsive scale. Psychopharmacol Bull 1997;33:17-22. Braz J Psychiatry 2014;36 Suppl 1:59-64.
+95. Brohede S, Wingren G, Wijma B, Wijma K. Validation of the body 107. Jafferany M, Patel A. Skin‑picking disorder: A guide to diagnosis and
+dysmorphic disorder questionnaire in a community sample of Swedish management. CNS Drugs 2019;33:337-46.
+women. Psychiatry Res 2013;210:647-52. 108. Jones G, Keuthen N, Greenberg E. Assessment and treatment of
+96. Krebs G, Fernández de la Cruz L, Mataix-Cols D. Recent advances in trichotillomania (hair pulling disorder) and excoriation (skin picking)
+understanding and managing body dysmorphic disorder. Evid Based Ment disorder. Clin Dermatol 2018;36:728-36.
+Health 2017;20:71‑5. 109. Keuthen NJ, O’Sullivan RL, Ricciardi JN, Shera D, Savage CR,
+97. Wilhelm S, Phillips KA, Steketee G. Cognitive-Behavioral Therapy for Borgmann AS, et al. The Massachusetts general hospital (MGH)
+Body Dysmorphic Disorder: A Treatment Manual. 1st ed. New York: The hairpulling scale: 1. development and factor analyses. Psychother
+Guilford Press; 2012. Psychosom 1995;64:141-5.
+98. Veale D. Advances in a cognitive behavioural model of body dysmorphic 110. Rehm I, Moulding R, Nedeljkovic M. Psychological treatments for
+disorder. Body Image 2004;1:113-25. trichotillomania: Update and future directions. Australas Psychiatry
+99. Mataix-Cols D, Fernández de la Cruz L, Isomura K, Anson M, Turner C, 2015;23:365-8.
+Monzani B, et al. A pilot randomized controlled trial of cognitive-behavioral 111. Morris SH, Zickgraf HF, Dingfelder HE, Franklin ME. Habit reversal
+therapy for adolescents with body dysmorphic disorder. J Am Acad Child training in trichotillomania: Guide for the clinician. Expert Rev Neurother
+Adolesc Psychiatry 2015;54:895-904. 2013;13:1069-77.
+100. Wilhelm S, Phillips KA, Greenberg JL, O’Keefe SM, Hoeppner SS, 112. Keuthen NJ, Rothbaum BO, Fama J, Altenburger E, Falkenstein MJ,
+Keshaviah A, et al. Efficacy and posttreatment effects of therapist‑delivered Sprich SE, et al. DBT-enhanced cognitive-behavioral treatment
+cognitive behavioral therapy vs. supportive psychotherapy for adults with for trichotillomania: A randomized controlled trial. J Behav Addict
+body dysmorphic disorder: A randomized clinical trial. JAMA Psychiatry 2012;1:106-14.
+2019;76:363-73. 113. Lee EB, Homan KJ, Morrison KL, Ong CW, Levin ME, Twohig MP.
+101. Harrison A, Fernández de la Cruz L, Enander J, Radua J, Mataix‑Cols D. Acceptance and commitment therapy for trichotillomania: A randomized
+Cognitive-behavioral therapy for body dysmorphic disorder: A systematic controlled trial of adults and adolescents. Behav Modif 2020;44:70-91.
+review and meta-analysis of randomized controlled trials. Clin Psychol 114. Selles RR, McGuire JF, Small BJ, Storch EA. A systematic review and
+Rev 2016;48:43-51. meta-analysis of psychiatric treatments for excoriation (skin-picking)
+102. Veale D, Miles S, Anson M. Long-term outcome of cognitive behavior disorder. Gen Hosp Psychiatry 2016;41:29‑37.
+S250 Indian Journal of Psychiatry, Volume 62 (Supplement 2), January 2020

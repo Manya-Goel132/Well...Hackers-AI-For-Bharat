@@ -1,0 +1,956 @@
+[
+    {
+        "condition_name": "Depression",
+        "icd_codes": [
+            "F32",
+            "F33"
+        ],
+        "symptom_keywords": [
+            "feeling sad",
+            "loss of interest",
+            "no pleasure in activities",
+            "low energy",
+            "always tired",
+            "can't concentrate",
+            "feeling worthless",
+            "feeling guilty",
+            "thoughts of death",
+            "suicidal thoughts",
+            "sleep problems",
+            "appetite changes",
+            "weight loss",
+            "weight gain",
+            "feeling hopeless",
+            "can't focus"
+        ],
+        "severity_scale": {
+            "name": "PHQ-9",
+            "scoring_logic": "0-4=Minimal/None, 5-9=Mild, 10-14=Moderate, 15-19=Moderately Severe, 20-27=Severe"
+        },
+        "triage_logic": [
+            {
+                "severity_level": "Mild",
+                "clinical_status": "Mild depressive symptoms with minimal functional impairment",
+                "action_recommendation": "Psychoeducation + Psychotherapy (CBT/IPT preferred) OR Antidepressant medication based on patient preference",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Fluoxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "80 mg/day"
+                    },
+                    {
+                        "name": "Sertraline",
+                        "start_dose": "50 mg/day",
+                        "max_dose": "200 mg/day"
+                    },
+                    {
+                        "name": "Escitalopram",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Citalopram",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "40 mg/day"
+                    },
+                    {
+                        "name": "Paroxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "60 mg/day"
+                    }
+                ],
+                "referral_tier": "Clinical Psychologist OR Psychiatrist (patient choice)",
+                "notes": "Psychotherapy may be preferred initial treatment for mild depression with psychosocial stressors"
+            },
+            {
+                "severity_level": "Moderate",
+                "clinical_status": "Moderate depressive symptoms with noticeable functional impairment, may include sleep/appetite disturbance",
+                "action_recommendation": "Antidepressant medication (SSRI first-line) + Psychotherapy (CBT/IPT). Monitor for 4-6 weeks for response",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Fluoxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "80 mg/day"
+                    },
+                    {
+                        "name": "Sertraline",
+                        "start_dose": "50 mg/day",
+                        "max_dose": "200 mg/day"
+                    },
+                    {
+                        "name": "Escitalopram",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Paroxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "60 mg/day"
+                    },
+                    {
+                        "name": "Citalopram",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "40 mg/day"
+                    },
+                    {
+                        "name": "Venlafaxine",
+                        "start_dose": "75 mg/day",
+                        "max_dose": "300 mg/day"
+                    },
+                    {
+                        "name": "Duloxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "60 mg/day"
+                    },
+                    {
+                        "name": "Mirtazapine",
+                        "start_dose": "15 mg/day",
+                        "max_dose": "45 mg/day"
+                    },
+                    {
+                        "name": "Bupropion",
+                        "start_dose": "150 mg/day",
+                        "max_dose": "450 mg/day"
+                    }
+                ],
+                "referral_tier": "Psychiatrist Mandatory + Clinical Psychologist for combined treatment",
+                "treatment_duration": "Acute phase: 6-9 months minimum from symptom remission. Continuation phase: 16-24 weeks after remission",
+                "notes": "If <25% improvement after 4 weeks, consider dose optimization or switch. If <50% improvement after 6-8 weeks with max tolerable dose, switch antidepressant"
+            },
+            {
+                "severity_level": "Severe",
+                "clinical_status": "Severe depression with marked functional impairment, may include psychotic features, catatonia, severe weight loss, marked psychomotor changes",
+                "action_recommendation": "Antidepressant + Antipsychotic (if psychotic features) OR ECT. Hospitalization often required. Combination pharmacotherapy + ECT for acute stabilization",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Fluoxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "80 mg/day"
+                    },
+                    {
+                        "name": "Sertraline",
+                        "start_dose": "50 mg/day",
+                        "max_dose": "200 mg/day"
+                    },
+                    {
+                        "name": "Venlafaxine",
+                        "start_dose": "75 mg/day",
+                        "max_dose": "300 mg/day"
+                    },
+                    {
+                        "name": "Mirtazapine",
+                        "start_dose": "15 mg/day",
+                        "max_dose": "45 mg/day"
+                    }
+                ],
+                "referral_tier": "Psychiatrist Mandatory + Inpatient Hospitalization",
+                "notes": "ECT indicated for: severe depression with suicidality, psychotic features, catatonia, poor oral intake, past good response to ECT. Treatment-resistant cases may require augmentation with lithium or thyroid supplements. Adhere to MHCA 2017 regarding ECT consent."
+            },
+            {
+                "severity_level": "Emergency/Red Flag",
+                "triggers": [
+                    "Active suicidal ideation with plan or intent",
+                    "Suicide attempt",
+                    "Refusal to eat/severe malnutrition",
+                    "Catatonia",
+                    "Severe psychotic symptoms",
+                    "Homicidal ideation",
+                    "Severe medical comorbidity making outpatient unsafe"
+                ],
+                "action_recommendation": "Immediate Hospitalization. ECT + Pharmacotherapy. 24/7 monitoring. Ensure family supervision. Remove means of self-harm",
+                "referral_tier": "Emergency - Immediate Psychiatric Hospitalization",
+                "notes": "Adhere to MHCA 2017 regarding ECT consent and involuntary admission procedures"
+            }
+        ],
+        "special_populations": {
+            "elderly": "Avoid TCAs (high adverse effects). Prefer SSRIs. Nortriptyline for severe cases. ECT effective with rapid response",
+            "pregnancy_postpartum": "Avoid first trimester if possible. ECT safe during pregnancy. Address breastfeeding concerns",
+            "children_adolescents": "Fluoxetine first-line SSRI. CBT and IPT effective",
+            "comorbid_substance_use": "Detoxify before antidepressant. Avoid benzodiazepines. Monitor hepatic function",
+            "cardiac_disease": "Avoid TCAs. Prefer SSRIs",
+            "post_stroke": "Fluoxetine and Nortriptyline effective"
+        }
+    },
+    {
+        "condition_name": "Generalized Anxiety Disorder and Panic Disorder",
+        "icd_codes": [
+            "F41.0",
+            "F41.1"
+        ],
+        "symptom_keywords": [
+            "excessive worry",
+            "can't control worry",
+            "restless",
+            "easily tired",
+            "difficulty concentrating",
+            "irritable",
+            "muscle tension",
+            "sleep disturbance",
+            "panic attacks",
+            "sudden fear",
+            "heart racing",
+            "sweating",
+            "trembling",
+            "shortness of breath",
+            "chest pain",
+            "nausea",
+            "dizziness",
+            "fear of dying",
+            "fear of losing control"
+        ],
+        "severity_scale": {
+            "name": "GAD-7",
+            "scoring_logic": "0-4=Minimal, 5-9=Mild, 10-14=Moderate, 15-21=Severe"
+        },
+        "panic_override_logic": {
+            "description": "If panic attack frequency is high (≥2 attacks per week), upgrade severity to Moderate/Severe regardless of GAD-7 score",
+            "trigger": "Frequent panic attacks (≥2 per week)",
+            "action": "Upgrade to Moderate severity minimum. Consider SSRI/SNRI + Benzodiazepine for acute attacks + CBT"
+        },
+        "triage_logic": [
+            {
+                "severity_level": "Mild",
+                "clinical_status": "Mild anxiety symptoms with minimal functional impairment",
+                "action_recommendation": "Psychoeducation + CBT + Relaxation techniques. Consider pharmacotherapy if no response",
+                "referral_tier": "Clinical Psychologist OR Self-help resources",
+                "notes": "Psychotherapy preferred as first-line for mild GAD"
+            },
+            {
+                "severity_level": "Moderate",
+                "clinical_status": "Moderate anxiety with noticeable functional impairment, persistent worry, OR frequent panic attacks",
+                "action_recommendation": "SSRI/SNRI + CBT combination. Benzodiazepines short-term (2-4 weeks max) for acute symptoms. For panic: mouth-dissolving short-acting benzodiazepines for acute attacks",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Escitalopram",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Paroxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "60 mg/day"
+                    },
+                    {
+                        "name": "Sertraline",
+                        "start_dose": "50 mg/day",
+                        "max_dose": "200 mg/day"
+                    },
+                    {
+                        "name": "Fluoxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "80 mg/day"
+                    },
+                    {
+                        "name": "Venlafaxine",
+                        "start_dose": "75 mg/day",
+                        "max_dose": "225 mg/day"
+                    },
+                    {
+                        "name": "Duloxetine",
+                        "start_dose": "60 mg/day",
+                        "max_dose": "120 mg/day"
+                    },
+                    {
+                        "name": "Clonazepam (short-term)",
+                        "start_dose": "0.5 mg/day",
+                        "max_dose": "2 mg/day"
+                    },
+                    {
+                        "name": "Alprazolam (short-term)",
+                        "start_dose": "0.5 mg/day",
+                        "max_dose": "3 mg/day"
+                    }
+                ],
+                "referral_tier": "Psychiatrist + Clinical Psychologist",
+                "treatment_duration": "12-24 months minimum after symptom control. Benzodiazepines: maximum 2-4 weeks",
+                "notes": "Start SSRIs at low dose and titrate slowly to avoid initial anxiety worsening. Benzodiazepines only for short-term use due to dependence risk. For panic disorder: treat for at least 6-8 months or longer to prevent relapses"
+            },
+            {
+                "severity_level": "Severe",
+                "clinical_status": "Severe anxiety with marked functional impairment, may include frequent panic attacks, agoraphobia, severe avoidance",
+                "action_recommendation": "SSRI/SNRI at therapeutic doses + Intensive CBT + Short-term benzodiazepine. Consider hospitalization if severe functional impairment",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Escitalopram",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Venlafaxine",
+                        "start_dose": "75 mg/day",
+                        "max_dose": "225 mg/day"
+                    },
+                    {
+                        "name": "Paroxetine",
+                        "start_dose": "20 mg/day",
+                        "max_dose": "60 mg/day"
+                    },
+                    {
+                        "name": "Clonazepam",
+                        "start_dose": "0.5 mg/day",
+                        "max_dose": "2 mg/day"
+                    },
+                    {
+                        "name": "Alprazolam",
+                        "start_dose": "0.5 mg/day",
+                        "max_dose": "3 mg/day"
+                    }
+                ],
+                "referral_tier": "Psychiatrist Mandatory + Intensive psychotherapy",
+                "notes": "Treatment-resistant cases may require augmentation with Buspirone, Pregabalin, or low-dose atypical antipsychotics. Combination of CBT and anxiolytic medication has best treatment outcomes"
+            },
+            {
+                "severity_level": "Emergency/Red Flag",
+                "triggers": [
+                    "Suicidal ideation secondary to anxiety",
+                    "Severe panic with medical complications",
+                    "Complete functional breakdown",
+                    "Comorbid severe depression with suicidality",
+                    "Severe substance abuse comorbidity"
+                ],
+                "action_recommendation": "Immediate psychiatric evaluation. Consider hospitalization. Aggressive pharmacotherapy + crisis intervention",
+                "referral_tier": "Emergency - Immediate Psychiatric Evaluation",
+                "notes": "Adhere to MHCA 2017 regarding involuntary admission if patient poses risk to self"
+            }
+        ],
+        "notes": "Indian context: High comorbidity with depression (up to 60%). Screen for depression in all GAD patients. Benzodiazepine dependence is a concern - use judiciously and for shortest duration possible. Panic disorder requires longer treatment (6-8 months minimum)"
+    },
+    {
+        "condition_name": "Schizophrenia",
+        "icd_codes": [
+            "F20",
+            "F20.0",
+            "F20.1",
+            "F20.2",
+            "F20.3",
+            "F20.5"
+        ],
+        "symptom_keywords": [
+            "hearing voices",
+            "seeing things others don't",
+            "false beliefs",
+            "paranoid",
+            "feeling controlled",
+            "disorganized speech",
+            "confused thinking",
+            "lack of motivation",
+            "social withdrawal",
+            "flat emotions",
+            "poor self-care",
+            "suspicious",
+            "bizarre behavior",
+            "catatonia",
+            "not making sense"
+        ],
+        "severity_scale": {
+            "name": "PANSS (Positive and Negative Syndrome Scale)",
+            "scoring_logic": "Positive symptoms (hallucinations, delusions), Negative symptoms (flat affect, avolition), General psychopathology. Severity based on functional impairment and symptom intensity"
+        },
+        "triage_logic": [
+            {
+                "severity_level": "First Episode Psychosis",
+                "clinical_status": "First episode of psychotic symptoms, duration <2 years",
+                "action_recommendation": "Immediate antipsychotic initiation. Psychoeducation to family. Early intervention critical for better prognosis",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Risperidone",
+                        "start_dose": "2 mg/day",
+                        "max_dose": "6 mg/day"
+                    },
+                    {
+                        "name": "Olanzapine",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Aripiprazole",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "30 mg/day"
+                    },
+                    {
+                        "name": "Haloperidol (if SGAs unavailable)",
+                        "start_dose": "5 mg/day",
+                        "max_dose": "20 mg/day"
+                    }
+                ],
+                "mandatory_labs": {
+                    "baseline": [
+                        "Haemogram",
+                        "Fasting blood glucose",
+                        "Lipid profile",
+                        "Liver function test",
+                        "Renal function test",
+                        "ECG",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "monitoring": "Metabolic monitoring: Weight monthly for first 3 months, then quarterly. Fasting glucose and lipid profile at 3 months, then annually. Monitor for extrapyramidal symptoms at each visit"
+                },
+                "referral_tier": "Psychiatrist Mandatory + Early Intervention Program",
+                "notes": "Use lowest effective dose. Monitor for side effects closely. Family psychoeducation essential"
+            },
+            {
+                "severity_level": "Acute Exacerbation",
+                "clinical_status": "Acute worsening of psychotic symptoms, agitation, behavioral disturbance",
+                "action_recommendation": "Hospitalization often required. Antipsychotic optimization. Short-term benzodiazepines for agitation. ECT if catatonia or treatment-resistant",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Risperidone",
+                        "start_dose": "2 mg/day",
+                        "max_dose": "8 mg/day"
+                    },
+                    {
+                        "name": "Olanzapine",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Aripiprazole",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "30 mg/day"
+                    },
+                    {
+                        "name": "Haloperidol IM (for agitation)",
+                        "start_dose": "5 mg IM",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Olanzapine IM (for agitation)",
+                        "start_dose": "10 mg IM",
+                        "max_dose": "30 mg/day"
+                    },
+                    {
+                        "name": "Risperidone LAI",
+                        "start_dose": "25 mg IM q2weeks",
+                        "max_dose": "50 mg IM q2weeks"
+                    },
+                    {
+                        "name": "Paliperidone LAI",
+                        "start_dose": "150 mg IM monthly",
+                        "max_dose": "234 mg IM monthly"
+                    },
+                    {
+                        "name": "Fluphenazine decanoate",
+                        "start_dose": "12.5 mg IM q2-4weeks",
+                        "max_dose": "50 mg IM q2-4weeks"
+                    }
+                ],
+                "mandatory_labs": {
+                    "baseline": [
+                        "Haemogram",
+                        "Fasting blood glucose",
+                        "Lipid profile",
+                        "Liver function test",
+                        "Renal function test",
+                        "ECG",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "monitoring": "Metabolic monitoring: Weight weekly during hospitalization, then monthly. Fasting glucose and lipid profile at 3 months, 6 months, then annually. Monitor for extrapyramidal symptoms, tardive dyskinesia at each visit"
+                },
+                "referral_tier": "Emergency - Psychiatric Hospitalization",
+                "notes": "Address medication non-compliance. Consider long-acting injectables. Rule out substance-induced psychosis. Adhere to MHCA 2017 regarding ECT consent and involuntary admission"
+            },
+            {
+                "severity_level": "Stable/Maintenance",
+                "clinical_status": "Symptoms controlled, in remission or partial remission, on maintenance treatment",
+                "action_recommendation": "Continue same antipsychotic at lowest effective dose. Psychosocial rehabilitation. Family support. Vocational training",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Risperidone",
+                        "start_dose": "2 mg/day",
+                        "max_dose": "6 mg/day"
+                    },
+                    {
+                        "name": "Olanzapine",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Aripiprazole",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "30 mg/day"
+                    },
+                    {
+                        "name": "Risperidone LAI (preferred for compliance)",
+                        "start_dose": "25 mg IM q2weeks",
+                        "max_dose": "50 mg IM q2weeks"
+                    },
+                    {
+                        "name": "Paliperidone LAI (preferred for compliance)",
+                        "start_dose": "150 mg IM monthly",
+                        "max_dose": "234 mg IM monthly"
+                    },
+                    {
+                        "name": "Fluphenazine decanoate",
+                        "start_dose": "12.5 mg IM q2-4weeks",
+                        "max_dose": "50 mg IM q2-4weeks"
+                    }
+                ],
+                "mandatory_labs": {
+                    "baseline": [
+                        "Haemogram",
+                        "Fasting blood glucose",
+                        "Lipid profile",
+                        "Liver function test",
+                        "Renal function test",
+                        "ECG",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "monitoring": "Metabolic monitoring: Weight quarterly. Fasting glucose and lipid profile every 6-12 months. Annual ECG. Monitor for extrapyramidal symptoms and tardive dyskinesia at each visit (use AIMS scale)"
+                },
+                "referral_tier": "Psychiatrist + Psychosocial Rehabilitation Center",
+                "treatment_duration": "Minimum 2-5 years after first episode. Lifelong for multiple episodes",
+                "notes": "Monitor for relapse signs. Ensure medication compliance. Address negative symptoms and functional impairment"
+            },
+            {
+                "severity_level": "Emergency/Red Flag",
+                "triggers": [
+                    "Catatonia",
+                    "Suicidal or homicidal behavior",
+                    "Severe agitation/violence",
+                    "Command hallucinations to harm self/others",
+                    "Complete self-care breakdown",
+                    "Neuroleptic malignant syndrome",
+                    "Water intoxication",
+                    "Refusal to eat/drink"
+                ],
+                "action_recommendation": "Immediate Hospitalization. Parenteral antipsychotics. ECT for catatonia. Medical stabilization. 24/7 monitoring",
+                "referral_tier": "Emergency - Immediate Psychiatric/Medical Hospitalization",
+                "notes": "Adhere to MHCA 2017 regarding ECT consent and involuntary admission procedures. Neuroleptic malignant syndrome requires immediate medical intervention"
+            }
+        ],
+        "special_populations": {
+            "treatment_resistant": "Clozapine 300-900mg is gold standard. Requires regular blood monitoring: Absolute neutrophil count (ANC) weekly for 18 weeks, then biweekly for 1 year, then monthly. Baseline: ECG, echocardiogram, fasting glucose, lipids. ECT augmentation may help",
+            "pregnancy": "Avoid first trimester if possible. Haloperidol relatively safer. Monitor for gestational diabetes with SGAs",
+            "elderly": "Lower doses (50% of adult dose). Monitor for extrapyramidal symptoms and metabolic effects closely",
+            "comorbid_substance_use": "Address substance use. May worsen prognosis. Integrated treatment approach"
+        },
+        "notes": "Indian context: Family involvement crucial. Stigma is major barrier. Long-acting injectables improve compliance in resource-poor settings. Clozapine underutilized despite being most effective for treatment-resistant cases. Metabolic monitoring often neglected - emphasize importance"
+    },
+    {
+        "condition_name": "Bipolar Disorder",
+        "icd_codes": [
+            "F31",
+            "F31.0",
+            "F31.1",
+            "F31.2",
+            "F31.3",
+            "F31.4",
+            "F31.5"
+        ],
+        "symptom_keywords": [
+            "mood swings",
+            "extremely happy then sad",
+            "high energy periods",
+            "decreased need for sleep",
+            "racing thoughts",
+            "talking fast",
+            "impulsive behavior",
+            "risky behavior",
+            "grandiose ideas",
+            "irritable mood",
+            "depressed periods",
+            "loss of interest",
+            "suicidal thoughts",
+            "increased activity",
+            "poor judgment"
+        ],
+        "severity_scale": {
+            "name": "YMRS (Young Mania Rating Scale) for mania, MADRS for depression",
+            "scoring_logic": "YMRS: <12=Remission, 12-19=Mild, 20-25=Moderate, >25=Severe mania. Combined with depression severity assessment"
+        },
+        "triage_logic": [
+            {
+                "severity_level": "Bipolar Depression (Mild-Moderate)",
+                "clinical_status": "Depressive episode in bipolar disorder without psychotic features",
+                "action_recommendation": "Mood stabilizer + Antidepressant (with caution - risk of switch to mania). Psychotherapy. Monitor for manic switch",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Lithium",
+                        "start_dose": "300 mg/day",
+                        "max_dose": "1200 mg/day",
+                        "therapeutic_level": "0.6-1.0 mEq/L acute, 0.6-0.8 mEq/L maintenance"
+                    },
+                    {
+                        "name": "Valproate",
+                        "start_dose": "250 mg BD",
+                        "max_dose": "2000 mg/day",
+                        "therapeutic_level": "50-100 µg/mL"
+                    },
+                    {
+                        "name": "Lamotrigine",
+                        "start_dose": "25 mg/day",
+                        "max_dose": "200 mg/day"
+                    },
+                    {
+                        "name": "Quetiapine",
+                        "start_dose": "300 mg/day",
+                        "max_dose": "600 mg/day"
+                    },
+                    {
+                        "name": "Olanzapine",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    }
+                ],
+                "mandatory_labs": {
+                    "lithium_baseline": [
+                        "Serum urea/creatinine",
+                        "Serum electrolytes",
+                        "Thyroid function test",
+                        "Haemogram",
+                        "Urine pregnancy test (women)",
+                        "ECG",
+                        "Fasting blood sugar",
+                        "Lipid profile",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "lithium_monitoring": "Serum lithium levels: After 5 days of stable dose (12-14 hours post-dose), then every 3-4 months. Renal function: Every 2-3 months for first 6 months, then every 6-12 months. Thyroid function: Once or twice in first 6 months, then every 6-12 months. Monitor for polyuria, polydipsia, tremor, dysarthria, ataxia at each visit",
+                    "valproate_baseline": [
+                        "Haemogram",
+                        "Liver function test",
+                        "Urine pregnancy test (women)",
+                        "Fasting blood sugar",
+                        "Lipid profile",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "valproate_monitoring": "Haemogram and LFT: Not routine, may do every 6-12 months. Serum valproate levels: After 5 days of stable dose (12 hours post-dose for immediate release, 21-24 hours for extended release)"
+                },
+                "referral_tier": "Psychiatrist Mandatory",
+                "notes": "Never use antidepressant monotherapy - risk of manic switch. Lamotrigine particularly effective for bipolar depression. Slow titration of lamotrigine essential to prevent Stevens-Johnson syndrome"
+            },
+            {
+                "severity_level": "Hypomania/Mild Mania",
+                "clinical_status": "Elevated mood, increased energy, mild functional impairment, no psychotic features",
+                "action_recommendation": "Mood stabilizer initiation or optimization. Discontinue antidepressants if on them. Psychoeducation. Outpatient management possible",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Lithium",
+                        "start_dose": "300 mg/day",
+                        "max_dose": "1200 mg/day",
+                        "therapeutic_level": "0.6-1.0 mEq/L"
+                    },
+                    {
+                        "name": "Valproate",
+                        "start_dose": "250 mg BD",
+                        "max_dose": "2000 mg/day",
+                        "therapeutic_level": "50-100 µg/mL"
+                    },
+                    {
+                        "name": "Olanzapine",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Risperidone",
+                        "start_dose": "2 mg/day",
+                        "max_dose": "6 mg/day"
+                    },
+                    {
+                        "name": "Aripiprazole",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "30 mg/day"
+                    }
+                ],
+                "mandatory_labs": {
+                    "lithium_baseline": [
+                        "Serum urea/creatinine",
+                        "Serum electrolytes",
+                        "Thyroid function test",
+                        "Haemogram",
+                        "Urine pregnancy test (women)",
+                        "ECG",
+                        "Fasting blood sugar",
+                        "Lipid profile",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "lithium_monitoring": "Serum lithium levels every 3-4 months once stabilized. Renal and thyroid function every 6-12 months",
+                    "valproate_baseline": [
+                        "Haemogram",
+                        "Liver function test",
+                        "Urine pregnancy test (women)",
+                        "Fasting blood sugar",
+                        "Lipid profile",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "valproate_monitoring": "Haemogram and LFT every 6-12 months"
+                },
+                "referral_tier": "Psychiatrist + Close monitoring",
+                "notes": "Monitor for progression to full mania. Ensure medication compliance"
+            },
+            {
+                "severity_level": "Acute Mania (Severe)",
+                "clinical_status": "Severe manic symptoms with marked functional impairment, may include psychotic features, severe agitation",
+                "action_recommendation": "Hospitalization required. Mood stabilizer + Antipsychotic. Benzodiazepines for agitation. ECT if treatment-resistant or severe",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Lithium",
+                        "start_dose": "300 mg/day",
+                        "max_dose": "1200 mg/day",
+                        "therapeutic_level": "0.6-1.0 mEq/L"
+                    },
+                    {
+                        "name": "Valproate",
+                        "start_dose": "500 mg/day",
+                        "max_dose": "2000 mg/day",
+                        "therapeutic_level": "50-100 µg/mL"
+                    },
+                    {
+                        "name": "Olanzapine",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Risperidone",
+                        "start_dose": "2 mg/day",
+                        "max_dose": "6 mg/day"
+                    },
+                    {
+                        "name": "Quetiapine",
+                        "start_dose": "300 mg/day",
+                        "max_dose": "800 mg/day"
+                    },
+                    {
+                        "name": "Aripiprazole",
+                        "start_dose": "15 mg/day",
+                        "max_dose": "30 mg/day"
+                    },
+                    {
+                        "name": "Haloperidol",
+                        "start_dose": "5 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Lorazepam (adjunctive)",
+                        "start_dose": "2 mg/day",
+                        "max_dose": "6 mg/day"
+                    },
+                    {
+                        "name": "Clonazepam (adjunctive)",
+                        "start_dose": "1 mg/day",
+                        "max_dose": "4 mg/day"
+                    }
+                ],
+                "mandatory_labs": {
+                    "lithium_baseline": [
+                        "Serum urea/creatinine",
+                        "Serum electrolytes",
+                        "Thyroid function test",
+                        "Haemogram",
+                        "Urine pregnancy test (women)",
+                        "ECG",
+                        "Fasting blood sugar",
+                        "Lipid profile",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "lithium_monitoring": "Serum lithium levels: After 5 days of stable dose, then every 3-4 months. Check earlier if toxicity suspected (tremor, dysarthria, ataxia, confusion, vomiting). Renal function every 2-3 months initially, then every 6-12 months. Thyroid function every 6-12 months",
+                    "valproate_baseline": [
+                        "Haemogram",
+                        "Liver function test",
+                        "Urine pregnancy test (women)",
+                        "Fasting blood sugar",
+                        "Lipid profile",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "valproate_monitoring": "Haemogram and LFT every 6-12 months. Monitor for signs of hepatic dysfunction, haematological dysfunction",
+                    "antipsychotic_monitoring": "Weight weekly during hospitalization, then monthly. Fasting glucose and lipid profile at 3 months, 6 months, then annually. Monitor for extrapyramidal symptoms"
+                },
+                "referral_tier": "Emergency - Psychiatric Hospitalization Mandatory",
+                "notes": "Combination therapy (mood stabilizer + antipsychotic) more effective than monotherapy for acute mania. Monitor lithium levels regularly. Lithium toxicity signs: tremor, dysarthria, ataxia, confusion, vomiting, diarrhea. Adhere to MHCA 2017 regarding ECT consent and involuntary admission"
+            },
+            {
+                "severity_level": "Mixed Episode",
+                "clinical_status": "Simultaneous manic and depressive symptoms, high suicide risk",
+                "action_recommendation": "Hospitalization often needed. Mood stabilizer + Atypical antipsychotic. Avoid antidepressants. Close suicide monitoring",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Valproate",
+                        "start_dose": "500 mg/day",
+                        "max_dose": "2000 mg/day",
+                        "therapeutic_level": "50-100 µg/mL"
+                    },
+                    {
+                        "name": "Olanzapine",
+                        "start_dose": "10 mg/day",
+                        "max_dose": "20 mg/day"
+                    },
+                    {
+                        "name": "Quetiapine",
+                        "start_dose": "300 mg/day",
+                        "max_dose": "800 mg/day"
+                    },
+                    {
+                        "name": "Aripiprazole",
+                        "start_dose": "15 mg/day",
+                        "max_dose": "30 mg/day"
+                    }
+                ],
+                "mandatory_labs": {
+                    "valproate_baseline": [
+                        "Haemogram",
+                        "Liver function test",
+                        "Urine pregnancy test (women)",
+                        "Fasting blood sugar",
+                        "Lipid profile",
+                        "Weight/BMI/Waist circumference"
+                    ],
+                    "valproate_monitoring": "Haemogram and LFT every 6-12 months. Serum valproate levels after 5 days of stable dose",
+                    "antipsychotic_monitoring": "Weight monthly. Fasting glucose and lipid profile at 3 months, then every 6-12 months"
+                },
+                "referral_tier": "Psychiatrist Mandatory + Hospitalization if suicidal",
+                "notes": "Highest suicide risk among bipolar states. Aggressive treatment needed. Avoid antidepressants - worsen mixed states"
+            },
+            {
+                "severity_level": "Emergency/Red Flag",
+                "triggers": [
+                    "Suicidal ideation or attempt",
+                    "Severe agitation/violence",
+                    "Psychotic symptoms with dangerous behavior",
+                    "Catatonia",
+                    "Severe impulsivity with dangerous consequences",
+                    "Complete functional breakdown",
+                    "Lithium toxicity (tremor, dysarthria, ataxia, confusion, vomiting)",
+                    "Neuroleptic malignant syndrome"
+                ],
+                "action_recommendation": "Immediate Hospitalization. Parenteral medications. ECT for severe/refractory cases. Medical monitoring for lithium toxicity (stop lithium, IV fluids, check levels)",
+                "referral_tier": "Emergency - Immediate Psychiatric Hospitalization",
+                "notes": "Adhere to MHCA 2017 regarding ECT consent and involuntary admission procedures. Lithium toxicity requires immediate medical intervention - stop lithium, IV hydration, monitor levels. Neuroleptic malignant syndrome: stop antipsychotic, supportive care, consider dantrolene/bromocriptine"
+            }
+        ],
+        "maintenance_treatment": {
+            "duration": "Lifelong for most patients",
+            "first_line": "Lithium (gold standard), Valproate, Lamotrigine (especially for bipolar II and depression prevention)",
+            "monitoring": "Lithium: levels every 3-6 months, thyroid and renal function annually. Valproate: liver function, CBC every 6-12 months. All: weight, metabolic parameters (glucose, lipids) every 6-12 months",
+            "notes": "Medication adherence crucial. Psychoeducation about illness and early warning signs. Regular sleep-wake cycle important. Avoid antidepressant monotherapy"
+        },
+        "notes": "Indian context: Lithium remains gold standard and cost-effective. Regular monitoring challenging in rural areas. Family involvement essential for medication compliance and early relapse detection. Educate about salt-restricted diet and dehydration risks with lithium. Valproate contraindicated in women of childbearing age due to teratogenicity"
+    },
+    {
+        "condition_name": "Sleep Disorders (Insomnia)",
+        "icd_codes": [
+            "F51.0",
+            "G47.0"
+        ],
+        "symptom_keywords": [
+            "can't fall asleep",
+            "difficulty sleeping",
+            "waking up frequently",
+            "early morning awakening",
+            "non-restorative sleep",
+            "daytime fatigue",
+            "irritability due to sleep",
+            "difficulty concentrating",
+            "worry about sleep",
+            "tired during day"
+        ],
+        "severity_scale": {
+            "name": "Insomnia Severity Index (ISI)",
+            "scoring_logic": "0-7=No clinically significant insomnia, 8-14=Subthreshold insomnia, 15-21=Moderate insomnia, 22-28=Severe insomnia"
+        },
+        "triage_logic": [
+            {
+                "severity_level": "Mild/Subthreshold Insomnia",
+                "clinical_status": "Occasional sleep difficulty with minimal daytime impairment",
+                "action_recommendation": "Sleep hygiene education + CBT for Insomnia (CBT-I). Avoid pharmacotherapy initially",
+                "referral_tier": "Self-help resources OR Clinical Psychologist for CBT-I",
+                "notes": "Sleep hygiene: regular sleep schedule, avoid caffeine/alcohol, comfortable sleep environment, limit screen time before bed, regular exercise (not close to bedtime)"
+            },
+            {
+                "severity_level": "Moderate Insomnia",
+                "clinical_status": "Frequent sleep difficulty with noticeable daytime impairment, present ≥3 nights/week for ≥3 months",
+                "action_recommendation": "CBT-I (first-line) + Short-term pharmacotherapy if needed. Address underlying causes (anxiety, depression, medical conditions)",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Clonazepam (short-term, 2-4 weeks max)",
+                        "start_dose": "0.5 mg hs",
+                        "max_dose": "2 mg hs"
+                    },
+                    {
+                        "name": "Alprazolam (short-term, 2-4 weeks max)",
+                        "start_dose": "0.25 mg hs",
+                        "max_dose": "0.5 mg hs"
+                    },
+                    {
+                        "name": "Zolpidem",
+                        "start_dose": "5 mg hs",
+                        "max_dose": "10 mg hs"
+                    },
+                    {
+                        "name": "Zopiclone",
+                        "start_dose": "3.75 mg hs",
+                        "max_dose": "7.5 mg hs"
+                    },
+                    {
+                        "name": "Mirtazapine (if comorbid depression)",
+                        "start_dose": "7.5 mg hs",
+                        "max_dose": "15 mg hs"
+                    },
+                    {
+                        "name": "Trazodone (if comorbid depression)",
+                        "start_dose": "25 mg hs",
+                        "max_dose": "100 mg hs"
+                    },
+                    {
+                        "name": "Melatonin",
+                        "start_dose": "3 mg hs",
+                        "max_dose": "10 mg hs"
+                    }
+                ],
+                "referral_tier": "Psychiatrist OR Sleep Medicine Specialist + Psychologist for CBT-I",
+                "notes": "CBT-I more effective long-term than medications. Avoid long-term benzodiazepines due to dependence risk. Rule out sleep apnea (snoring, witnessed apneas, daytime sleepiness), restless legs syndrome. Melatonin especially useful for circadian rhythm disorders and elderly"
+            },
+            {
+                "severity_level": "Severe Insomnia",
+                "clinical_status": "Severe sleep disturbance with marked daytime dysfunction, may be comorbid with psychiatric/medical conditions",
+                "action_recommendation": "Comprehensive evaluation for underlying causes. CBT-I + Pharmacotherapy. Address comorbid conditions aggressively",
+                "first_line_drugs_india": [
+                    {
+                        "name": "Zolpidem",
+                        "start_dose": "5 mg hs",
+                        "max_dose": "10 mg hs"
+                    },
+                    {
+                        "name": "Zopiclone",
+                        "start_dose": "3.75 mg hs",
+                        "max_dose": "7.5 mg hs"
+                    },
+                    {
+                        "name": "Mirtazapine (if comorbid depression/anxiety)",
+                        "start_dose": "7.5 mg hs",
+                        "max_dose": "30 mg hs"
+                    },
+                    {
+                        "name": "Trazodone (if comorbid depression)",
+                        "start_dose": "50 mg hs",
+                        "max_dose": "100 mg hs"
+                    },
+                    {
+                        "name": "Quetiapine (off-label, if severe)",
+                        "start_dose": "25 mg hs",
+                        "max_dose": "100 mg hs"
+                    }
+                ],
+                "referral_tier": "Psychiatrist Mandatory + Sleep Medicine Specialist + Psychologist",
+                "notes": "Rule out obstructive sleep apnea (requires polysomnography). Address medical comorbidities (chronic pain, thyroid disorders, GERD). Severe insomnia often secondary to other psychiatric conditions - treat primary disorder"
+            },
+            {
+                "severity_level": "Emergency/Red Flag",
+                "triggers": [
+                    "Insomnia with active suicidal ideation",
+                    "Severe insomnia causing psychotic symptoms",
+                    "Complete functional breakdown due to sleep deprivation",
+                    "Dangerous behaviors due to severe daytime impairment",
+                    "Suspected severe sleep apnea with cardiopulmonary complications"
+                ],
+                "action_recommendation": "Immediate psychiatric/medical evaluation. Address underlying emergency condition. Hospitalization if needed for safety",
+                "referral_tier": "Emergency - Immediate Evaluation",
+                "notes": "Adhere to MHCA 2017 regarding involuntary admission if patient poses risk to self due to sleep deprivation"
+            }
+        ],
+        "special_populations": {
+            "elderly": "Avoid benzodiazepines (fall risk, cognitive impairment, paradoxical agitation). Prefer melatonin 3-5mg, low-dose sedating antidepressants (mirtazapine 7.5-15mg, trazodone 25-50mg). Rule out sleep apnea, restless legs syndrome, medical causes",
+            "pregnancy": "Non-pharmacological approaches preferred. Avoid benzodiazepines in first trimester. Melatonin may be safer option. CBT-I is first-line",
+            "comorbid_psychiatric": "Treat underlying condition (depression, anxiety). Insomnia often improves with treatment of primary disorder. SSRIs may initially worsen insomnia - consider adding short-term hypnotic"
+        },
+        "notes": "Indian context: CBT-I resources limited - emphasize sleep hygiene education. Benzodiazepine overuse is concern - educate about dependence risk. Many patients present late with chronic insomnia. Rule out medical causes: thyroid disorders, chronic pain, GERD, sleep apnea. Yoga, meditation, and pranayama may be helpful adjuncts"
+    }
+]

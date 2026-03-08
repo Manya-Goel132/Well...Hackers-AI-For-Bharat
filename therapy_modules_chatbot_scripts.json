@@ -1,0 +1,625 @@
+{
+    "metadata": {
+        "version": "1.0",
+        "source": "IPS Clinical Practice Guidelines 2020",
+        "language_style": "Indian English",
+        "safety_note": "All exposure-based exercises should be done only when the user feels safe and ready"
+    },
+    "therapy_modules": [
+        {
+            "module_name": "Interoceptive Exposure for Panic",
+            "target_condition": "Panic Disorder",
+            "difficulty_level": "Beginner",
+            "clinical_rationale": "Based on the catastrophic misinterpretation model of panic disorder. Interoceptive exposure helps patients experience panic-like sensations in a controlled manner, leading to habituation and disconfirmation of feared consequences (Reddy 2020).",
+            "steps": [
+                "Step 1: Find a safe, comfortable place where you feel secure.",
+                "Step 2: Choose one exercise: (a) Breathe rapidly for 30 seconds to induce breathlessness, (b) Spin around 5 times to induce dizziness, or (c) Run in place for 1 minute to induce racing heart.",
+                "Step 3: After the exercise, notice the physical sensations without trying to control them.",
+                "Step 4: Rate your anxiety from 0-10. Notice that the sensations are uncomfortable but not dangerous.",
+                "Step 5: Practice this daily, gradually increasing duration as you become more comfortable.",
+                "Step 6: Record your anxiety ratings in a panic diary to track progress."
+            ],
+            "contraindications": "Do NOT do this if you have active cardiac problems, severe medical conditions, or if you feel extremely unsafe. Start only when you have discussed this with a mental health professional."
+        },
+        {
+            "module_name": "Graded In Vivo Exposure for Panic and Agoraphobia",
+            "target_condition": "Panic Disorder with Agoraphobia",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "In vivo exposure aids in habituation and disconfirmation of feared consequences. It reduces avoidance and safety behaviors, which maintain panic disorder (Reddy 2020).",
+            "steps": [
+                "Step 1: Make a list of situations you avoid due to fear of panic (e.g., crowded markets, public transport, being alone at home).",
+                "Step 2: Rate each situation from 0-100 based on how much anxiety it causes.",
+                "Step 3: Start with the least anxiety-provoking situation (rating 20-30).",
+                "Step 4: Plan to enter that situation without using safety behaviors (e.g., don't carry water bottle 'just in case', don't have a companion).",
+                "Step 5: Stay in the situation until your anxiety reduces by at least 50%. This may take 30-45 minutes.",
+                "Step 6: Repeat the same exposure 3-4 times before moving to the next item on your list.",
+                "Step 7: Gradually work your way up the hierarchy to more challenging situations."
+            ],
+            "contraindications": "Do this only when you feel safe. If panic becomes overwhelming, use grounding techniques (5-4-3-2-1 method) but try not to escape the situation immediately."
+        },
+        {
+            "module_name": "Cognitive Restructuring for Panic",
+            "target_condition": "Panic Disorder",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "Addresses catastrophic cognitions and exaggerated threat perception. Helps generate alternative benign explanations for panic symptoms (Reddy 2020).",
+            "steps": [
+                "Step 1: When you notice panic symptoms, write down the catastrophic thought (e.g., 'I am having a heart attack', 'I will faint and embarrass myself').",
+                "Step 2: Ask yourself: What is the evidence FOR this thought? What is the evidence AGAINST this thought?",
+                "Step 3: Consider alternative explanations: 'This is anxiety, not a heart attack. My body is responding to stress.'",
+                "Step 4: Ask: 'What is the worst that could happen? How likely is it really?'",
+                "Step 5: Generate a balanced thought: 'I feel uncomfortable, but I am safe. This will pass in a few minutes.'",
+                "Step 6: Rate your belief in the catastrophic thought (0-100%) before and after this exercise."
+            ],
+            "contraindications": "None. This is a safe cognitive exercise."
+        },
+        {
+            "module_name": "Worry Scheduling for GAD",
+            "target_condition": "Generalized Anxiety Disorder",
+            "difficulty_level": "Beginner",
+            "clinical_rationale": "Helps contain worry to specific times, reducing pervasive worry throughout the day. Based on cognitive avoidance model of GAD (Reddy 2020).",
+            "steps": [
+                "Step 1: Set aside a specific 'Worry Time' each day - 15-20 minutes at the same time and place.",
+                "Step 2: Throughout the day, when worries arise, write them down in a 'Worry List' and tell yourself 'I will think about this during my worry time.'",
+                "Step 3: During your scheduled worry time, review your worry list and allow yourself to worry about each item.",
+                "Step 4: After 15-20 minutes, stop worrying. Use a relaxation technique to transition out of worry time.",
+                "Step 5: Notice how many worries on your list seem less important when you review them later."
+            ],
+            "contraindications": "None. This is a safe behavioral technique."
+        },
+        {
+            "module_name": "Intolerance of Uncertainty Exercise",
+            "target_condition": "Generalized Anxiety Disorder",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "Intolerance of uncertainty is a core maintaining factor in GAD. This exercise helps build tolerance for uncertainty (Reddy 2020).",
+            "steps": [
+                "Step 1: Identify a situation where you feel the need to be 100% certain (e.g., checking weather forecast multiple times, seeking reassurance about health).",
+                "Step 2: Practice tolerating uncertainty by deliberately NOT seeking reassurance or checking.",
+                "Step 3: Notice the discomfort that arises. Rate your anxiety from 0-10.",
+                "Step 4: Remind yourself: 'Uncertainty is a part of life. I can handle not knowing for sure.'",
+                "Step 5: Observe how your anxiety naturally decreases over time without reassurance.",
+                "Step 6: Gradually increase the difficulty by applying this to more important uncertainties."
+            ],
+            "contraindications": "Start with small uncertainties. Do not apply this to genuine safety concerns (e.g., don't ignore real medical symptoms)."
+        },
+        {
+            "module_name": "Problem-Solving Training for GAD",
+            "target_condition": "Generalized Anxiety Disorder",
+            "difficulty_level": "Beginner",
+            "clinical_rationale": "Poor problem orientation and problem-solving contribute to GAD. Teaching structured problem-solving reduces worry (Reddy 2020).",
+            "steps": [
+                "Step 1: Identify the problem clearly. Write it down in one sentence.",
+                "Step 2: Brainstorm all possible solutions without judging them. Write down at least 5 solutions.",
+                "Step 3: Evaluate each solution: What are the pros and cons?",
+                "Step 4: Choose the best solution based on your evaluation.",
+                "Step 5: Make an action plan: What steps will you take? When will you take them?",
+                "Step 6: Implement the solution and review the outcome after 1 week."
+            ],
+            "contraindications": "None. This is a safe cognitive-behavioral technique."
+        },
+        {
+            "module_name": "Progressive Muscle Relaxation",
+            "target_condition": "Generalized Anxiety Disorder, Panic Disorder",
+            "difficulty_level": "Beginner",
+            "clinical_rationale": "Addresses physical symptoms of anxiety through systematic muscle relaxation. Reduces arousal and promotes a sense of calm (Reddy 2020).",
+            "steps": [
+                "Step 1: Find a quiet, comfortable place to sit or lie down.",
+                "Step 2: Starting with your feet, tense the muscles as tightly as you can for 5 seconds.",
+                "Step 3: Release the tension suddenly and notice the feeling of relaxation for 10 seconds.",
+                "Step 4: Move up through your body: calves, thighs, abdomen, chest, arms, hands, neck, and face.",
+                "Step 5: Tense and relax each muscle group in sequence.",
+                "Step 6: After completing all muscle groups, sit quietly for a few minutes and enjoy the relaxed state.",
+                "Step 7: Practice this daily for 15-20 minutes."
+            ],
+            "contraindications": "Avoid tensing muscles if you have muscle injuries or chronic pain. Consult a doctor if you have any physical health concerns."
+        },
+        {
+            "module_name": "Applied Relaxation: Quick Release Technique",
+            "target_condition": "Generalized Anxiety Disorder, Panic Disorder, Social Anxiety Disorder",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "Applied Relaxation is a portable form of relaxation that can be used in real-life anxiety situations. It involves training from progressive muscle relaxation to rapid relaxation, producing the relaxation response quickly in different situations at the earliest experience of anxiety. It serves as a coping mechanism, not a safety behavior (Reddy 2020).",
+            "steps": [
+                "Step 1: First, master Progressive Muscle Relaxation (PMR) by practicing it daily for 1-2 weeks.",
+                "Step 2: Practice 'Release-Only Relaxation': Instead of tensing first, directly relax each muscle group by recalling the relaxed feeling from PMR. Practice for 1 week.",
+                "Step 3: Practice 'Cue-Controlled Relaxation': Take a deep breath and say 'relax' as you exhale, while releasing tension in your body. Practice for 1 week.",
+                "Step 4: Practice 'Rapid Relaxation': In everyday situations (e.g., sitting at your desk, waiting in a queue), take 2-3 deep breaths and release tension. Do this 15-20 times per day.",
+                "Step 5: Apply the technique in mildly anxiety-provoking situations (e.g., before a meeting, in a crowded place). Notice the earliest signs of anxiety and use rapid relaxation.",
+                "Step 6: Gradually apply the technique in more challenging situations. The goal is to relax within 20-30 seconds.",
+                "Step 7: Remember: Use this as a coping tool, not to avoid the situation. Stay in the situation while using relaxation."
+            ],
+            "contraindications": "Do not use this as a safety behavior to avoid anxiety. The goal is to cope with anxiety while staying in the situation, not to escape or avoid."
+        },
+        {
+            "module_name": "Graded Exposure for Specific Phobia",
+            "target_condition": "Specific Phobia",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "In vivo exposure is the treatment of choice for specific phobias. Prolonged exposure leads to habituation and extinction of fear response (Reddy 2020).",
+            "steps": [
+                "Step 1: Create a fear hierarchy with 8-10 steps, from least to most anxiety-provoking situations related to your phobia.",
+                "Step 2: Rate each step from 0-100 based on anxiety level.",
+                "Step 3: Start with the lowest item on your hierarchy (rating 20-30).",
+                "Step 4: Expose yourself to that situation for a prolonged period (30-60 minutes) without using safety behaviors or distraction.",
+                "Step 5: Stay in the situation until your anxiety reduces by at least 50%.",
+                "Step 6: Repeat the same exposure 3-5 times until it no longer causes significant anxiety.",
+                "Step 7: Move to the next item on your hierarchy and repeat the process."
+            ],
+            "contraindications": "Do this only when you feel safe. For blood-injury phobia, use Applied Tension technique instead to prevent fainting."
+        },
+        {
+            "module_name": "Applied Tension for Blood-Injury Phobia",
+            "target_condition": "Blood-Injury Phobia",
+            "difficulty_level": "Beginner",
+            "clinical_rationale": "Blood-injury phobia causes a vasovagal response leading to fainting. Applied Tension raises blood pressure to prevent fainting during exposure (Reddy 2020).",
+            "steps": [
+                "Step 1: Learn the tension technique: Tense all large muscle groups (arms, chest, legs) until you feel warmth in your face.",
+                "Step 2: Hold the tension for 10-15 seconds, then release for 20-30 seconds.",
+                "Step 3: Repeat this cycle 5 times.",
+                "Step 4: Practice this technique daily until you can do it quickly and effectively.",
+                "Step 5: When exposed to blood/injury cues (pictures, videos, or real situations), apply the tension technique at the earliest sign of faintness.",
+                "Step 6: Gradually expose yourself to more intense blood/injury stimuli while using the tension technique."
+            ],
+            "contraindications": "Consult a doctor if you have high blood pressure or cardiovascular issues before practicing this technique."
+        },
+        {
+            "module_name": "Cognitive Restructuring for Social Anxiety",
+            "target_condition": "Social Anxiety Disorder",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "Addresses self-processing biases, fear of negative evaluation, and catastrophic social predictions. Helps challenge dysfunctional beliefs about social situations (Reddy 2020).",
+            "steps": [
+                "Step 1: Identify a recent social situation that caused anxiety. Write down your automatic thoughts (e.g., 'Everyone will think I'm stupid', 'I will make a fool of myself').",
+                "Step 2: Identify cognitive errors: Mind reading ('They think I'm boring'), Fortune telling ('I will definitely embarrass myself'), Catastrophizing ('It will be a disaster').",
+                "Step 3: Challenge the thought: What is the evidence? Am I mind-reading? What would I tell a friend in this situation?",
+                "Step 4: Generate alternative, balanced thoughts: 'Some people may not be interested, but that's okay. I don't need everyone's approval.'",
+                "Step 5: Rate your belief in the original thought (0-100%) before and after this exercise.",
+                "Step 6: Plan a behavioral experiment to test your prediction in a real social situation."
+            ],
+            "contraindications": "None. This is a safe cognitive exercise."
+        },
+        {
+            "module_name": "Reducing Self-Focused Attention",
+            "target_condition": "Social Anxiety Disorder",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "Excessive self-focused attention maintains social anxiety by creating a distorted self-image. Shifting attention externally reduces anxiety (Reddy 2020).",
+            "steps": [
+                "Step 1: In a social situation, notice when you become self-focused (e.g., monitoring how you look, sound, or appear to others).",
+                "Step 2: Deliberately shift your attention outward. Focus on what the other person is saying, their facial expressions, or objects in the room.",
+                "Step 3: Practice the '5-4-3-2-1' technique: Name 5 things you see, 4 things you hear, 3 things you can touch, 2 things you smell, 1 thing you taste.",
+                "Step 4: Engage fully in the conversation by listening actively rather than rehearsing what to say next.",
+                "Step 5: After the interaction, resist the urge to ruminate about how you performed. Remind yourself: 'I did my best, and that's enough.'"
+            ],
+            "contraindications": "None. This is a safe attentional technique."
+        },
+        {
+            "module_name": "Dropping Safety Behaviors in Social Situations",
+            "target_condition": "Social Anxiety Disorder",
+            "difficulty_level": "Advanced",
+            "clinical_rationale": "Safety behaviors maintain social anxiety by preventing disconfirmation of feared outcomes. Dropping them allows for new learning (Reddy 2020).",
+            "steps": [
+                "Step 1: Identify your safety behaviors in social situations (e.g., avoiding eye contact, holding objects tightly to prevent trembling, over-rehearsing, staying quiet).",
+                "Step 2: Choose one safety behavior to drop in your next social interaction.",
+                "Step 3: Before the interaction, predict what you think will happen if you drop this behavior (e.g., 'People will notice I'm anxious').",
+                "Step 4: Enter the social situation and deliberately drop the safety behavior.",
+                "Step 5: Observe what actually happens. Did your feared outcome occur?",
+                "Step 6: Reflect on the experience: 'What did I learn? Was my prediction accurate?'",
+                "Step 7: Gradually drop more safety behaviors in subsequent interactions."
+            ],
+            "contraindications": "Start with less threatening social situations. Do this only when you feel ready."
+        },
+        {
+            "module_name": "Social Skills Training: Assertiveness Practice",
+            "target_condition": "Social Anxiety Disorder",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "Some persons with SAD have actual social skills deficits, not just performance anxiety. SST addresses specific interpersonal skills such as making and refusing requests, expressing feelings, and negotiating. It includes exposure to social situations as part of training (Reddy 2020).",
+            "steps": [
+                "Step 1: Identify a situation where you struggle to be assertive (e.g., saying 'no' to unreasonable requests, expressing your opinion, asking for help).",
+                "Step 2: Learn the assertiveness formula: 'I feel [emotion] when [situation] because [reason]. I would like [request].'",
+                "Step 3: Practice in front of a mirror or record yourself. Notice your body language, tone of voice, and eye contact.",
+                "Step 4: Role-play the situation with a trusted friend or family member. Ask for feedback on your delivery.",
+                "Step 5: Start with low-stakes situations (e.g., returning an item at a shop, asking for directions).",
+                "Step 6: Gradually practice assertiveness in more challenging situations (e.g., disagreeing with a colleague, setting boundaries with family).",
+                "Step 7: After each interaction, reflect: 'How did I do? What went well? What can I improve?'"
+            ],
+            "contraindications": "None. This is a safe behavioral skill-building exercise. Practice in safe environments before applying to high-stakes situations."
+        },
+        {
+            "module_name": "Exposure and Response Prevention (ERP) - Level 1",
+            "target_condition": "Obsessive-Compulsive Disorder",
+            "difficulty_level": "Beginner",
+            "clinical_rationale": "ERP is the cornerstone of OCD treatment. It involves graded exposure to obsession triggers while preventing compulsive rituals, leading to habituation and extinction of fear (Reddy 2020).",
+            "steps": [
+                "Step 1: Create a hierarchy of OCD triggers from least to most anxiety-provoking (0-100 scale).",
+                "Step 2: Start with a low-anxiety trigger (rating 20-30).",
+                "Step 3: Expose yourself to the trigger deliberately (e.g., touch a 'contaminated' object).",
+                "Step 4: Resist the urge to perform your compulsion (e.g., don't wash hands).",
+                "Step 5: Stay with the anxiety without performing the ritual. Rate your anxiety every 5 minutes.",
+                "Step 6: Notice how anxiety naturally decreases over time (usually 30-60 minutes) without the ritual.",
+                "Step 7: Repeat this exposure 3-5 times before moving to the next item on your hierarchy."
+            ],
+            "contraindications": "Do this only when you feel safe. Start with low-anxiety triggers. Seek professional guidance for severe OCD."
+        },
+        {
+            "module_name": "Exposure and Response Prevention (ERP) - Level 2",
+            "target_condition": "Obsessive-Compulsive Disorder",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "Builds on Level 1 ERP. Targets moderate-anxiety triggers to further reduce OCD symptoms through habituation (Reddy 2020).",
+            "steps": [
+                "Step 1: Choose a moderate-anxiety trigger from your hierarchy (rating 40-60).",
+                "Step 2: Plan the exposure in detail: What will you touch/do? For how long?",
+                "Step 3: Execute the exposure without performing any compulsions or mental rituals.",
+                "Step 4: If you experience strong urges to ritualize, use delay tactics: 'I will wait 5 more minutes before deciding.'",
+                "Step 5: Stay with the discomfort. Remind yourself: 'Anxiety is uncomfortable but not dangerous. It will pass.'",
+                "Step 6: Track your anxiety levels and notice the natural decline.",
+                "Step 7: Repeat this exposure daily until it no longer causes significant distress."
+            ],
+            "contraindications": "Do not attempt this if you are experiencing severe distress. Work with a therapist for guidance."
+        },
+        {
+            "module_name": "Cognitive Restructuring for OCD",
+            "target_condition": "Obsessive-Compulsive Disorder",
+            "difficulty_level": "Intermediate",
+            "clinical_rationale": "Addresses obsessive beliefs such as inflated responsibility, overestimation of threat, and thought-action fusion. Helps challenge irrational beliefs (Reddy 2020).",
+            "steps": [
+                "Step 1: Identify your obsessive thought (e.g., 'If I don't check the lock, someone will break in and it will be my fault').",
+                "Step 2: Identify the underlying belief: Inflated responsibility ('It's all my fault'), Overestimation of threat ('Break-in is very likely'), Thought-action fusion ('Thinking it makes it more likely').",
+                "Step 3: Challenge the belief: What is the evidence? How likely is this really? Am I overestimating my responsibility?",
+                "Step 4: Generate a balanced thought: 'I have checked once. That is enough. I am not responsible for everything that might happen.'",
+                "Step 5: Rate your belief in the obsessive thought (0-100%) before and after this exercise.",
+                "Step 6: Combine this with ERP: Expose yourself to the trigger and use the balanced thought instead of ritualizing."
+            ],
+            "contraindications": "None. This is a safe cognitive exercise. However, it works best when combined with ERP."
+        },
+        {
+            "module_name": "Mindfulness for Anxiety",
+            "target_condition": "Generalized Anxiety Disorder, Panic Disorder, Social Anxiety Disorder",
+            "difficulty_level": "Beginner",
+            "clinical_rationale": "Mindfulness reduces experiential avoidance and promotes acceptance of anxious thoughts and feelings without judgment. Effective for various anxiety disorders (Reddy 2020).",
+            "steps": [
+                "Step 1: Find a quiet place and sit comfortably.",
+                "Step 2: Close your eyes and bring your attention to your breath. Notice the sensation of breathing in and out.",
+                "Step 3: When your mind wanders to worries or anxious thoughts, gently acknowledge them without judgment: 'There's a worry.'",
+                "Step 4: Bring your attention back to your breath. Don't try to push thoughts away; just let them pass like clouds.",
+                "Step 5: Practice this for 10-15 minutes daily.",
+                "Step 6: Gradually extend mindfulness to daily activities: eating, walking, or listening to others."
+            ],
+            "contraindications": "None. This is a safe practice. Some people may initially feel more anxious; this is normal and will decrease with practice."
+        },
+        {
+            "module_name": "Behavioral Activation for Low Mood",
+            "target_condition": "Depression, Anxiety with Low Mood",
+            "difficulty_level": "Beginner",
+            "clinical_rationale": "Behavioral activation counters withdrawal and inactivity, which maintain depression and anxiety. Engaging in meaningful activities improves mood (Supportive Psychotherapy principles).",
+            "steps": [
+                "Step 1: Make a list of activities you used to enjoy or find meaningful (e.g., meeting friends, hobbies, exercise).",
+                "Step 2: Rate each activity for pleasure (0-10) and sense of achievement (0-10).",
+                "Step 3: Choose 2-3 activities to do this week, starting with easier ones.",
+                "Step 4: Schedule these activities in your calendar at specific times.",
+                "Step 5: Do the activity even if you don't feel like it. Notice how you feel before, during, and after.",
+                "Step 6: Track your mood daily and notice any improvements.",
+                "Step 7: Gradually increase the number and difficulty of activities."
+            ],
+            "contraindications": "None. Start small and build gradually. Don't overwhelm yourself with too many activities at once."
+        }
+    ],
+    "chatbot_scripts": [
+        {
+            "user_intent": "User expresses feeling like a failure or worthlessness",
+            "technique_used": "Validation and Reassurance (Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "I can hear how painful this feeling is for you.",
+                    "It is completely understandable to feel this way given what you are going through.",
+                    "Many people experience these feelings when they are under stress. You are not alone in this.",
+                    "These feelings are real and valid, even if they don't reflect the complete truth about you."
+                ],
+                "dont_say": [
+                    "Don't worry, everything will be fine.",
+                    "You should just think positive.",
+                    "You are being too hard on yourself, just snap out of it.",
+                    "Everyone feels this way sometimes, it's no big deal."
+                ],
+                "reasoning": "Grover 2020: Focus on validating the affect (emotion) rather than dismissing the problem. Reassurance should be honest and based on empathic understanding, not false optimism. The therapist should be nonjudgmental and help the client feel understood."
+            }
+        },
+        {
+            "user_intent": "User is experiencing a panic attack or acute anxiety",
+            "technique_used": "De-escalation and Grounding (Supportive Psychotherapy + CBT)",
+            "response_guidelines": {
+                "do_say": [
+                    "I understand you are feeling very anxious right now. Let's take this one step at a time.",
+                    "You are safe. What you are feeling is anxiety, and it will pass.",
+                    "Let's try a grounding exercise together. Can you name 5 things you can see around you?",
+                    "Focus on your breathing. Breathe in slowly for 4 counts, hold for 4, and breathe out for 4.",
+                    "This feeling is temporary. It will reduce in a few minutes."
+                ],
+                "dont_say": [
+                    "Calm down, it's not a big deal.",
+                    "You are overreacting.",
+                    "Just relax, there's nothing to worry about.",
+                    "Stop panicking."
+                ],
+                "reasoning": "Reddy 2020 + Grover 2020: During acute panic, provide immediate reassurance and grounding techniques. Avoid minimizing the experience. Use a calm, supportive tone and guide the user through concrete steps to reduce arousal."
+            }
+        },
+        {
+            "user_intent": "User is ruminating or worrying excessively",
+            "technique_used": "Cognitive Redirection and Worry Management (CBT for GAD)",
+            "response_guidelines": {
+                "do_say": [
+                    "I notice you are worrying a lot about this. Worrying is your mind's way of trying to solve a problem, but sometimes it gets stuck.",
+                    "Let's try to separate what you can control from what you cannot control in this situation.",
+                    "Would it help to write down your worries and set aside a specific 'worry time' to think about them later?",
+                    "What would you tell a friend who was worrying about this same thing?",
+                    "Let's focus on what you can do right now, in this moment."
+                ],
+                "dont_say": [
+                    "Stop worrying so much.",
+                    "You are overthinking this.",
+                    "Just forget about it.",
+                    "Worrying won't help, so why do it?"
+                ],
+                "reasoning": "Reddy 2020: GAD is characterized by uncontrollable worry. Validate the worry, then gently redirect to problem-solving or worry management techniques. Avoid dismissing the worry, as this can increase anxiety."
+            }
+        },
+        {
+            "user_intent": "User expresses suicidal thoughts or self-harm ideation",
+            "technique_used": "Crisis Intervention and Safety Planning (Supportive Psychotherapy + Safety Protocol)",
+            "response_guidelines": {
+                "do_say": [
+                    "Thank you for sharing this with me. I am here to support you, but I want to make sure you are safe.",
+                    "Are you having thoughts of hurting yourself right now? Can you tell me more about what you are feeling?",
+                    "I strongly encourage you to reach out to a mental health professional or a crisis helpline immediately.",
+                    "Here are some helpline numbers you can call right now: [Provide local crisis numbers like AASRA 9820466726, Vandrevala Foundation 1860-2662-345].",
+                    "If you are in immediate danger, please call emergency services or go to the nearest hospital.",
+                    "You are not alone. There are people who care about you and want to help."
+                ],
+                "dont_say": [
+                    "You don't really mean that.",
+                    "Things aren't that bad.",
+                    "You have so much to live for, just think about your family.",
+                    "Don't talk like that."
+                ],
+                "reasoning": "Grover 2020 + Clinical Safety: Suicidal ideation requires immediate, serious response. Validate the pain, assess safety, and provide concrete resources. Never minimize or dismiss suicidal thoughts. Encourage professional help immediately."
+            }
+        },
+        {
+            "user_intent": "User is avoiding a feared situation",
+            "technique_used": "Encouragement and Graded Exposure (CBT + Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "I understand that this situation feels very difficult for you right now.",
+                    "Avoidance can provide short-term relief, but it often makes anxiety stronger in the long run.",
+                    "What if we break this down into smaller, manageable steps? What would be the easiest first step you could take?",
+                    "You don't have to do everything at once. Small steps are still progress.",
+                    "I believe you have the strength to face this, even if it feels hard right now."
+                ],
+                "dont_say": [
+                    "You just need to face your fears.",
+                    "Stop avoiding it and just do it.",
+                    "It's not that scary, you are making it worse than it is.",
+                    "You are being a coward."
+                ],
+                "reasoning": "Reddy 2020 + Grover 2020: Avoidance maintains anxiety disorders. Gently encourage approach behaviors without being pushy. Use graded exposure principles and validate the difficulty while instilling hope."
+            }
+        },
+        {
+            "user_intent": "User is self-critical or has low self-esteem",
+            "technique_used": "Building Self-Esteem and Identifying Strengths (Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "I hear that you are being very hard on yourself. Can we explore where this self-criticism is coming from?",
+                    "What are some things you have done well recently, even small things?",
+                    "Everyone makes mistakes. It doesn't define your worth as a person.",
+                    "What would you say to a friend who was talking about themselves this way?",
+                    "Let's focus on your strengths. What are some qualities you appreciate about yourself?"
+                ],
+                "dont_say": [
+                    "You shouldn't feel that way about yourself.",
+                    "You are being too negative.",
+                    "Just love yourself more.",
+                    "Stop putting yourself down."
+                ],
+                "reasoning": "Grover 2020: Supportive psychotherapy aims to enhance self-esteem by identifying strengths and providing positive regard. Help the client shift perspective from self-criticism to self-compassion through gentle questioning."
+            }
+        },
+        {
+            "user_intent": "User is feeling overwhelmed by multiple problems",
+            "technique_used": "Problem-Solving and Prioritization (Supportive Psychotherapy + CBT)",
+            "response_guidelines": {
+                "do_say": [
+                    "It sounds like you have a lot on your plate right now. That must feel very overwhelming.",
+                    "Let's try to break this down. What is the most urgent problem you are facing right now?",
+                    "We can tackle one problem at a time. You don't have to solve everything today.",
+                    "What is one small step you can take today to address the most pressing issue?",
+                    "Let's make a plan together. What resources or support do you have available?"
+                ],
+                "dont_say": [
+                    "You are making this more complicated than it needs to be.",
+                    "Just deal with one thing at a time, it's simple.",
+                    "You are overthinking this.",
+                    "Stop stressing, it will all work out."
+                ],
+                "reasoning": "Grover 2020 + Reddy 2020: When clients are overwhelmed, help them prioritize and problem-solve in a structured way. Provide guidance without being authoritarian. Break problems into manageable pieces."
+            }
+        },
+        {
+            "user_intent": "User is seeking reassurance repeatedly",
+            "technique_used": "Gentle Limit-Setting and Tolerance of Uncertainty (CBT for GAD/OCD)",
+            "response_guidelines": {
+                "do_say": [
+                    "I understand you are looking for certainty, and that's a natural response to anxiety.",
+                    "However, seeking reassurance repeatedly can actually make anxiety stronger over time.",
+                    "What if we practice tolerating a little bit of uncertainty together? It's uncomfortable, but it's also how we build confidence.",
+                    "Can you try sitting with the 'not knowing' for just a few minutes and see what happens?",
+                    "I believe you can handle this uncertainty, even though it feels difficult."
+                ],
+                "dont_say": [
+                    "I already told you, stop asking.",
+                    "You need to stop seeking reassurance.",
+                    "You are being irrational.",
+                    "I can't keep answering the same question."
+                ],
+                "reasoning": "Reddy 2020: Reassurance-seeking is a safety behavior that maintains GAD and OCD. Gently discourage it while validating the underlying anxiety. Encourage tolerance of uncertainty as a therapeutic goal."
+            }
+        },
+        {
+            "user_intent": "User is experiencing physical symptoms of anxiety",
+            "technique_used": "Psychoeducation and Normalization (CBT + Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "What you are experiencing are physical symptoms of anxiety. They are uncomfortable but not dangerous.",
+                    "When we are anxious, our body goes into 'fight or flight' mode. This causes symptoms like rapid heartbeat, sweating, and dizziness.",
+                    "These symptoms will pass. They are your body's way of trying to protect you, even though there is no real danger.",
+                    "Let's try a breathing exercise to help calm your nervous system.",
+                    "If these symptoms are new or very severe, it's also a good idea to check with a doctor to rule out any medical causes."
+                ],
+                "dont_say": [
+                    "It's all in your head.",
+                    "You are fine, stop worrying about your body.",
+                    "There's nothing wrong with you.",
+                    "Just ignore the symptoms."
+                ],
+                "reasoning": "Reddy 2020 + Grover 2020: Psychoeducation about the physiology of anxiety helps reduce catastrophic misinterpretation of symptoms. Normalize the experience while also validating the discomfort."
+            }
+        },
+        {
+            "user_intent": "User is expressing anger or frustration",
+            "technique_used": "Validation and Emotional Regulation (Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "I can see that you are feeling very angry right now. It's okay to feel this way.",
+                    "Anger is a valid emotion. Can you tell me more about what triggered this feeling?",
+                    "What do you think would help you feel better right now?",
+                    "Sometimes anger is a signal that something important to us has been violated. Let's explore what that might be.",
+                    "It's important to express your feelings, and I'm here to listen without judgment."
+                ],
+                "dont_say": [
+                    "Calm down, you are overreacting.",
+                    "You shouldn't be so angry.",
+                    "Getting angry won't solve anything.",
+                    "You need to control your temper."
+                ],
+                "reasoning": "Grover 2020: Supportive psychotherapy involves validating all emotions, including anger. Help the client explore the source of anger and express it safely. Avoid being judgmental or dismissive."
+            }
+        },
+        {
+            "user_intent": "User is feeling lonely or isolated",
+            "technique_used": "Empathy and Encouragement for Social Connection (Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "Loneliness can be very painful. I'm sorry you are feeling this way.",
+                    "You are not alone in feeling lonely. Many people struggle with this, especially during difficult times.",
+                    "Is there anyone in your life you feel comfortable reaching out to, even for a small conversation?",
+                    "Sometimes taking small steps to connect with others can help. What is one small thing you could do this week to reach out?",
+                    "I'm here with you, and I care about how you are feeling."
+                ],
+                "dont_say": [
+                    "You should just go out and make friends.",
+                    "Everyone feels lonely sometimes, it's not a big deal.",
+                    "You are isolating yourself, that's your problem.",
+                    "Stop feeling sorry for yourself."
+                ],
+                "reasoning": "Grover 2020: Loneliness is a significant risk factor for mental health problems. Validate the feeling and gently encourage social connection without being pushy. Provide empathic presence."
+            }
+        },
+        {
+            "user_intent": "User is experiencing guilt or shame",
+            "technique_used": "Normalization and Self-Compassion (Supportive Psychotherapy + CBT)",
+            "response_guidelines": {
+                "do_say": [
+                    "Guilt and shame are very painful emotions. Thank you for sharing this with me.",
+                    "Can you tell me more about what you feel guilty or ashamed about?",
+                    "Sometimes we are much harder on ourselves than we would be on others. What would you say to a friend in this situation?",
+                    "Making mistakes is part of being human. It doesn't mean you are a bad person.",
+                    "What can you learn from this experience? How can you move forward with self-compassion?"
+                ],
+                "dont_say": [
+                    "You have nothing to feel guilty about.",
+                    "Stop being so hard on yourself.",
+                    "Just forgive yourself and move on.",
+                    "You are overreacting."
+                ],
+                "reasoning": "Grover 2020 + Reddy 2020: Validate the emotion while gently challenging excessive guilt or shame. Encourage self-compassion and perspective-taking. Avoid minimizing the feeling."
+            }
+        },
+        {
+            "user_intent": "User is having difficulty sleeping",
+            "technique_used": "Sleep Hygiene Education and Behavioral Strategies (CBT for Insomnia)",
+            "response_guidelines": {
+                "do_say": [
+                    "Sleep problems can be very frustrating. Let's talk about your sleep routine.",
+                    "Good sleep hygiene can make a big difference. Are you going to bed and waking up at the same time every day?",
+                    "Try to avoid screens (phone, TV) for at least 30 minutes before bed. The blue light can interfere with sleep.",
+                    "If you can't fall asleep after 20 minutes, get up and do a quiet, relaxing activity until you feel sleepy.",
+                    "Avoid caffeine and heavy meals in the evening. Create a comfortable, dark, and cool sleep environment.",
+                    "If sleep problems persist, it may be helpful to speak with a doctor or mental health professional."
+                ],
+                "dont_say": [
+                    "Just close your eyes and you'll fall asleep.",
+                    "You are not trying hard enough to sleep.",
+                    "Everyone has trouble sleeping sometimes, it's no big deal.",
+                    "Just take a sleeping pill."
+                ],
+                "reasoning": "Sleep hygiene is a first-line intervention for insomnia. Provide concrete, actionable advice. Validate the difficulty and encourage professional help if needed."
+            }
+        },
+        {
+            "user_intent": "User is doubting their progress or feeling stuck",
+            "technique_used": "Encouragement and Highlighting Progress (Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "Recovery is not always a straight line. It's normal to have ups and downs.",
+                    "Let's look back at where you were a few weeks ago. What has changed, even in small ways?",
+                    "Progress can be slow and subtle. Sometimes we don't notice the small improvements we've made.",
+                    "What is one thing you are doing now that you couldn't do before?",
+                    "I believe in your ability to keep moving forward, even when it feels difficult."
+                ],
+                "dont_say": [
+                    "You are not trying hard enough.",
+                    "You should be better by now.",
+                    "You are stuck because you are not doing the work.",
+                    "Stop being so negative about your progress."
+                ],
+                "reasoning": "Grover 2020: Supportive psychotherapy involves providing encouragement and highlighting strengths. Help the client recognize progress, even when they feel stuck. Instill hope without being unrealistic."
+            }
+        },
+        {
+            "user_intent": "User is expressing hopelessness about the future",
+            "technique_used": "Instilling Hope and Realistic Optimism (Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "I hear that you are feeling very hopeless right now. That must be incredibly difficult.",
+                    "When we are in pain, it can be hard to see a way forward. But feelings can change, even when it doesn't seem possible.",
+                    "What is one small thing that could make tomorrow even slightly better?",
+                    "Many people who have felt this way have found that things can improve with time and support.",
+                    "I am here to walk through this with you. You don't have to face this alone."
+                ],
+                "dont_say": [
+                    "Things will definitely get better, don't worry.",
+                    "You just need to be more positive.",
+                    "You have so much to be grateful for.",
+                    "Stop being so pessimistic."
+                ],
+                "reasoning": "Grover 2020: Hopelessness is a serious symptom, especially in depression. Validate the feeling while gently instilling realistic hope. Avoid false reassurance, but provide empathic presence and support."
+            }
+        },
+        {
+            "user_intent": "User is comparing themselves negatively to others",
+            "technique_used": "Challenging Comparisons and Focusing on Personal Growth (CBT + Supportive Psychotherapy)",
+            "response_guidelines": {
+                "do_say": [
+                    "Comparing ourselves to others can be very painful. It's a common thing people do, but it's not always helpful.",
+                    "Everyone's journey is different. What works for someone else may not be right for you.",
+                    "What are your own personal goals and values? How can you measure your progress against your own standards, not others'?",
+                    "What is one thing you have accomplished that you are proud of, regardless of what others are doing?",
+                    "Let's focus on your own growth and what matters to you."
+                ],
+                "dont_say": [
+                    "Stop comparing yourself to others.",
+                    "You are just as good as them.",
+                    "Comparison is pointless, just focus on yourself.",
+                    "You are being jealous."
+                ],
+                "reasoning": "Reddy 2020 + Grover 2020: Social comparison is a cognitive error that maintains low self-esteem and anxiety. Gently challenge the comparison while redirecting to personal values and goals."
+            }
+        }
+    ]
+}

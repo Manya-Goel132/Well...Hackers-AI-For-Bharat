@@ -1,0 +1,70 @@
+{
+    "app_name": "ManoSathi",
+    "nav": {
+        "home": "Home",
+        "chat": "Chat",
+        "journal": "Journal",
+        "profile": "Profile",
+        "settings": "Settings",
+        "logout": "Log Out",
+        "continue": "Continue"
+    },
+    "settings": {
+        "title": "Settings",
+        "language": "Language",
+        "language_desc": "Choose your preferred language for the interface.",
+        "theme": "Theme",
+        "theme_desc": "Choose between Light and Dark mode.",
+        "notifications": "Notifications"
+    },
+    "home": {
+        "greeting": "Hello, Sathi.",
+        "subtitle": "How are you feeling right now?\nYour Sathi is here to listen and help.",
+        "chat_button": "Chat with AI Companion",
+        "privacy_note": "Private • Secure • Non-judgmental",
+        "card_journal": "Journal",
+        "card_breathe": "Breathe",
+        "card_checkin": "Check-In"
+    },
+    "profile": {
+        "title": "Your Profile",
+        "photo_url": "Profile Image URL",
+        "paste_link": "Paste a valid image link",
+        "joined": "Joined",
+        "personal_details": "Personal Details",
+        "personal_desc": "Help ManoSathi personalise your experience",
+        "display_name": "Display Name",
+        "name_placeholder": "How should we call you?",
+        "bio": "About Me (Bio)",
+        "bio_placeholder": "Briefly describe your situation, or what brings you here...",
+        "age": "Age",
+        "gender": "Gender",
+        "prefer_not_say": "Prefer not to say",
+        "male": "Male",
+        "female": "Female",
+        "non_binary": "Non-binary",
+        "other": "Other",
+        "location": "Location (City/State)",
+        "detect_location": "Detect My Location",
+        "pref_language": "Preferred Language (for AI)",
+        "interests": "Interests & Hobbies (Comma separated)",
+        "interests_placeholder": "e.g. Music, Reading, Yoga",
+        "save_changes": "Save Changes",
+        "success_msg": "Profile updated successfully!",
+        "error_msg": "Failed to update profile. Please try again."
+    },
+    "onboarding": {
+        "title": "Welcome to ManoSathi",
+        "subtitle": "Let's get to know you better to personalize your experience.",
+        "required_fields": "Please fill in all required fields",
+        "success": "Welcome to ManoSathi!",
+        "error": "Something went wrong. Please try again.",
+        "goals_label": "What brings you to ManoSathi?",
+        "goals_placeholder": "I want to reduce stress, improve my sleep, etc...",
+        "interests_hint": "Separate with commas",
+        "complete_btn": "Complete Setup"
+    },
+    "common": {
+        "change": "Change"
+    }
+}
