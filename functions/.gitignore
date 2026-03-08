@@ -3,3 +3,9 @@ lib/
 .env
 *.log
 .serverless/
+test_identity.py
+test_iam.js
+test_transcribe.js
+test_output.log
+test_results_suite.txt
+response_nova.json
