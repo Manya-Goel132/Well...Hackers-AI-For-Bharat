@@ -1,4 +1,0 @@
-
---- Page 1 ---
-Page 1 / 7 Page Fit
-With PDFmyURL you can easily save entire websites as PDF and use our API service to create PDFs automatically from webpages or HTML.
