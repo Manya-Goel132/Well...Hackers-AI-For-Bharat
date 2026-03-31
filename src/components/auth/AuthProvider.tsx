@@ -8,7 +8,7 @@ interface AuthContextType {
     loading: boolean;
     signUp: (email: string, password: string, displayName: string) => Promise<UserProfile>;
     signIn: (email: string, password: string) => Promise<UserProfile>;
-    signInWithGoogle: () => Promise<UserProfile>;
+
     signOut: () => Promise<void>;
     sendPasswordResetEmail: (email: string) => Promise<void>;
     updateUserProfile: (updates: Partial<UserProfile>) => Promise<void>;
@@ -82,16 +82,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
         }
     };
 
-    const signInWithGoogle = async (): Promise<UserProfile> => {
-        try {
-            const userProfile = await awsService.signInWithGoogle();
-            setUserProfile(userProfile);
-            return userProfile;
-        } catch (error) {
-            console.error('Google sign in error:', error);
-            throw error;
-        }
-    };
+
 
     const signOut = async (): Promise<void> => {
         try {
@@ -158,7 +149,6 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
         loading,
         signUp,
         signIn,
-        signInWithGoogle,
         signOut,
         sendPasswordResetEmail,
         updateUserProfile,
